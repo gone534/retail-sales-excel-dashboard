@@ -1,1 +1,1831 @@
-x
+OrderID,Order Date,Region,Sales Rep,Customer Name,Category,Product,Quantity,Unit Price,Discount,Sales
+ORD-1562,02-07-2024,N.,M. Ansah,Fiifi Adjei,Fashion,Sneakers,7,195.39,0.05,1299.34
+ORD-2615,05-13-2024,West,S. Addo,Adwoa Osei,Home & Kitchen,Non-stick Pan,5,142.7,0.05,677.82
+ORD-2308,02-Jun-2024,East,P. Amoah,Akua Boateng,Fashion,Cotton T-Shirt,2,229.61,0.15,390.34
+ORD-2324,09-12-2024,NORTH,S. Addo,Efua Osei,Fashion,Sneakers,6,192.04,0.1,1037.02
+ORD-1930,14/12/2024,South,M. Ansah,Kojo Asante,Groceries,Rice 5kg,3,193.36,0.1,522.07
+ORD-2442,30-Oct-2024,SOUTH,S. Addo,Akua Danso,Home & Kitchen,Non-stick Pan,2,214.03,0.0,428.06
+ORD-2171,01-31-2024,Central,R. Ofori,Kwame Osei,Beauty,Lip Balm Set,12,203.86,0.0,2446.32
+ORD-1739,14/04/2024,south,P. Amoah,Kweku Owusu,Beauty,Hair Oil,3,96.46,0.0,289.38
+ORD-2580,03-Oct-2024,East,S. Addo,Efua Mensah,Electronics,USB-C Cable,11,234.58,0.0,2580.38
+ORD-1308,06-28-2024,east,J. Tetteh,Kwabena Asante,Electronics,Smartphone Case,12,197.82,0.0,2373.84
+ORD-2485,23/06/2024,SOUTH,J. Tetteh,Kwame Darko,Electronics,Laptop Stand,3,114.53,0.15,292.05
+ORD-1339,09-28-2024,North,R. Ofori,Kwesi Owusu,Groceries,Cooking Oil 1L,3,106.21,0.0,318.63
+ORD-2320,2024-12-25,south,J. Tetteh,Kwaku Asante,Home & Kitchen,Table Lamp,6,51.11,0.0,306.66
+ORD-2640,06-16-2024,north,P. Amoah,Akosua Appiah,Fashion,Denim Jeans,3,99.91,0.0,299.73
+ORD-1438,21/10/2024,N.,P. Amoah,Afia Asante,Electronics,Smartphone Case,5,244.95,0.0,1224.75
+ORD-1298,10-16-2024,WEST,S. Addo,Yaa Osei,Fashion,Sneakers,3,100.15,0.0,300.45
+ORD-2178,10-27-2024,east,M. Ansah,Akua Appiah,Groceries,Pasta Pack,7,133.22,0.05,885.91
+ORD-1595,2024-11-27,east,M. Ansah,Efua Appiah,Beauty,Shea Butter Lotion,4,142.39,0.0,569.56
+ORD-2660,29-Jul-2024,N.,J. Tetteh,Yaa Adjei,Groceries,Pasta Pack,3,239.09,0.0,717.27
+ORD-2039,25-Dec-2024,central,R. Ofori,,Electronics,USB-C Cable,2,139.64,0.05,265.32
+ORD-2459,28/09/2024,north,J. Tetteh,Nana Adjei,Beauty,Face Wash,8,14.93,0.0,119.44
+ORD-1868,02-Aug-2024,central,P. Amoah,Efua Asante,Electronics,Laptop Stand,6,49.86,0.05,284.2
+ORD-1732,2024-08-15,north,P. Amoah,Kwabena Asante,Electronics,Smartphone Case,10,202.7,0.0,2027.0
+ORD-1389,25/06/2024,central,M. Ansah,Kojo Adjei,Beauty,Lip Balm Set,11,106.1,0.1,1050.39
+ORD-1500,2024-11-09,west,R. Ofori,Nana Appiah,Electronics,Power Bank,8,132.56,0.05,1007.46
+ORD-1287,2024-10-17,North,P. Amoah,Nana Owusu,Beauty,Shampoo 400ml,3,111.57,0.0,334.71
+ORD-1528,10-04-2024,North,M. Ansah,Kwesi Owusu,Beauty,Lip Balm Set,5,139.59,0.0,697.95
+ORD-2275,05-Jun-2024,West,R. Ofori,Adwoa Danso,Fashion,Sunglasses,5,248.11,0.15,1054.47
+ORD-1855,2024-09-07,WEST,P. Amoah,Yaa Agyeman,Electronics,USB-C Cable,10,132.13,0.1,1189.17
+ORD-1375,05/04/2024,East,J. Tetteh,Kweku Boateng,Home & Kitchen,Non-stick Pan,2,185.09,0.05,351.67
+ORD-1546,07-29-2024,Central,S. Addo,Adjoa Agyeman,Beauty,Hair Oil,1,13.2,0.1,11.88
+ORD-1340,2024-04-02,south,S. Addo,Kweku Boateng,Groceries,Pasta Pack,11,124.46,0.0,1369.06
+ORD-2226,25/06/2024,south,R. Ofori,Kwaku Osei,Fashion,Cotton T-Shirt,10,159.03,0.05,1510.78
+ORD-2368,10-Jul-2024,East,S. Addo,Adwoa Owusu,Home & Kitchen,Non-stick Pan,7,133.16,0.0,932.12
+ORD-1484,2024-02-13,south,M. Ansah,Kwabena Appiah,Electronics,Bluetooth Speaker,4,186.2,0.1,670.32
+ORD-2318,13/06/2024,WEST,R. Ofori,Ama Owusu,Home & Kitchen,Electric Kettle,4,121.63,0.15,413.54
+ORD-2152,06-21-2024,north,J. Tetteh,Nana Agyeman,Beauty,Shea Butter Lotion,1,108.52,0.0,108.52
+ORD-2173,04-17-2024,south,R. Ofori,Yaw Asante,Groceries,Sugar 1kg,11,28.8,0.15,269.28
+ORD-2133,21/01/2024,east,S. Addo,Adwoa Darko,Beauty,Face Wash,9,191.98,0.0,1727.82
+ORD-1351,2024-02-08,North,P. Amoah,Yaw Owusu,Beauty,Hair Oil,11,226.67,0.0,2493.37
+ORD-1976,25/05/2024,NORTH,R. Ofori,Kwaku Mensah,Electronics,Laptop Stand,7,211.2,0.0,1478.4
+ORD-1378,04/02/2024,East,P. Amoah,Adjoa Boateng,Fashion,Sunglasses,9,106.9,0.05,914.0
+ORD-1527,2024-12-09,South,R. Ofori,Yaa Appiah,Fashion,Leather Wallet,3,71.8,0.0,215.4
+ORD-1037,23/09/2024,WEST,J. Tetteh,Ama Darko,Home & Kitchen,Non-stick Pan,2,94.23,0.15,160.19
+ORD-2412,08-Sep-2024,N.,J. Tetteh,Efua Darko,Beauty,Face Wash,7,182.42,0.0,1276.94
+ORD-1660,31/08/2024,WEST,,Fiifi Agyeman,Fashion,Cotton T-Shirt,3,241.01,0.0,723.03
+ORD-1830,2024-04-18,North,J. Tetteh,Kwaku Mensah,Fashion,Cotton T-Shirt,9,97.04,0.0,873.36
+ORD-1410,01-Jan-2024,North,P. Amoah,Yaw Danso,Electronics,USB-C Cable,6,132.9,0.0,797.4
+ORD-2606,2024-03-01,east,P. Amoah,Yaw Adjei,Home & Kitchen,Table Lamp,7,204.04,0.0,1428.28
+ORD-2678,27/10/2024,North,J. Tetteh,Kojo Asante,Electronics,Smartphone Case,10,92.65,0.15,787.52
+ORD-1278,08-07-2024,south,S. Addo,Esi Mensah,Home & Kitchen,Non-stick Pan,5,133.34,0.15,566.7
+ORD-2288,2024-05-29,east,M. Ansah,Nana Darko,Home & Kitchen,Blender,11,60.18,0.0,661.98
+ORD-2676,30-Sep-2024,Central,S. Addo,Kwaku Asante,Electronics,Power Bank,9,135.51,0.0,1219.59
+ORD-1442,2024-07-22,SOUTH,M. Ansah,Kojo Asante,Home & Kitchen,Non-stick Pan,8,28.41,0.1,204.55
+ORD-1699,04-13-2024,west,M. Ansah,Kweku Danso,Groceries,Rice 5kg,7,144.51,0.0,1011.57
+ORD-1972,2024-12-18,east,S. Addo,Esi Mensah,Home & Kitchen,Non-stick Pan,4,180.62,0.05,686.36
+ORD-1386,2024-07-02,Central,J. Tetteh,Kwaku Mensah,Beauty,Shea Butter Lotion,11,76.01,0.0,836.11
+ORD-1116,23/06/2024,North,R. Ofori,Nana Darko,Beauty,Shampoo 400ml,0,95.66,0.0,1147.92
+ORD-1058,2024-05-05,east,S. Addo,Kwaku Adjei,Groceries,Canned Tomatoes,8,73.34,0.0,586.72
+ORD-1241,12/10/2024,North,P. Amoah,Adjoa Agyeman,Electronics,Smartphone Case,7,114.22,0.05,759.56
+ORD-1229,01-03-2024,SOUTH,J. Tetteh,Efua Owusu,Groceries,Sugar 1kg,5,113.96,0.0,569.8
+ORD-1947,06-Apr-2024,West,M. Ansah,Esi Mensah,Groceries,Pasta Pack,3,175.63,0.1,474.2
+ORD-1412,2024-04-06,South,S. Addo,Yaa Darko,Fashion,Sunglasses,1,178.74,0.1,160.87
+ORD-1800,11/12/2024,East,J. Tetteh,Akua Asante,Groceries,Sugar 1kg,1,113.3,0.15,96.3
+ORD-2329,22-Mar-2024,South,R. Ofori,Adwoa Darko,Groceries,Pasta Pack,1,242.43,0.0,242.43
+ORD-2794,17-Oct-2024,west,M. Ansah,Afia Asante,Home & Kitchen,Non-stick Pan,5,89.23,0.15,379.23
+ORD-2268,01/10/2024,East,M. Ansah,Afia Osei,Home & Kitchen,Electric Kettle,2,244.06,0.15,414.9
+ORD-2281,11-30-2024,SOUTH,M. Ansah,Kwaku Adjei,Fashion,Sneakers,1,105.25,0.05,99.99
+ORD-2501,14/09/2024,N.,J. Tetteh,Fiifi Owusu,Home & Kitchen,Storage Containers,5,231.58,0.0,1157.9
+ORD-1396,29/10/2024,North,R. Ofori,Kwaku Danso,Beauty,Shea Butter Lotion,9,227.04,0.0,2043.36
+ORD-1172,05-15-2024,west,M. Ansah,Esi Darko,Beauty,Shea Butter Lotion,6,192.14,0.0,1152.84
+ORD-2382,2024-08-30,West,R. Ofori,Yaa Owusu,Beauty,Face Wash,9,73.33,0.15,560.97
+ORD-1993,04-22-2024,East,J. Tetteh,Nana Darko,Beauty,Hair Oil,3,126.32,0.0,378.96
+ORD-1688,17-Jul-2024,East,R. Ofori,Kwabena Osei,Fashion,Sunglasses,10,70.78,0.05,672.41
+ORD-2458,10/06/2024,N.,M. Ansah,Afia Danso,Groceries,Canned Tomatoes,5,115.07,0.15,489.05
+ORD-2464,2024-03-20,NORTH,J. Tetteh,Yaa Owusu,Fashion,Sunglasses,1,213.99,0.0,213.99
+ORD-1725,24/09/2024,West,J. Tetteh,Kwaku Adjei,Electronics,Smartphone Case,5,33.85,0.0,169.25
+ORD-1918,2024-07-12,South,M. Ansah,Yaw Owusu,Home & Kitchen,Blender,7,175.55,0.0,1228.85
+ORD-1593,2024-09-28,east,S. Addo,Kojo Darko,Electronics,Laptop Stand,5,77.66,0.15,330.05
+ORD-1788,04-29-2024,north,M. Ansah,Nana Adjei,Home & Kitchen,Blender,2,166.59,0.05,316.52
+ORD-2790,05-06-2024,SOUTH,S. Addo,Esi Mensah,Beauty,Shampoo 400ml,7,21.39,0.05,142.24
+ORD-2384,12-03-2024,north,R. Ofori,Akua Asante,Electronics,Power Bank,8,141.56,0.0,1132.48
+ORD-2654,11/08/2024,central,R. Ofori,Kofi Darko,Home & Kitchen,Storage Containers,10,24.34,0.0,243.4
+ORD-1452,2024-08-12,North,M. Ansah,Abena Adjei,Home & Kitchen,Blender,3,62.04,0.0,186.12
+ORD-1002,2024-06-21,north,M. Ansah,Kofi Boateng,Groceries,Sugar 1kg,2,27.72,0.0,55.44
+ORD-1993,04-22-2024,East,J. Tetteh,Nana Darko,Beauty,Hair Oil,3,126.32,0.0,378.96
+ORD-2703,04/03/2024,south,M. Ansah,Akua Adjei,Fashion,Sunglasses,5,128.35,0.0,641.75
+ORD-1377,12-04-2024,South,P. Amoah,Afia Mensah,Home & Kitchen,Non-stick Pan,10,125.18,0.1,1126.62
+ORD-2084,11-02-2024,south,R. Ofori,Adwoa Osei,Home & Kitchen,Non-stick Pan,5,138.14,0.0,690.7
+ORD-2201,19/06/2024,South,S. Addo,Adjoa Osei,Fashion,Sneakers,12,171.03,0.0,2052.36
+ORD-2526,03-07-2024,east,R. Ofori,Kwame Asante,Fashion,Denim Jeans,9,181.95,0.05,1555.67
+ORD-1702,23-Dec-2024,west,R. Ofori,Afia Appiah,Electronics,USB-C Cable,5,10.1,0.15,42.92
+ORD-1140,2024-06-27,WEST,R. Ofori,Kojo Asante,Home & Kitchen,Storage Containers,7,106.65,0.1,671.9
+ORD-1729,17/07/2024,SOUTH,R. Ofori,Afia Danso,Fashion,Cotton T-Shirt,6,225.56,0.1,1218.02
+ORD-1920,03-12-2024,North,R. Ofori,Yaw Boateng,Beauty,Hair Oil,12,120.2,0.0,1442.4
+ORD-1848,29/05/2024,WEST,R. Ofori,Yaw Osei,Home & Kitchen,Table Lamp,12,56.39,0.0,676.68
+ORD-2081,10/12/2024,North,M. Ansah,Kwaku Darko,Home & Kitchen,Electric Kettle,3,70.0,0.05,199.5
+ORD-1071,16/05/2024,Central,M. Ansah,Yaa Asante,Groceries,Rice 5kg,3,22.5,0.0,67.5
+ORD-2396,03-12-2024,west,P. Amoah,Akosua Asante,Fashion,Sunglasses,11,51.54,0.0,566.94
+ORD-1927,2024-01-24,East,R. Ofori,Ama Danso,Beauty,Lip Balm Set,5,82.07,0.0,410.35
+ORD-2595,29-Dec-2024,central,P. Amoah,Kwesi Owusu,Electronics,Bluetooth Speaker,1,95.46,0.15,81.14
+ORD-2445,08/04/2024,North,J. Tetteh,Ama Danso,Beauty,Shea Butter Lotion,8,224.78,0.0,1798.24
+ORD-1765,23-Feb-2024,east,M. Ansah,Akosua Appiah,Beauty,Face Wash,1,219.65,0.05,208.67
+ORD-1804,28/04/2024,SOUTH,J. Tetteh,Nana Darko,Home & Kitchen,Table Lamp,6,30.94,0.0,185.64
+ORD-1275,14/04/2024,Central,P. Amoah,Abena Owusu,Fashion,Cotton T-Shirt,7,136.42,0.1,859.45
+ORD-1004,2024-04-29,East,J. Tetteh,Adjoa Adjei,Electronics,Wireless Earbuds,8,98.13,0.15,667.28
+ORD-1928,01/07/2024,east,R. Ofori,Kwabena Appiah,Groceries,Pasta Pack,2,177.15,0.0,354.3
+ORD-1431,2024-12-18,south,S. Addo,Kwesi Osei,Electronics,Laptop Stand,4,7.9,0.05,30.02
+ORD-2346,2024-03-22,WEST,R. Ofori,Kojo Asante,Home & Kitchen,Table Lamp,5,191.88,0.0,959.4
+ORD-2589,2024-07-07,central,M. Ansah,Nana Boateng,Beauty,Shea Butter Lotion,1,175.4,0.15,149.09
+ORD-1630,26/02/2024,Central,R. Ofori,Fiifi Owusu,Groceries,Rice 5kg,6,126.47,0.15,645.0
+ORD-2717,2024-09-12,South,P. Amoah,Yaw Owusu,Beauty,Shea Butter Lotion,3,101.01,0.1,272.73
+ORD-1185,27/10/2024,central,P. Amoah,Yaw Owusu,Beauty,Face Wash,11,64.4,0.1,637.56
+ORD-2094,18-Feb-2024,West,M. Ansah,Yaa Danso,Electronics,Laptop Stand,10,52.6,0.0,526.0
+ORD-2294,11/05/2024,central,R. Ofori,Abena Boateng,Home & Kitchen,Electric Kettle,1,95.18,0.05,90.42
+ORD-2680,2024-12-24,east,S. Addo,Esi Darko,Beauty,Lip Balm Set,6,227.95,0.0,1367.7
+ORD-1374,14/08/2024,East,P. Amoah,Kofi Asante,Electronics,Laptop Stand,12,228.31,0.15,2328.76
+ORD-1705,21-Feb-2024,West,R. Ofori,Akua Danso,Home & Kitchen,Electric Kettle,8,236.05,0.0,1888.4
+ORD-2236,2024-06-28,West,M. Ansah,Kwaku Asante,Groceries,Canned Tomatoes,5,60.44,0.0,302.2
+ORD-1783,07-Aug-2024,central,M. Ansah,Kojo Appiah,Groceries,Sugar 1kg,8,56.35,0.1,405.72
+ORD-2274,25-Jul-2024,east,R. Ofori,Kwabena Adjei,Home & Kitchen,Storage Containers,8,97.38,0.0,779.04
+ORD-2692,08-11-2024,east,S. Addo,Akosua Mensah,Groceries,Canned Tomatoes,5,44.65,0.0,223.25
+ORD-2334,15-Oct-2024,Central,R. Ofori,Adjoa Asante,Beauty,Lip Balm Set,6,223.19,0.1,1205.23
+ORD-2770,2024-05-05,North,S. Addo,Akosua Mensah,Beauty,Shea Butter Lotion,9,161.12,0.1,1305.07
+ORD-1640,18-Jul-2024,central,S. Addo,Akosua Boateng,Home & Kitchen,Storage Containers,10,192.18,0.15,1633.53
+ORD-1127,2024-10-29,south,S. Addo,Kweku Adjei,Electronics,USB-C Cable,2,91.23,0.0,182.46
+ORD-2058,10-19-2024,West,S. Addo,Adjoa Asante,Beauty,Shea Butter Lotion,11,208.14,0.05,2175.06
+ORD-1344,08-21-2024,central,S. Addo,Ama Adjei,Home & Kitchen,Blender,11,111.25,0.0,1223.75
+ORD-2779,2024-12-28,West,J. Tetteh,Yaa Agyeman,Electronics,USB-C Cable,6,188.85,0.0,1133.1
+ORD-1489,2024-09-29,south,P. Amoah,Fiifi Osei,Beauty,Shea Butter Lotion,9,50.67,0.05,433.23
+ORD-1742,2024-07-21,north,J. Tetteh,Kojo Adjei,Beauty,Lip Balm Set,12,208.47,0.1,2251.48
+ORD-1281,08-01-2024,South,M. Ansah,Adjoa Appiah,Beauty,Hair Oil,2,71.46,0.1,128.63
+ORD-1948,07-08-2024,West,J. Tetteh,Kwabena Danso,Fashion,Denim Jeans,5,8.97,0.1,40.37
+ORD-2189,2024-04-01,West,M. Ansah,Adwoa Osei,Fashion,Sunglasses,11,191.31,0.0,2104.41
+ORD-2238,04-Dec-2024,NORTH,M. Ansah,Afia Osei,Beauty,Shea Butter Lotion,2,78.21,0.1,140.78
+ORD-1898,11-28-2024,East,J. Tetteh,Yaa Owusu,Home & Kitchen,Electric Kettle,6,160.01,0.0,960.06
+ORD-1423,2024-06-23,WEST,S. Addo,Kojo Agyeman,Electronics,Power Bank,5,201.72,0.1,907.74
+ORD-1540,09-Nov-2024,east,J. Tetteh,Kojo Danso,Groceries,Sugar 1kg,5,212.67,0.0,1063.35
+ORD-2051,01-08-2024,central,M. Ansah,Kweku Asante,Home & Kitchen,Storage Containers,5,200.9,0.0,1004.5
+ORD-2374,28-Jun-2024,west,P. Amoah,Akosua Danso,Beauty,Shea Butter Lotion,7,248.69,0.0,1740.83
+ORD-2146,2024-12-11,central,R. Ofori,Akosua Agyeman,Electronics,Bluetooth Speaker,6,41.84,0.15,213.38
+ORD-1419,26/05/2024,SOUTH,P. Amoah,Kwame Asante,Groceries,Canned Tomatoes,10,13.23,0.1,119.07
+ORD-1471,20-Nov-2024,west,,Fiifi Appiah,Fashion,Sunglasses,6,207.41,0.1,1120.01
+ORD-1204,2024-02-21,N.,J. Tetteh,Adjoa Asante,Beauty,Shea Butter Lotion,11,114.38,0.15,1069.45
+ORD-1284,06/10/2024,Central,M. Ansah,Kwaku Osei,Groceries,Sugar 1kg,7,41.89,0.0,293.23
+ORD-1620,2024-03-14,east,S. Addo,Yaa Danso,Fashion,Cotton T-Shirt,5,38.55,0.0,192.75
+ORD-1146,2024-10-10,central,P. Amoah,Yaa Agyeman,Electronics,Power Bank,8,100.66,0.0,805.28
+ORD-1981,18/05/2024,NORTH,R. Ofori,Fiifi Danso,Electronics,Smartphone Case,10,231.59,0.05,2200.11
+ORD-2502,2024-01-14,WEST,M. Ansah,Kweku Agyeman,Fashion,Leather Wallet,10,245.27,0.0,2452.7
+ORD-1870,2024-10-21,North,M. Ansah,Adjoa Owusu,Electronics,Laptop Stand,5,25.72,0.1,115.74
+ORD-1372,01-17-2024,East,P. Amoah,Abena Asante,Electronics,Laptop Stand,2,204.44,0.1,367.99
+ORD-2116,10-27-2024,north,J. Tetteh,Kwesi Asante,Groceries,Sugar 1kg,6,85.47,0.0,512.82
+ORD-2592,12-15-2024,south,M. Ansah,Akua Asante,Beauty,Face Wash,4,198.44,0.0,793.76
+ORD-1517,06-02-2024,South,S. Addo,Kofi Owusu,Home & Kitchen,Non-stick Pan,2,192.92,0.15,327.96
+ORD-1200,02/04/2024,North,R. Ofori,Ama Adjei,Electronics,USB-C Cable,12,192.63,0.15,1964.83
+ORD-1313,20-Jul-2024,central,J. Tetteh,Adjoa Owusu,Fashion,Leather Wallet,6,42.63,0.0,255.78
+ORD-2662,2024-10-18,South,,Afia Adjei,Beauty,Lip Balm Set,8,248.94,0.0,1991.52
+ORD-2479,2024-11-18,South,J. Tetteh,Akua Danso,Fashion,Denim Jeans,12,120.23,0.15,1226.35
+ORD-2748,04-19-2024,central,S. Addo,Kojo Osei,Home & Kitchen,Electric Kettle,9,112.27,0.0,1010.43
+ORD-1370,02-Sep-2024,SOUTH,P. Amoah,Esi Appiah,Beauty,Face Wash,9,170.19,0.0,1531.71
+ORD-1111,09/07/2024,West,J. Tetteh,Kojo Darko,Electronics,Wireless Earbuds,10,141.31,0.1,1271.79
+ORD-1945,11/11/2024,West,P. Amoah,Kwabena Owusu,Beauty,Lip Balm Set,12,84.31,0.15,859.96
+ORD-1341,22/10/2024,East,M. Ansah,Kofi Asante,Electronics,USB-C Cable,2,124.95,0.0,249.9
+ORD-1141,2024-06-12,East,J. Tetteh,Efua Asante,Groceries,Rice 5kg,11,210.6,0.0,2316.6
+ORD-1179,2024-04-07,central,J. Tetteh,,Home & Kitchen,Electric Kettle,7,113.05,0.0,791.35
+ORD-1757,01-29-2024,N.,R. Ofori,Yaw Mensah,Fashion,Cotton T-Shirt,7,154.63,0.0,1082.41
+ORD-2117,2024-07-22,Central,R. Ofori,Ama Adjei,Beauty,Face Wash,12,248.96,0.0,2987.52
+ORD-1537,19-Feb-2024,West,P. Amoah,Kweku Appiah,Beauty,Lip Balm Set,7,48.16,0.0,337.12
+ORD-1995,2024-03-13,south,R. Ofori,Akua Appiah,Electronics,Bluetooth Speaker,7,168.18,0.0,1177.26
+ORD-1664,2024-08-04,NORTH,S. Addo,Adwoa Darko,Electronics,USB-C Cable,12,206.98,0.0,2483.76
+ORD-1619,18/02/2024,east,,Kwesi Asante,Beauty,Shea Butter Lotion,6,138.21,0.15,704.87
+ORD-2272,08/09/2024,Central,M. Ansah,Efua Boateng,Fashion,Denim Jeans,1,199.54,0.0,199.54
+ORD-2630,2024-06-27,Central,P. Amoah,Kwaku Boateng,Electronics,Bluetooth Speaker,0,27.66,0.05,105.11
+ORD-1504,2024-03-04,Central,M. Ansah,Kofi Appiah,Groceries,Rice 5kg,8,32.97,0.15,224.2
+ORD-2696,01/03/2024,East,M. Ansah,Akosua Boateng,Electronics,Wireless Earbuds,3,42.28,0.05,120.5
+ORD-2556,04/07/2024,Central,P. Amoah,Adjoa Appiah,Beauty,Lip Balm Set,9,225.14,0.0,2026.26
+ORD-2405,2024-03-23,South,J. Tetteh,Yaa Danso,Groceries,Cooking Oil 1L,10,144.95,0.0,1449.5
+ORD-1357,26/12/2024,west,J. Tetteh,Kofi Appiah,Electronics,Wireless Earbuds,11,244.58,0.0,2690.38
+ORD-1789,19/07/2024,NORTH,R. Ofori,Akua Appiah,Beauty,Shea Butter Lotion,3,247.45,0.1,668.11
+ORD-2667,06/01/2024,Central,R. Ofori,Kwesi Appiah,Beauty,Hair Oil,1,20.12,0.0,20.12
+ORD-2425,2024-03-13,south,M. Ansah,Abena Darko,Beauty,Shampoo 400ml,8,225.62,0.0,1804.96
+ORD-2399,2024-01-02,Central,R. Ofori,Nana Agyeman,Fashion,Cotton T-Shirt,5,51.29,0.05,243.63
+ORD-2799,30/04/2024,east,P. Amoah,Ama Appiah,Home & Kitchen,Non-stick Pan,4,65.15,0.0,260.6
+ORD-1047,31-Jul-2024,South,J. Tetteh,Yaw Asante,Home & Kitchen,Storage Containers,8,86.07,0.05,654.13
+ORD-2669,09-12-2024,central,P. Amoah,Kojo Boateng,Electronics,Laptop Stand,10,198.91,0.15,1690.73
+ORD-2041,2024-01-30,WEST,M. Ansah,Ama Mensah,Beauty,Lip Balm Set,8,18.88,0.0,151.04
+ORD-1095,03-25-2024,South,S. Addo,Kwesi Agyeman,Beauty,Face Wash,8,228.94,0.0,1831.52
+ORD-2584,2024-11-18,south,P. Amoah,Afia Agyeman,Beauty,Face Wash,5,163.58,0.0,817.9
+ORD-2527,07-18-2024,South,J. Tetteh,Kojo Osei,Fashion,Leather Wallet,11,236.64,0.05,2472.89
+ORD-1367,07-17-2024,WEST,J. Tetteh,Akua Boateng,Home & Kitchen,Table Lamp,7,128.51,0.05,854.59
+ORD-2137,2024-07-10,south,P. Amoah,Adjoa Boateng,Electronics,Laptop Stand,6,121.95,0.0,731.7
+ORD-1206,14/03/2024,central,S. Addo,Fiifi Asante,Beauty,Lip Balm Set,5,106.32,0.0,531.6
+ORD-1007,25-Nov-2024,north,R. Ofori,Kwabena Osei,Beauty,Face Wash,3,40.0,0.0,120.0
+ORD-1101,12-17-2024,East,J. Tetteh,Adjoa Appiah,Groceries,Canned Tomatoes,11,138.39,0.0,1522.29
+ORD-1671,04-07-2024,central,M. Ansah,Esi Asante,Groceries,Canned Tomatoes,8,75.55,0.05,574.18
+ORD-1718,2024-08-04,North,S. Addo,Kofi Asante,Beauty,Lip Balm Set,6,184.34,0.0,1106.04
+ORD-2689,09/06/2024,SOUTH,R. Ofori,Nana Asante,Beauty,Lip Balm Set,12,105.64,0.15,1077.53
+ORD-2488,14-Apr-2024,South,S. Addo,Kweku Agyeman,Electronics,Laptop Stand,5,32.05,0.0,160.25
+ORD-1674,2024-02-07,east,S. Addo,Akosua Danso,Home & Kitchen,Storage Containers,1,141.46,0.0,141.46
+ORD-1754,06-17-2024,north,M. Ansah,Adjoa Asante,Groceries,Rice 5kg,11,20.4,0.0,224.4
+ORD-1715,08/11/2024,central,,Kwame Adjei,Fashion,Leather Wallet,8,176.57,0.15,1200.68
+ORD-1108,11-15-2024,NORTH,S. Addo,Kojo Boateng,Beauty,Shampoo 400ml,10,98.32,0.1,884.88
+ORD-1263,2024-08-21,North,R. Ofori,Esi Boateng,Groceries,Rice 5kg,7,248.0,0.0,1736.0
+ORD-1426,08/02/2024,NORTH,S. Addo,Kojo Darko,Home & Kitchen,Non-stick Pan,6,121.76,0.0,730.56
+ORD-1299,02/07/2024,East,P. Amoah,Ama Osei,Electronics,Smartphone Case,2,243.63,0.0,487.26
+ORD-2049,01-15-2024,East,M. Ansah,Kofi Danso,Beauty,Face Wash,10,182.82,0.05,1736.79
+ORD-2743,2024-01-23,East,M. Ansah,Kwaku Boateng,Groceries,Rice 5kg,7,118.28,0.1,745.16
+ORD-2635,30/05/2024,central,J. Tetteh,Afia Asante,Home & Kitchen,Electric Kettle,6,110.7,0.0,664.2
+ORD-1657,2024-09-13,East,P. Amoah,Adjoa Owusu,Groceries,Cooking Oil 1L,10,132.88,0.1,1195.92
+ORD-1060,2024-04-07,east,P. Amoah,Yaa Mensah,Beauty,Face Wash,7,64.13,0.05,426.46
+ORD-2047,15-Jul-2024,central,P. Amoah,Ama Adjei,Fashion,Cotton T-Shirt,7,9.62,0.05,63.97
+ORD-2495,10-16-2024,west,P. Amoah,Kwabena Darko,Fashion,Sunglasses,8,28.54,0.1,205.49
+ORD-2215,05-20-2024,East,J. Tetteh,Nana Osei,Electronics,Laptop Stand,4,16.12,0.0,64.48
+ORD-1510,2024-01-26,South,J. Tetteh,Abena Appiah,Beauty,Lip Balm Set,3,107.15,0.0,321.45
+ORD-1869,2024-11-21,central,,Kwesi Asante,Fashion,Sneakers,7,237.13,0.0,1659.91
+ORD-1194,12-17-2024,South,R. Ofori,Abena Boateng,Electronics,USB-C Cable,11,174.12,0.0,1915.32
+ORD-2670,09-Dec-2024,WEST,P. Amoah,Kweku Darko,Beauty,Shampoo 400ml,1,167.82,0.0,167.82
+ORD-1663,11-19-2024,East,R. Ofori,Kwabena Boateng,Home & Kitchen,Non-stick Pan,11,220.47,0.05,2303.91
+ORD-1858,09-22-2024,East,J. Tetteh,Adjoa Adjei,Groceries,Rice 5kg,8,166.49,0.0,1331.92
+ORD-1933,31/05/2024,East,M. Ansah,Kweku Appiah,Groceries,Rice 5kg,10,21.7,0.0,217.0
+ORD-2303,02-03-2024,NORTH,S. Addo,Yaw Asante,Fashion,Denim Jeans,6,157.69,0.1,851.53
+ORD-2457,01-23-2024,WEST,R. Ofori,Abena Agyeman,Beauty,Lip Balm Set,7,86.49,0.1,544.89
+ORD-1572,2024-08-29,Central,J. Tetteh,Yaw Osei,Electronics,Wireless Earbuds,11,64.46,0.0,709.06
+ORD-2682,28-Aug-2024,east,J. Tetteh,Akosua Darko,Electronics,Power Bank,12,224.66,0.0,2695.92
+ORD-1631,25-May-2024,East,R. Ofori,Adwoa Owusu,Electronics,Smartphone Case,5,152.1,0.15,646.42
+ORD-2132,21-Aug-2024,south,P. Amoah,Kwame Osei,Beauty,Shampoo 400ml,8,184.08,0.0,1472.64
+ORD-1707,14/10/2024,NORTH,J. Tetteh,Afia Asante,Groceries,Rice 5kg,6,124.16,0.0,744.96
+ORD-2249,15-May-2024,west,M. Ansah,Akua Darko,Beauty,Hair Oil,8,90.9,0.0,727.2
+ORD-1353,05/12/2024,WEST,M. Ansah,Ama Mensah,Electronics,Wireless Earbuds,8,85.52,0.1,615.74
+ORD-2386,09-25-2024,West,J. Tetteh,Kwesi Mensah,Fashion,Cotton T-Shirt,1,148.47,0.0,148.47
+ORD-2524,12/07/2024,SOUTH,M. Ansah,Adjoa Agyeman,Groceries,Canned Tomatoes,2,134.44,0.05,255.44
+ORD-2323,06-12-2024,N.,J. Tetteh,Kweku Mensah,Electronics,Laptop Stand,10,176.03,0.15,1496.25
+ORD-1454,08-May-2024,east,M. Ansah,Adwoa Boateng,Electronics,Power Bank,2,207.92,0.15,353.46
+ORD-2145,08-18-2024,West,P. Amoah,Kofi Owusu,Fashion,Sneakers,12,196.35,0.0,2356.2
+ORD-2549,2024-11-10,Central,S. Addo,Kwabena Asante,Groceries,Rice 5kg,11,18.08,0.0,198.88
+ORD-1028,10/10/2024,NORTH,J. Tetteh,Kofi Owusu,Electronics,Bluetooth Speaker,10,71.73,0.0,717.3
+ORD-1328,05-03-2024,east,J. Tetteh,Nana Owusu,Groceries,Pasta Pack,8,124.75,0.0,998.0
+ORD-1237,2024-12-15,East,M. Ansah,Kwaku Agyeman,Beauty,Shampoo 400ml,8,238.49,0.15,1621.73
+ORD-2400,04-11-2024,WEST,R. Ofori,Kwesi Danso,Beauty,Face Wash,7,17.49,0.15,104.07
+ORD-2578,25-Jul-2024,central,J. Tetteh,Kweku Osei,Groceries,Rice 5kg,7,62.81,0.1,395.7
+ORD-1501,2024-07-17,north,P. Amoah,Nana Mensah,Beauty,Lip Balm Set,8,51.51,0.05,391.48
+ORD-2093,2024-05-18,South,M. Ansah,Nana Darko,Fashion,Cotton T-Shirt,9,23.75,0.15,181.69
+ORD-1224,2024-12-02,west,P. Amoah,Kofi Agyeman,Electronics,Wireless Earbuds,6,48.94,0.0,293.64
+ORD-2050,30-Sep-2024,WEST,S. Addo,Yaa Darko,Electronics,Wireless Earbuds,12,108.84,0.1,1175.47
+ORD-1051,07-13-2024,N.,S. Addo,Akua Mensah,Home & Kitchen,Storage Containers,6,56.86,0.0,341.16
+ORD-1768,11/04/2024,east,J. Tetteh,Efua Mensah,Home & Kitchen,Table Lamp,4,74.6,0.0,298.4
+ORD-2634,16/08/2024,north,J. Tetteh,Esi Danso,Home & Kitchen,Blender,11,182.13,0.15,1702.92
+ORD-2563,02-11-2024,North,S. Addo,Ama Danso,Groceries,Pasta Pack,2,159.32,0.15,270.84
+ORD-1635,31-Aug-2024,west,S. Addo,Kofi Darko,Beauty,Lip Balm Set,9,246.94,0.0,2222.46
+ORD-1020,01/05/2024,Central,J. Tetteh,Yaa Mensah,Electronics,Laptop Stand,8,104.57,0.0,836.56
+ORD-1350,16-Apr-2024,east,R. Ofori,Ama Agyeman,Fashion,Denim Jeans,1,86.0,0.0,86.0
+ORD-2352,29-Nov-2024,West,P. Amoah,Kwame Osei,Fashion,Sneakers,2,55.12,0.0,110.24
+ORD-1358,2024-03-17,Central,R. Ofori,Adwoa Appiah,Groceries,Cooking Oil 1L,3,7.85,0.1,21.19
+ORD-2194,26/11/2024,west,S. Addo,Ama Darko,Electronics,USB-C Cable,5,243.87,0.0,1219.35
+ORD-1470,07-24-2024,east,P. Amoah,Akua Boateng,Groceries,Rice 5kg,9,166.1,0.1,1345.41
+ORD-2267,16-Jun-2024,East,J. Tetteh,Kwesi Mensah,Home & Kitchen,Blender,10,80.03,0.1,720.27
+ORD-2784,2024-12-24,North,M. Ansah,Kwaku Danso,Groceries,Sugar 1kg,12,169.92,0.15,1733.18
+ORD-1716,04-11-2024,SOUTH,R. Ofori,Kweku Appiah,Beauty,Lip Balm Set,9,25.65,0.0,230.85
+ORD-1921,2024-11-24,WEST,J. Tetteh,Esi Boateng,Electronics,Smartphone Case,3,153.02,0.1,413.15
+ORD-1415,11-Oct-2024,WEST,P. Amoah,Akua Appiah,Beauty,Hair Oil,5,67.18,0.1,302.31
+ORD-1098,28-Nov-2024,NORTH,S. Addo,Kojo Osei,Beauty,Shampoo 400ml,1,33.59,0.0,33.59
+ORD-1363,01-02-2024,WEST,M. Ansah,Esi Owusu,Fashion,Sneakers,11,92.01,0.0,1012.11
+ORD-2327,04/04/2024,west,P. Amoah,Akua Boateng,Electronics,USB-C Cable,7,28.24,0.05,187.8
+ORD-2351,04-13-2024,east,M. Ansah,Kwesi Darko,Beauty,Face Wash,6,86.95,0.0,521.7
+ORD-1012,07-04-2024,Central,J. Tetteh,Adwoa Mensah,Beauty,Face Wash,4,63.67,0.1,229.21
+ORD-2062,21-Oct-2024,south,P. Amoah,Adjoa Danso,Electronics,Wireless Earbuds,2,137.05,0.1,246.69
+ORD-2279,24-Jan-2024,north,J. Tetteh,Kwaku Danso,Groceries,Cooking Oil 1L,12,55.48,0.0,665.76
+ORD-1167,21-Mar-2024,SOUTH,J. Tetteh,Kweku Owusu,Groceries,Sugar 1kg,8,106.83,0.0,854.64
+ORD-2697,2024-11-09,west,S. Addo,Nana Boateng,Groceries,Sugar 1kg,2,100.59,0.0,201.18
+ORD-1970,27-Oct-2024,East,S. Addo,Ama Agyeman,Groceries,Cooking Oil 1L,11,76.9,0.1,761.31
+ORD-1188,19-Jan-2024,Central,M. Ansah,Akua Darko,Beauty,Shea Butter Lotion,3,198.05,0.15,505.03
+ORD-2358,03/06/2024,NORTH,J. Tetteh,Abena Mensah,Groceries,Rice 5kg,4,69.37,0.0,277.48
+ORD-1043,05/08/2024,west,J. Tetteh,Yaw Mensah,Groceries,Cooking Oil 1L,12,48.09,0.1,519.37
+ORD-1612,04-Jun-2024,West,M. Ansah,Kojo Boateng,Beauty,Lip Balm Set,9,247.15,0.0,2224.35
+ORD-1009,14-Jul-2024,north,R. Ofori,Afia Owusu,Home & Kitchen,Storage Containers,9,134.63,0.0,1211.67
+ORD-2562,08/12/2024,North,J. Tetteh,Kwabena Owusu,Groceries,Pasta Pack,6,204.51,0.0,1227.06
+ORD-1147,2024-05-03,west,S. Addo,Efua Owusu,Fashion,Cotton T-Shirt,12,194.02,0.0,2328.24
+ORD-2729,2024-07-05,Central,J. Tetteh,Adwoa Danso,Groceries,Pasta Pack,10,95.89,0.05,910.95
+ORD-1013,03-Dec-2024,North,M. Ansah,Yaa Boateng,Groceries,Rice 5kg,3,236.98,0.0,710.94
+ORD-1795,2024-10-10,central,R. Ofori,Kwabena Osei,Electronics,Laptop Stand,2,248.85,0.0,497.7
+ORD-1359,06-18-2024,west,M. Ansah,Adwoa Appiah,Home & Kitchen,Blender,4,17.34,0.1,62.42
+ORD-1802,01-08-2024,East,J. Tetteh,Kwame Darko,Home & Kitchen,Blender,11,206.03,0.15,1926.38
+ORD-2128,17-Apr-2024,South,P. Amoah,Yaw Agyeman,Beauty,Hair Oil,11,90.0,0.0,990.0
+ORD-1586,23/05/2024,East,J. Tetteh,Ama Danso,Fashion,Denim Jeans,8,32.22,0.05,244.87
+ORD-1637,03-19-2024,N.,S. Addo,Nana Danso,Electronics,Bluetooth Speaker,2,157.38,0.0,314.76
+ORD-2489,03-Feb-2024,east,P. Amoah,Kwame Osei,Home & Kitchen,Storage Containers,11,90.22,0.0,992.42
+ORD-2410,16/04/2024,East,R. Ofori,Nana Boateng,Electronics,Power Bank,7,81.98,0.0,573.86
+ORD-2731,05-Apr-2024,WEST,P. Amoah,Kwesi Danso,Fashion,Sneakers,2,8.6,0.1,15.48
+ORD-1587,22/11/2024,West,M. Ansah,Abena Danso,Fashion,Denim Jeans,9,146.64,0.0,1319.76
+ORD-2723,2024-04-03,North,,Kwame Osei,Electronics,Bluetooth Speaker,5,95.66,0.0,478.3
+ORD-1492,14/07/2024,East,J. Tetteh,Nana Boateng,Home & Kitchen,Non-stick Pan,10,107.25,0.0,1072.5
+ORD-1455,18/02/2024,south,R. Ofori,Ama Asante,Groceries,Cooking Oil 1L,11,120.84,0.0,1329.24
+ORD-2073,2024-03-14,N.,M. Ansah,Nana Appiah,Fashion,Leather Wallet,12,204.43,0.15,2085.19
+ORD-1488,2024-02-25,N.,S. Addo,Nana Adjei,Electronics,Wireless Earbuds,11,76.66,0.05,801.1
+ORD-2168,2024-05-30,East,M. Ansah,Kwabena Appiah,Home & Kitchen,Storage Containers,4,224.14,0.1,806.9
+ORD-1115,02-Dec-2024,east,P. Amoah,Akua Boateng,Fashion,Cotton T-Shirt,12,22.05,0.15,224.91
+ORD-2162,29/06/2024,NORTH,R. Ofori,Nana Agyeman,Home & Kitchen,Electric Kettle,10,107.45,0.0,1074.5
+ORD-2467,24/09/2024,North,M. Ansah,,Electronics,Bluetooth Speaker,11,122.28,0.0,1345.08
+ORD-1096,10-12-2024,East,R. Ofori,Yaw Asante,Groceries,Rice 5kg,7,27.12,0.0,189.84
+ORD-2701,28/01/2024,East,M. Ansah,Yaw Owusu,Groceries,Rice 5kg,4,134.55,0.15,457.47
+ORD-1797,01-06-2024,west,J. Tetteh,Kwabena Darko,Fashion,Sneakers,3,33.1,0.0,99.3
+ORD-2749,06-Oct-2024,East,S. Addo,Ama Darko,Groceries,Pasta Pack,7,14.53,0.05,96.62
+ORD-1099,17-Jul-2024,east,M. Ansah,Adjoa Agyeman,Electronics,Wireless Earbuds,12,95.9,0.15,978.18
+ORD-2417,2024-11-04,east,M. Ansah,Adjoa Mensah,Groceries,Cooking Oil 1L,2,21.51,0.0,43.02
+ORD-2725,2024-06-02,west,S. Addo,Kwame Darko,Electronics,Wireless Earbuds,12,178.69,0.0,2144.28
+ORD-2767,05/01/2024,west,S. Addo,Akua Appiah,Groceries,Canned Tomatoes,6,44.37,0.0,266.22
+ORD-1449,26-Nov-2024,south,M. Ansah,Nana Asante,Beauty,Hair Oil,4,207.96,0.0,831.84
+ORD-2481,25/06/2024,West,S. Addo,Kwabena Agyeman,Beauty,Hair Oil,10,104.11,0.05,989.04
+ORD-1643,01-Jul-2024,East,S. Addo,Esi Darko,Fashion,Sneakers,11,91.06,0.0,1001.66
+ORD-1677,2024-06-09,NORTH,J. Tetteh,Yaw Adjei,Beauty,Hair Oil,8,244.74,0.0,1957.92
+ORD-1270,11-07-2024,south,P. Amoah,Yaa Danso,Electronics,Bluetooth Speaker,12,195.85,0.0,2350.2
+ORD-2752,02-10-2024,N.,S. Addo,Afia Appiah,Fashion,Sneakers,3,240.43,0.0,721.29
+ORD-1117,2024-12-11,Central,J. Tetteh,Akua Danso,Electronics,Bluetooth Speaker,11,71.67,0.05,748.95
+ORD-2208,04-15-2024,SOUTH,M. Ansah,Yaw Asante,Fashion,Sunglasses,1,49.49,0.1,44.54
+ORD-2261,17-Sep-2024,west,P. Amoah,,Beauty,Face Wash,9,40.34,0.15,308.6
+ORD-1553,13/02/2024,East,S. Addo,Kwesi Mensah,Groceries,Cooking Oil 1L,3,150.91,0.05,430.09
+ORD-1463,05-02-2024,WEST,P. Amoah,Afia Appiah,Home & Kitchen,Blender,11,181.65,0.1,1798.34
+ORD-2361,02/09/2024,South,S. Addo,Kojo Adjei,Beauty,Shea Butter Lotion,1,201.48,0.15,171.26
+ORD-2223,2024-11-10,SOUTH,S. Addo,Esi Darko,Electronics,Laptop Stand,5,66.2,0.0,331.0
+ORD-1397,28/05/2024,central,P. Amoah,Nana Asante,Home & Kitchen,Non-stick Pan,9,118.85,0.0,1069.65
+ORD-1113,2024-07-07,South,P. Amoah,Esi Appiah,Groceries,Cooking Oil 1L,10,191.84,0.0,1918.4
+ORD-1063,01/10/2024,east,J. Tetteh,Kwabena Appiah,Home & Kitchen,Blender,12,51.93,0.05,592.0
+ORD-1324,06-04-2024,South,S. Addo,Efua Mensah,Groceries,Sugar 1kg,8,73.68,0.15,501.02
+ORD-1824,13-Sep-2024,Central,S. Addo,Akosua Adjei,Groceries,Cooking Oil 1L,12,148.59,0.05,1693.93
+ORD-1186,2024-08-29,SOUTH,S. Addo,Esi Darko,Home & Kitchen,Blender,3,171.89,0.0,515.67
+ORD-1558,12/12/2024,WEST,S. Addo,Kwabena Agyeman,Home & Kitchen,Table Lamp,1,81.75,0.15,69.49
+ORD-1651,12/09/2024,Central,P. Amoah,Kwesi Boateng,Electronics,Laptop Stand,12,166.9,0.05,1902.66
+ORD-1294,2024-03-03,North,S. Addo,Yaw Owusu,Home & Kitchen,Storage Containers,1,235.86,0.0,235.86
+ORD-2357,20/04/2024,west,S. Addo,Esi Mensah,Beauty,Shampoo 400ml,12,242.88,0.0,2914.56
+ORD-1286,23-Sep-2024,West,M. Ansah,Kojo Mensah,Home & Kitchen,Non-stick Pan,6,176.71,0.05,1007.25
+ORD-1300,30/06/2024,south,R. Ofori,Adjoa Danso,Beauty,Shea Butter Lotion,10,48.14,0.0,481.4
+ORD-2118,08/09/2024,East,R. Ofori,Adwoa Danso,Beauty,Shea Butter Lotion,11,120.99,0.1,1197.8
+ORD-1315,16-Feb-2024,West,S. Addo,Adwoa Osei,Fashion,Sneakers,7,50.3,0.0,352.1
+ORD-1731,18/10/2024,Central,J. Tetteh,Yaa Danso,Home & Kitchen,Table Lamp,9,188.89,0.0,1700.01
+ORD-1556,07-14-2024,East,R. Ofori,Kwame Adjei,Beauty,Hair Oil,11,240.63,0.0,2646.93
+ORD-1130,28-Dec-2024,NORTH,M. Ansah,Akua Mensah,Electronics,Power Bank,9,247.79,0.1,2007.1
+ORD-1669,24/08/2024,South,J. Tetteh,Afia Asante,Electronics,Power Bank,3,69.14,0.0,207.42
+ORD-1189,06-20-2024,East,J. Tetteh,Kwaku Danso,Electronics,Smartphone Case,11,116.32,0.1,1151.57
+ORD-1027,12-26-2024,north,P. Amoah,Akua Osei,Fashion,Leather Wallet,11,154.86,0.1,1533.11
+ORD-2085,05-Dec-2024,South,M. Ansah,Kweku Appiah,Fashion,Sneakers,8,33.38,0.0,267.04
+ORD-1447,24/09/2024,east,J. Tetteh,Abena Mensah,Fashion,Denim Jeans,8,89.25,0.1,642.6
+ORD-1862,20/11/2024,WEST,S. Addo,Kwabena Owusu,Home & Kitchen,Table Lamp,10,180.04,0.15,1530.34
+ORD-1602,25/01/2024,East,S. Addo,Adwoa Appiah,Fashion,Denim Jeans,8,91.51,0.0,732.08
+ORD-2125,03-08-2024,east,M. Ansah,Adjoa Adjei,Electronics,Laptop Stand,12,18.07,0.0,216.84
+ORD-2383,24/07/2024,West,R. Ofori,Kofi Appiah,Electronics,Wireless Earbuds,3,227.12,0.0,681.36
+ORD-1835,2024-12-03,west,R. Ofori,Efua Darko,Beauty,Shea Butter Lotion,5,184.9,0.1,832.05
+ORD-1610,07-16-2024,Central,S. Addo,Yaw Darko,Fashion,Sneakers,6,7.99,0.0,47.94
+ORD-1700,10-23-2024,East,R. Ofori,Akosua Darko,Electronics,Laptop Stand,7,14.07,0.05,93.57
+ORD-1983,02-17-2024,WEST,M. Ansah,Fiifi Osei,Groceries,Sugar 1kg,12,192.72,0.0,2312.64
+ORD-1596,04-25-2024,East,M. Ansah,Adwoa Danso,Beauty,Shea Butter Lotion,5,91.41,0.1,411.34
+ORD-2205,11-29-2024,South,M. Ansah,Kweku Osei,Groceries,Sugar 1kg,11,22.89,0.1,226.61
+ORD-2296,08-25-2024,west,R. Ofori,Kweku Osei,Groceries,Canned Tomatoes,11,87.76,0.05,917.09
+ORD-1769,03-31-2024,south,J. Tetteh,Akua Asante,Beauty,Shampoo 400ml,1,228.11,0.15,193.89
+ORD-1977,07-31-2024,Central,J. Tetteh,Kojo Osei,Fashion,Cotton T-Shirt,6,72.3,0.05,412.11
+ORD-1479,23-Apr-2024,N.,J. Tetteh,Kwaku Agyeman,Groceries,Pasta Pack,7,76.0,0.0,532.0
+ORD-1474,2024-03-20,NORTH,P. Amoah,Yaa Danso,Beauty,Lip Balm Set,6,14.25,0.0,85.5
+ORD-1325,2024-08-01,north,S. Addo,Kweku Appiah,Home & Kitchen,Non-stick Pan,4,51.04,0.05,193.95
+ORD-2037,11/09/2024,central,J. Tetteh,Ama Owusu,Home & Kitchen,Non-stick Pan,7,164.33,0.05,1092.79
+ORD-1762,08/06/2024,north,S. Addo,Akosua Agyeman,Fashion,Sunglasses,5,41.12,0.1,185.04
+ORD-2150,2024-09-30,East,J. Tetteh,Adjoa Boateng,Beauty,Hair Oil,3,35.88,0.15,91.49
+ORD-2371,2024-12-14,North,M. Ansah,Esi Asante,Electronics,Smartphone Case,8,21.42,0.0,171.36
+ORD-1885,08/04/2024,South,S. Addo,Nana Mensah,Electronics,Bluetooth Speaker,10,109.44,0.0,1094.4
+ORD-1017,27/07/2024,SOUTH,R. Ofori,Adwoa Asante,Beauty,Lip Balm Set,11,28.11,0.05,293.75
+ORD-2402,2024-03-06,North,S. Addo,Yaa Agyeman,Fashion,Cotton T-Shirt,11,231.81,0.05,2422.41
+ORD-1450,11-28-2024,N.,S. Addo,Afia Adjei,Home & Kitchen,Table Lamp,2,106.16,0.0,212.32
+ORD-2379,09/02/2024,NORTH,M. Ansah,Akosua Owusu,Beauty,Face Wash,4,123.13,0.0,492.52
+ORD-2601,2024-05-25,East,J. Tetteh,Kofi Boateng,Electronics,Power Bank,6,13.62,0.0,81.72
+ORD-2544,22/01/2024,Central,J. Tetteh,Yaw Darko,Electronics,Laptop Stand,1,219.33,0.1,197.4
+ORD-2123,2024-10-17,east,R. Ofori,Esi Appiah,Beauty,Face Wash,8,143.72,0.0,1149.76
+ORD-1118,02-28-2024,WEST,P. Amoah,Kofi Asante,Groceries,Canned Tomatoes,5,110.33,0.15,468.9
+ORD-2548,17/08/2024,North,P. Amoah,Yaa Mensah,Home & Kitchen,Non-stick Pan,4,88.94,0.05,337.97
+ORD-1054,2024-11-06,Central,P. Amoah,Efua Boateng,Groceries,Sugar 1kg,3,195.56,0.0,586.68
+ORD-2518,10-Aug-2024,Central,P. Amoah,Adwoa Mensah,Fashion,Sneakers,10,11.43,0.0,114.3
+ORD-1692,06-30-2024,N.,S. Addo,Kweku Danso,Groceries,Rice 5kg,9,148.46,0.0,1336.14
+ORD-1360,2024-08-17,west,P. Amoah,Kweku Osei,Home & Kitchen,Blender,8,214.86,0.0,1718.88
+ORD-1180,01/02/2024,WEST,R. Ofori,Kwesi Danso,Home & Kitchen,Storage Containers,9,132.08,0.0,1188.72
+ORD-1259,12-Dec-2024,East,M. Ansah,Yaw Appiah,Home & Kitchen,Electric Kettle,10,124.92,0.15,1061.82
+ORD-1611,08-14-2024,east,R. Ofori,Kwabena Osei,Beauty,Shea Butter Lotion,12,45.13,0.05,514.48
+ORD-1954,12-03-2024,West,S. Addo,Kwesi Adjei,Fashion,Denim Jeans,7,80.31,0.15,477.84
+ORD-1210,01-27-2024,East,M. Ansah,Kojo Agyeman,Groceries,Sugar 1kg,10,97.41,0.1,876.69
+ORD-1653,05-16-2024,east,R. Ofori,Kojo Asante,Groceries,Sugar 1kg,5,163.28,0.15,693.94
+ORD-2126,04-06-2024,south,M. Ansah,Fiifi Darko,Home & Kitchen,Table Lamp,3,221.47,0.0,664.41
+ORD-1376,10-26-2024,N.,M. Ansah,Kofi Boateng,Fashion,Sunglasses,8,6.38,0.15,43.38
+ORD-2034,08-29-2024,east,P. Amoah,Yaa Owusu,Beauty,Shea Butter Lotion,1,165.04,0.0,165.04
+ORD-2198,29/08/2024,east,J. Tetteh,Kweku Adjei,Beauty,Face Wash,2,220.81,0.0,441.62
+ORD-1684,2024-10-31,South,S. Addo,Adwoa Osei,Electronics,USB-C Cable,1,85.71,0.15,72.85
+ORD-1023,11/02/2024,central,P. Amoah,Akua Mensah,Beauty,Lip Balm Set,2,21.79,0.15,37.04
+ORD-2182,05-05-2024,Central,M. Ansah,Kwaku Agyeman,Electronics,USB-C Cable,3,200.33,0.15,510.84
+ORD-2354,07/01/2024,SOUTH,S. Addo,Kwesi Mensah,Fashion,Denim Jeans,6,208.25,0.0,1249.5
+ORD-2763,12-17-2024,Central,S. Addo,Efua Asante,Beauty,Face Wash,6,40.89,0.05,233.07
+ORD-1507,07-Jan-2024,South,S. Addo,Kwame Danso,Home & Kitchen,Electric Kettle,8,126.92,0.1,913.82
+ORD-1346,2024-09-30,north,S. Addo,Ama Darko,Electronics,Smartphone Case,1,150.51,0.15,127.93
+ORD-2018,18/09/2024,West,M. Ansah,Yaw Asante,Electronics,Bluetooth Speaker,5,121.66,0.0,608.3
+ORD-1883,05/04/2024,West,P. Amoah,Afia Boateng,Groceries,Cooking Oil 1L,2,73.88,0.0,147.76
+ORD-1430,2024-09-01,West,R. Ofori,Ama Agyeman,Beauty,Shampoo 400ml,7,128.11,0.15,762.25
+ORD-2569,2024-10-05,East,R. Ofori,Nana Owusu,Home & Kitchen,Non-stick Pan,4,118.74,0.0,474.96
+ORD-2409,16-Sep-2024,west,R. Ofori,Fiifi Mensah,Beauty,Face Wash,10,210.36,0.0,2103.6
+ORD-1142,2024-08-17,South,R. Ofori,Adwoa Boateng,Electronics,Smartphone Case,1,226.94,0.0,226.94
+ORD-1228,2024-05-06,SOUTH,S. Addo,Kojo Danso,Beauty,Hair Oil,3,25.1,0.05,71.54
+ORD-1213,05-13-2024,east,S. Addo,Yaa Appiah,Groceries,Canned Tomatoes,8,130.64,0.05,992.86
+ORD-2449,01/03/2024,West,P. Amoah,Kojo Mensah,Home & Kitchen,Blender,8,31.38,0.0,251.04
+ORD-2594,25/07/2024,West,M. Ansah,Akua Danso,Fashion,Sneakers,4,217.74,0.0,870.96
+ORD-1465,24-Feb-2024,North,M. Ansah,Akua Mensah,Electronics,Bluetooth Speaker,1,51.95,0.1,46.76
+ORD-2416,2024-02-17,south,M. Ansah,Kwesi Owusu,Fashion,Denim Jeans,12,145.29,0.0,1743.48
+ORD-1755,2024-05-06,N.,S. Addo,Kwaku Appiah,Groceries,Rice 5kg,6,121.03,0.0,726.18
+ORD-1015,10/10/2024,north,P. Amoah,Fiifi Mensah,Home & Kitchen,Blender,1,149.17,0.0,149.17
+ORD-2642,2024-03-26,south,J. Tetteh,Adwoa Adjei,Home & Kitchen,Table Lamp,12,113.56,0.0,1362.72
+ORD-2353,10-30-2024,West,M. Ansah,Kwaku Adjei,Home & Kitchen,Electric Kettle,1,93.43,0.15,79.42
+ORD-2624,27-Aug-2024,West,P. Amoah,Fiifi Asante,Home & Kitchen,Blender,4,181.1,0.05,688.18
+ORD-2297,18/10/2024,SOUTH,M. Ansah,Adjoa Asante,Beauty,Shampoo 400ml,12,237.26,0.15,2420.05
+ORD-2200,02-04-2024,central,M. Ansah,Abena Mensah,Beauty,Lip Balm Set,6,239.51,0.05,1365.21
+ORD-2675,01/07/2024,SOUTH,M. Ansah,Nana Boateng,Fashion,Cotton T-Shirt,7,207.25,0.0,1450.75
+ORD-1311,22-Jun-2024,East,J. Tetteh,Kojo Agyeman,Groceries,Cooking Oil 1L,7,177.6,0.15,1056.72
+ORD-2169,2024-08-24,west,M. Ansah,Kweku Asante,Home & Kitchen,Table Lamp,6,201.9,0.0,1211.4
+ORD-1034,26/04/2024,N.,S. Addo,Kweku Appiah,Home & Kitchen,Electric Kettle,4,10.8,0.05,41.04
+ORD-1215,13/07/2024,central,M. Ansah,Kwabena Appiah,Fashion,Denim Jeans,11,127.33,0.15,1190.54
+ORD-2095,2024-04-13,east,R. Ofori,Abena Adjei,Beauty,Shea Butter Lotion,11,69.75,0.1,690.52
+ORD-1694,02-10-2024,WEST,M. Ansah,Akua Asante,Fashion,Leather Wallet,2,218.55,0.05,415.25
+ORD-1354,23-Jul-2024,East,R. Ofori,Akua Owusu,Fashion,Leather Wallet,7,71.6,0.15,426.02
+ORD-1683,07-20-2024,WEST,J. Tetteh,Kwame Adjei,Electronics,Smartphone Case,2,149.63,0.0,299.26
+ORD-1506,06-06-2024,Central,R. Ofori,Akua Mensah,Home & Kitchen,Electric Kettle,8,183.89,0.0,1471.12
+ORD-1621,14/09/2024,west,M. Ansah,Esi Asante,Fashion,Denim Jeans,9,208.74,0.1,1690.79
+ORD-1638,09-15-2024,central,R. Ofori,Abena Osei,Groceries,Cooking Oil 1L,9,137.9,0.1,1116.99
+ORD-1681,17/02/2024,west,S. Addo,Yaw Owusu,Electronics,Laptop Stand,3,217.7,0.0,653.1
+ORD-1955,07-10-2024,South,M. Ansah,Kwame Mensah,Groceries,Rice 5kg,10,87.1,0.05,827.45
+ORD-1416,21/02/2024,east,M. Ansah,Adjoa Osei,Home & Kitchen,Blender,6,129.54,0.1,699.52
+ORD-2746,15/02/2024,SOUTH,R. Ofori,Adwoa Owusu,Fashion,Leather Wallet,4,244.46,0.0,977.84
+ORD-2165,2024-11-21,N.,M. Ansah,Akosua Darko,Beauty,Hair Oil,3,156.62,0.1,422.87
+ORD-2534,20/04/2024,north,R. Ofori,Kojo Asante,Home & Kitchen,Table Lamp,6,104.22,0.0,625.32
+ORD-1361,2024-10-12,N.,J. Tetteh,Nana Darko,Electronics,Wireless Earbuds,10,207.35,0.1,1866.15
+ORD-2002,12-25-2024,west,P. Amoah,Ama Danso,Fashion,Denim Jeans,2,209.37,0.05,397.8
+ORD-2673,08-03-2024,WEST,P. Amoah,Abena Mensah,Groceries,Cooking Oil 1L,7,209.6,0.05,1393.84
+ORD-1249,2024-06-09,SOUTH,M. Ansah,Kwaku Owusu,Fashion,Sunglasses,2,63.45,0.0,126.9
+ORD-2011,10/07/2024,north,P. Amoah,Adjoa Danso,Beauty,Face Wash,10,157.12,0.0,1571.2
+ORD-1024,2024-01-21,south,P. Amoah,Adjoa Danso,Electronics,Power Bank,10,107.71,0.1,969.39
+ORD-1110,06-09-2024,east,R. Ofori,Esi Appiah,Groceries,Canned Tomatoes,3,96.7,0.15,246.59
+ORD-2421,01-01-2024,South,M. Ansah,Kojo Darko,Beauty,Shea Butter Lotion,8,117.89,0.15,801.65
+ORD-1895,18-Jul-2024,Central,P. Amoah,Kwesi Darko,Home & Kitchen,Storage Containers,4,153.77,0.0,615.08
+ORD-2367,2024-02-27,SOUTH,R. Ofori,Nana Owusu,Home & Kitchen,Electric Kettle,10,132.29,0.0,1322.9
+ORD-1348,18/05/2024,South,P. Amoah,Akosua Owusu,Electronics,Smartphone Case,2,107.61,0.1,193.7
+ORD-1603,23/03/2024,Central,M. Ansah,Akua Boateng,Beauty,Face Wash,6,33.64,0.1,181.66
+ORD-1403,11-25-2024,Central,P. Amoah,Adjoa Owusu,Groceries,Cooking Oil 1L,3,56.82,0.0,170.46
+ORD-2309,2024-09-10,SOUTH,P. Amoah,Kojo Appiah,Fashion,Leather Wallet,10,157.36,0.05,1494.92
+ORD-1362,08-20-2024,East,M. Ansah,Efua Mensah,Groceries,Sugar 1kg,10,142.24,0.1,1280.16
+ORD-2273,26-Sep-2024,N.,,Kwesi Owusu,Beauty,Shea Butter Lotion,11,190.45,0.0,2094.95
+ORD-2170,28-Aug-2024,south,P. Amoah,Ama Darko,Electronics,Wireless Earbuds,7,22.24,0.0,155.68
+ORD-1701,10-22-2024,central,R. Ofori,Kwesi Mensah,Home & Kitchen,Blender,5,140.55,0.15,597.34
+ORD-2653,01-03-2024,central,P. Amoah,Kwabena Owusu,Groceries,Rice 5kg,11,53.75,0.0,591.25
+ORD-2616,2024-11-12,south,M. Ansah,Ama Appiah,Home & Kitchen,Table Lamp,11,130.18,0.15,1217.18
+ORD-1177,2024-06-18,central,S. Addo,Adwoa Mensah,Beauty,Face Wash,10,245.08,0.0,2450.8
+ORD-1441,27-Oct-2024,east,S. Addo,Kofi Osei,Beauty,Hair Oil,3,106.43,0.0,319.29
+ORD-2758,17-Jan-2024,south,S. Addo,Kweku Danso,Beauty,Face Wash,8,74.22,0.0,593.76
+ORD-1717,02-17-2024,WEST,M. Ansah,Yaa Adjei,Home & Kitchen,Table Lamp,11,132.73,0.0,1460.03
+ORD-1985,09-20-2024,south,P. Amoah,Kwabena Danso,Electronics,Smartphone Case,5,191.32,0.15,813.11
+ORD-2588,10-Apr-2024,central,P. Amoah,Fiifi Agyeman,Home & Kitchen,Electric Kettle,1,248.58,0.15,211.29
+ORD-1871,2024-09-20,West,R. Ofori,Yaw Osei,Groceries,Pasta Pack,10,104.34,0.0,1043.4
+ORD-2269,16/09/2024,SOUTH,M. Ansah,Akua Osei,Fashion,Sunglasses,8,204.52,0.0,1636.16
+ORD-2446,2024-03-11,east,S. Addo,Kojo Danso,Beauty,Lip Balm Set,5,118.27,0.0,591.35
+ORD-2704,11-30-2024,East,S. Addo,Akosua Adjei,Electronics,Laptop Stand,8,74.88,0.0,599.04
+ORD-1414,11-09-2024,central,S. Addo,Akosua Danso,Fashion,Sunglasses,7,247.99,0.0,1735.93
+ORD-1046,04-30-2024,WEST,S. Addo,Kweku Owusu,Home & Kitchen,Non-stick Pan,9,87.28,0.0,785.52
+ORD-2612,02/02/2024,north,M. Ansah,Esi Boateng,Home & Kitchen,Table Lamp,3,54.04,0.15,137.8
+ORD-2444,2024-02-14,South,P. Amoah,Efua Appiah,Home & Kitchen,Non-stick Pan,5,45.48,0.0,227.4
+ORD-1193,2024-10-25,east,S. Addo,Kofi Appiah,Home & Kitchen,Storage Containers,6,69.08,0.15,352.31
+ORD-1392,04-09-2024,East,J. Tetteh,Abena Danso,Home & Kitchen,Blender,6,124.04,0.1,669.82
+ORD-2363,29/08/2024,NORTH,R. Ofori,Afia Appiah,Fashion,Cotton T-Shirt,6,96.45,0.15,491.9
+ORD-2321,11-23-2024,south,P. Amoah,Afia Darko,Beauty,Face Wash,5,58.47,0.0,292.35
+ORD-2631,31-Jul-2024,East,P. Amoah,Kwabena Mensah,Electronics,Power Bank,11,25.25,0.1,249.97
+ORD-1445,23/12/2024,west,M. Ansah,Yaa Osei,Beauty,Face Wash,8,149.75,0.15,1018.3
+ORD-1026,07/02/2024,East,J. Tetteh,,Electronics,USB-C Cable,3,128.94,0.0,386.82
+ORD-1867,17/12/2024,east,J. Tetteh,Yaw Adjei,Groceries,Pasta Pack,3,166.1,0.05,473.38
+ORD-2246,07-02-2024,East,S. Addo,Kwame Osei,Fashion,Sneakers,4,91.33,0.0,365.32
+ORD-1451,19-May-2024,south,R. Ofori,Kweku Danso,Electronics,Laptop Stand,1,51.01,0.0,51.01
+ORD-2212,24/03/2024,North,J. Tetteh,Kwaku Agyeman,Home & Kitchen,Table Lamp,8,34.49,0.15,234.53
+ORD-1464,05-24-2024,West,P. Amoah,Yaa Boateng,Beauty,Hair Oil,6,105.4,0.0,632.4
+ORD-2494,03/09/2024,NORTH,J. Tetteh,Kwaku Appiah,Beauty,Hair Oil,12,50.91,0.0,610.92
+ORD-2769,22/04/2024,East,M. Ansah,Akua Danso,Beauty,Shea Butter Lotion,2,80.39,0.0,160.78
+ORD-2522,09/01/2024,WEST,S. Addo,Kweku Danso,Beauty,Lip Balm Set,1,35.81,0.0,35.81
+ORD-1458,15/02/2024,North,S. Addo,Afia Boateng,Beauty,Hair Oil,2,43.64,0.15,74.19
+ORD-2260,26/12/2024,east,R. Ofori,Afia Osei,Electronics,Laptop Stand,4,246.62,0.15,838.51
+ORD-2326,03-12-2024,west,J. Tetteh,Nana Darko,Home & Kitchen,Electric Kettle,11,98.46,0.0,1083.06
+ORD-2441,19-Apr-2024,NORTH,P. Amoah,Adwoa Darko,Home & Kitchen,Storage Containers,4,110.38,0.0,441.52
+ORD-2652,06-27-2024,north,M. Ansah,Kwaku Darko,Electronics,Wireless Earbuds,12,114.47,0.05,1304.96
+ORD-1369,04-17-2024,central,M. Ansah,Yaa Asante,Beauty,Face Wash,11,173.22,0.0,1905.42
+ORD-2492,2024-01-11,central,R. Ofori,Kwesi Adjei,Electronics,Smartphone Case,2,143.95,0.0,287.9
+ORD-2225,2024-04-03,SOUTH,,Nana Mensah,Electronics,Laptop Stand,1,40.02,0.0,40.02
+ORD-1307,06-26-2024,Central,M. Ansah,Fiifi Owusu,Groceries,Cooking Oil 1L,2,46.13,0.15,78.42
+ORD-1285,2024-06-06,SOUTH,R. Ofori,Fiifi Mensah,Fashion,Cotton T-Shirt,4,55.27,0.05,210.03
+ORD-2098,11-25-2024,West,J. Tetteh,Adwoa Danso,Groceries,Sugar 1kg,11,86.45,0.0,950.95
+ORD-1330,29-Nov-2024,SOUTH,S. Addo,Adjoa Asante,Home & Kitchen,Electric Kettle,11,130.75,0.0,1438.25
+ORD-2319,14/08/2024,WEST,J. Tetteh,Abena Danso,Home & Kitchen,Storage Containers,2,129.36,0.0,258.72
+ORD-1571,18-Apr-2024,NORTH,J. Tetteh,Ama Darko,Electronics,Smartphone Case,9,235.32,0.0,2117.88
+ORD-2067,02-Mar-2024,central,M. Ansah,Kweku Mensah,Home & Kitchen,Electric Kettle,9,69.53,0.15,531.9
+ORD-1790,07-Jun-2024,west,M. Ansah,Kwabena Boateng,Electronics,USB-C Cable,11,205.38,0.05,2146.22
+ORD-1565,10-Jan-2024,North,R. Ofori,Kwaku Adjei,Electronics,Wireless Earbuds,11,41.47,0.0,456.17
+ORD-1997,25/09/2024,West,M. Ansah,Kwaku Adjei,Electronics,Wireless Earbuds,2,189.97,0.0,379.94
+ORD-1252,15-Sep-2024,East,P. Amoah,Kwabena Darko,Groceries,Cooking Oil 1L,8,105.24,0.05,799.82
+ORD-2106,25-Mar-2024,central,M. Ansah,Kwabena Appiah,Groceries,Canned Tomatoes,7,7.41,0.0,51.87
+ORD-2149,06-15-2024,East,R. Ofori,Akosua Mensah,Fashion,Leather Wallet,10,160.82,0.0,1608.2
+ORD-1109,01/12/2024,east,J. Tetteh,Akosua Owusu,Beauty,Lip Balm Set,4,110.37,0.05,419.41
+ORD-2702,2024-09-29,west,R. Ofori,Efua Danso,Home & Kitchen,Storage Containers,6,118.0,0.15,601.8
+ORD-1514,11-15-2024,east,P. Amoah,Kofi Agyeman,Beauty,Face Wash,10,232.14,0.1,2089.26
+ORD-2027,23-Dec-2024,west,J. Tetteh,Akua Appiah,Beauty,Shea Butter Lotion,11,97.52,0.1,965.45
+ORD-1164,14/09/2024,central,J. Tetteh,Afia Agyeman,Home & Kitchen,Non-stick Pan,0,149.99,0.0,1499.9
+ORD-1544,24-Nov-2024,north,M. Ansah,Yaw Owusu,Groceries,Canned Tomatoes,12,215.74,0.1,2329.99
+ORD-1779,2024-10-06,East,P. Amoah,Abena Agyeman,Fashion,Cotton T-Shirt,4,197.54,0.0,790.16
+ORD-1207,25-Nov-2024,Central,S. Addo,Adwoa Mensah,Groceries,Pasta Pack,6,197.52,0.15,1007.35
+ORD-1151,09-22-2024,west,S. Addo,Adwoa Osei,Fashion,Denim Jeans,12,201.28,0.05,2294.59
+ORD-1262,07-Mar-2024,west,P. Amoah,Fiifi Agyeman,Fashion,Leather Wallet,11,198.13,0.0,2179.43
+ORD-2192,30-Nov-2024,South,R. Ofori,Fiifi Agyeman,Beauty,Shampoo 400ml,5,196.04,0.0,980.2
+ORD-2786,2024-04-09,west,S. Addo,Esi Asante,Fashion,Denim Jeans,3,225.14,0.1,607.88
+ORD-1658,17-Jun-2024,east,S. Addo,Afia Owusu,Electronics,Bluetooth Speaker,12,202.43,0.0,2429.16
+ORD-1525,01-03-2024,South,J. Tetteh,Nana Agyeman,Electronics,USB-C Cable,11,233.42,0.1,2310.86
+ORD-1097,11-22-2024,East,R. Ofori,Kofi Danso,Groceries,Sugar 1kg,4,31.54,0.05,119.85
+ORD-1975,11-03-2024,NORTH,M. Ansah,Esi Osei,Groceries,Rice 5kg,4,149.84,0.1,539.42
+ORD-1649,06/08/2024,central,R. Ofori,Kwaku Agyeman,Fashion,Cotton T-Shirt,2,90.09,0.15,153.15
+ORD-1139,03-04-2024,East,P. Amoah,Yaa Owusu,Groceries,Sugar 1kg,3,25.55,0.0,76.65
+ORD-1648,2024-11-15,east,M. Ansah,Kwaku Darko,Electronics,Smartphone Case,10,180.84,0.0,1808.4
+ORD-2551,02-Nov-2024,South,R. Ofori,Kwaku Boateng,Groceries,Sugar 1kg,10,192.82,0.05,1831.79
+ORD-2611,26/12/2024,east,P. Amoah,Yaw Appiah,Home & Kitchen,Blender,5,230.21,0.0,1151.05
+ORD-2343,2024-10-16,West,S. Addo,Ama Adjei,Fashion,Sunglasses,1,221.4,0.15,188.19
+ORD-1623,2024-01-15,south,S. Addo,Fiifi Boateng,Beauty,Lip Balm Set,12,59.48,0.0,713.76
+ORD-1128,2024-11-26,west,J. Tetteh,Efua Adjei,Electronics,Wireless Earbuds,9,155.68,0.05,1331.06
+ORD-2159,09-28-2024,Central,M. Ansah,Efua Owusu,Groceries,Pasta Pack,6,79.49,0.05,453.09
+ORD-2482,10-May-2024,central,R. Ofori,Afia Owusu,Fashion,Denim Jeans,2,5.36,0.05,10.18
+ORD-2247,10-12-2024,West,M. Ansah,Kofi Boateng,Fashion,Sneakers,6,186.47,0.0,1118.82
+ORD-1951,2024-02-15,WEST,J. Tetteh,Esi Owusu,Fashion,Sunglasses,7,155.98,0.0,1091.86
+ORD-1264,2024-05-08,SOUTH,S. Addo,Kofi Owusu,Fashion,Denim Jeans,11,96.1,0.0,1057.1
+ORD-2475,2024-06-11,Central,S. Addo,Esi Adjei,Fashion,Cotton T-Shirt,4,49.74,0.1,179.06
+ORD-1758,19-Feb-2024,North,R. Ofori,Abena Darko,Beauty,Shea Butter Lotion,10,62.11,0.15,527.94
+ORD-2450,02-May-2024,SOUTH,P. Amoah,Fiifi Appiah,Electronics,Smartphone Case,2,111.66,0.15,189.82
+ORD-1498,17-Jan-2024,west,M. Ansah,Akua Asante,Groceries,Cooking Oil 1L,1,192.31,0.0,192.31
+ORD-2251,05-Dec-2024,WEST,P. Amoah,Kojo Owusu,Electronics,Bluetooth Speaker,3,213.79,0.15,545.16
+ORD-2515,11-27-2024,North,P. Amoah,Esi Osei,Home & Kitchen,Storage Containers,11,19.03,0.15,177.93
+ORD-1747,01-11-2024,N.,M. Ansah,Kweku Mensah,Fashion,Denim Jeans,12,171.74,0.0,2060.88
+ORD-1432,10-07-2024,Central,M. Ansah,Afia Adjei,Fashion,Leather Wallet,8,63.1,0.1,454.32
+ORD-2644,2024-05-07,east,J. Tetteh,Adjoa Adjei,Home & Kitchen,Blender,10,35.55,0.0,355.5
+ORD-2570,22-Apr-2024,North,J. Tetteh,Kwame Darko,Beauty,Shampoo 400ml,9,63.3,0.15,484.24
+ORD-1068,2024-06-05,central,R. Ofori,Abena Danso,Groceries,Canned Tomatoes,12,154.36,0.0,1852.32
+ORD-1672,02/08/2024,south,M. Ansah,Kwabena Adjei,Home & Kitchen,Table Lamp,3,105.09,0.0,315.27
+ORD-2313,06-Jul-2024,west,S. Addo,Kofi Darko,Electronics,Laptop Stand,6,104.76,0.0,628.56
+ORD-1338,10-26-2024,SOUTH,S. Addo,Fiifi Appiah,Fashion,Sneakers,2,118.62,0.05,225.38
+ORD-2567,2024-12-24,WEST,P. Amoah,Ama Boateng,Groceries,Canned Tomatoes,5,193.43,0.0,967.15
+ORD-1383,02-Oct-2024,North,M. Ansah,Akosua Owusu,Home & Kitchen,Electric Kettle,2,163.41,0.15,277.8
+ORD-2428,04-09-2024,central,S. Addo,Kojo Appiah,Electronics,USB-C Cable,3,230.89,0.0,692.67
+ORD-1055,08/02/2024,North,M. Ansah,Nana Darko,Fashion,Sunglasses,5,29.97,0.15,127.37
+ORD-1899,2024-01-30,NORTH,S. Addo,Afia Adjei,Home & Kitchen,Storage Containers,4,206.86,0.15,703.32
+ORD-2287,03-19-2024,Central,J. Tetteh,Ama Danso,Home & Kitchen,Non-stick Pan,5,215.57,0.0,1077.85
+ORD-2537,2024-11-01,Central,M. Ansah,Esi Agyeman,Fashion,Sneakers,7,64.87,0.0,454.09
+ORD-1170,09-12-2024,central,R. Ofori,Adwoa Agyeman,Home & Kitchen,Electric Kettle,2,126.86,0.05,241.03
+ORD-1840,02-29-2024,WEST,S. Addo,Adjoa Asante,Beauty,Hair Oil,2,26.48,0.0,52.96
+ORD-1817,02/06/2024,West,J. Tetteh,Nana Darko,Groceries,Rice 5kg,3,140.45,0.0,421.35
+ORD-1326,08-Jun-2024,WEST,J. Tetteh,Kwesi Boateng,Fashion,Cotton T-Shirt,9,38.23,0.1,309.66
+ORD-1503,07-30-2024,North,R. Ofori,Yaa Boateng,Home & Kitchen,Table Lamp,3,115.47,0.05,329.09
+ORD-2714,02-01-2024,central,P. Amoah,Kwesi Boateng,Beauty,Lip Balm Set,6,248.34,0.05,1415.54
+ORD-1409,2024-11-06,North,M. Ansah,Kwesi Darko,Home & Kitchen,Table Lamp,10,48.47,0.1,436.23
+ORD-1297,25/11/2024,North,M. Ansah,Yaw Darko,Fashion,Sneakers,9,159.53,0.0,1435.77
+ORD-1721,2024-02-11,south,,,Groceries,Rice 5kg,3,20.24,0.05,57.68
+ORD-2350,2024-10-01,NORTH,M. Ansah,Nana Asante,Beauty,Shampoo 400ml,12,229.22,0.1,2475.58
+ORD-2533,26-Sep-2024,South,R. Ofori,Esi Danso,Electronics,Wireless Earbuds,2,181.71,0.1,327.08
+ORD-2397,03-01-2024,central,M. Ansah,Kwaku Agyeman,Home & Kitchen,Storage Containers,4,161.46,0.1,581.26
+ORD-2059,07-03-2024,N.,P. Amoah,Kwame Appiah,Fashion,Denim Jeans,11,243.9,0.0,2682.9
+ORD-2538,2024-07-31,WEST,J. Tetteh,Abena Danso,Groceries,Sugar 1kg,11,221.16,0.0,2432.76
+ORD-2403,11-15-2024,South,S. Addo,Kwame Owusu,Beauty,Shea Butter Lotion,4,74.63,0.0,298.52
+ORD-2789,08-28-2024,North,J. Tetteh,Kojo Darko,Home & Kitchen,Table Lamp,10,97.64,0.0,976.4
+ORD-2478,2024-10-04,North,R. Ofori,Adwoa Appiah,Groceries,Rice 5kg,10,69.75,0.1,627.75
+ORD-1531,17-Feb-2024,SOUTH,M. Ansah,Kweku Danso,Beauty,Shea Butter Lotion,5,28.83,0.15,122.53
+ORD-1407,28/03/2024,East,R. Ofori,Afia Osei,Home & Kitchen,Storage Containers,10,208.44,0.0,2084.4
+ORD-1199,2024-04-21,WEST,J. Tetteh,Nana Adjei,Fashion,Cotton T-Shirt,6,16.1,0.15,82.11
+ORD-1473,01-04-2024,NORTH,S. Addo,Kwesi Boateng,Beauty,Shea Butter Lotion,4,246.18,0.0,984.72
+ORD-1838,23/05/2024,North,R. Ofori,Akua Appiah,Groceries,Rice 5kg,11,181.2,0.05,1893.54
+ORD-1216,27/03/2024,east,S. Addo,Kweku Boateng,Groceries,Canned Tomatoes,8,181.48,0.0,1451.84
+ORD-1253,2024-05-29,west,M. Ansah,Kwaku Mensah,Home & Kitchen,Blender,9,72.34,0.0,651.06
+ORD-1152,2024-02-22,N.,S. Addo,Yaa Adjei,Beauty,Shampoo 400ml,5,85.34,0.0,426.7
+ORD-1756,16-Nov-2024,East,J. Tetteh,Afia Osei,Electronics,Power Bank,2,146.84,0.0,293.68
+ORD-2761,2024-03-05,SOUTH,S. Addo,Kwame Adjei,Beauty,Shea Butter Lotion,7,220.18,0.0,1541.26
+ORD-2151,25-Sep-2024,west,M. Ansah,Kweku Danso,Fashion,Leather Wallet,6,14.96,0.0,89.76
+ORD-2755,28/01/2024,Central,R. Ofori,Abena Osei,Home & Kitchen,Non-stick Pan,1,46.21,0.05,43.9
+ORD-2591,25-Sep-2024,Central,,Kofi Adjei,Fashion,Leather Wallet,7,117.87,0.0,825.09
+ORD-2742,2024-08-06,south,M. Ansah,Kojo Appiah,Electronics,Laptop Stand,1,188.15,0.15,159.93
+ORD-1530,01-Apr-2024,North,,Kojo Darko,Groceries,Rice 5kg,5,156.0,0.0,780.0
+ORD-2042,07-Mar-2024,East,S. Addo,Afia Asante,Fashion,Leather Wallet,2,122.28,0.15,207.88
+ORD-2453,08-May-2024,WEST,M. Ansah,Akua Mensah,Fashion,Sunglasses,6,27.84,0.0,167.04
+ORD-1240,23-Jan-2024,Central,P. Amoah,Efua Boateng,Electronics,Bluetooth Speaker,6,241.87,0.05,1378.66
+ORD-1829,16/01/2024,East,S. Addo,Kofi Owusu,Groceries,Rice 5kg,11,122.08,0.0,1342.88
+ORD-1816,26-Mar-2024,south,R. Ofori,Efua Darko,Groceries,Rice 5kg,9,113.14,0.1,916.43
+ORD-1187,06-13-2024,Central,S. Addo,Adwoa Asante,Groceries,Canned Tomatoes,2,163.24,0.15,277.51
+ORD-1246,18-Aug-2024,South,M. Ansah,Kwame Danso,Groceries,Canned Tomatoes,12,100.26,0.0,1203.12
+ORD-2276,04/10/2024,North,P. Amoah,Abena Danso,Home & Kitchen,Blender,12,162.03,0.0,1944.36
+ORD-1876,05-Apr-2024,west,S. Addo,Esi Mensah,Fashion,Leather Wallet,2,91.86,0.05,174.53
+ORD-1737,11-Jun-2024,WEST,J. Tetteh,Esi Adjei,Beauty,Hair Oil,2,140.51,0.05,266.97
+ORD-1302,26-Sep-2024,North,J. Tetteh,Afia Asante,Electronics,Bluetooth Speaker,10,5.17,0.0,51.7
+ORD-1283,04-12-2024,east,S. Addo,Kweku Mensah,Electronics,Power Bank,5,143.13,0.15,608.3
+ORD-1734,26/05/2024,west,M. Ansah,Esi Agyeman,Electronics,Wireless Earbuds,2,49.75,0.0,99.5
+ORD-1505,12-Jul-2024,East,M. Ansah,Kwesi Danso,Beauty,Hair Oil,3,15.76,0.0,47.28
+ORD-2753,2024-06-15,Central,S. Addo,Ama Agyeman,Electronics,Power Bank,11,15.41,0.15,144.08
+ORD-1893,04-Sep-2024,east,J. Tetteh,Esi Darko,Fashion,Sneakers,9,133.32,0.0,1199.88
+ORD-2798,04-12-2024,East,M. Ansah,Nana Adjei,Beauty,Lip Balm Set,3,202.22,0.15,515.66
+ORD-2156,02-02-2024,East,M. Ansah,Kwame Appiah,Home & Kitchen,Electric Kettle,10,183.4,0.05,1742.3
+ORD-1691,2024-10-18,South,S. Addo,,Fashion,Denim Jeans,1,139.99,0.1,125.99
+ORD-1875,12-Nov-2024,central,R. Ofori,Kwesi Mensah,Home & Kitchen,Non-stick Pan,1,19.09,0.1,17.18
+ORD-1122,2024-07-26,central,J. Tetteh,Akosua Adjei,Beauty,Hair Oil,3,241.72,0.1,652.64
+ORD-1666,11-17-2024,SOUTH,M. Ansah,Kwame Darko,Groceries,Cooking Oil 1L,2,81.86,0.0,163.72
+ORD-1510,2024-01-26,South,J. Tetteh,Abena Appiah,Beauty,Lip Balm Set,3,107.15,0.0,321.45
+ORD-1280,2024-05-05,Central,J. Tetteh,Kwame Mensah,Home & Kitchen,Table Lamp,7,120.58,0.0,844.06
+ORD-2447,07-20-2024,Central,J. Tetteh,Adjoa Adjei,Groceries,Pasta Pack,12,167.93,0.05,1914.4
+ORD-2271,03-Dec-2024,West,,Afia Appiah,Beauty,Shampoo 400ml,2,197.1,0.15,335.07
+ORD-2075,2024-11-06,east,S. Addo,Akua Adjei,Groceries,Cooking Oil 1L,11,231.51,0.0,2546.61
+ORD-1860,04/11/2024,South,M. Ansah,Abena Asante,Home & Kitchen,Electric Kettle,5,149.99,0.0,749.95
+ORD-1518,04-09-2024,east,M. Ansah,Afia Mensah,Groceries,Pasta Pack,11,209.29,0.05,2187.08
+ORD-2713,09-14-2024,East,R. Ofori,Yaw Agyeman,Beauty,Shea Butter Lotion,12,219.16,0.05,2498.42
+ORD-2376,26-Dec-2024,SOUTH,P. Amoah,Fiifi Adjei,Groceries,Rice 5kg,7,58.06,0.0,406.42
+ORD-1067,01-Mar-2024,north,M. Ansah,Abena Owusu,Home & Kitchen,Table Lamp,10,153.55,0.0,1535.5
+ORD-1925,2024-06-20,south,P. Amoah,Kojo Appiah,Electronics,Wireless Earbuds,3,63.68,0.1,171.94
+ORD-1568,28/05/2024,North,R. Ofori,Fiifi Owusu,Fashion,Sunglasses,1,48.27,0.05,45.86
+ORD-1704,23/03/2024,West,R. Ofori,,Fashion,Sneakers,12,74.2,0.0,890.4
+ORD-2097,2024-10-06,Central,S. Addo,Adwoa Darko,Groceries,Rice 5kg,10,115.81,0.0,1158.1
+ORD-2621,16-May-2024,SOUTH,S. Addo,Fiifi Agyeman,Beauty,Shampoo 400ml,12,34.93,0.15,356.29
+ORD-1857,2024-01-18,SOUTH,S. Addo,Kojo Agyeman,Home & Kitchen,Electric Kettle,9,245.08,0.0,2205.72
+ORD-1472,03-Jul-2024,SOUTH,S. Addo,Nana Agyeman,Beauty,Shampoo 400ml,7,114.64,0.0,802.48
+ORD-1971,04-05-2024,east,R. Ofori,Akua Appiah,Electronics,Wireless Earbuds,4,65.1,0.15,221.34
+ORD-1511,06-02-2024,East,J. Tetteh,Efua Mensah,Groceries,Pasta Pack,7,95.3,0.0,667.1
+ORD-2172,03-15-2024,east,J. Tetteh,Akosua Owusu,Beauty,Hair Oil,10,190.7,0.0,1907.0
+ORD-1740,11-13-2024,central,R. Ofori,Ama Mensah,Beauty,Hair Oil,3,165.0,0.0,495.0
+ORD-2283,04-03-2024,South,J. Tetteh,Akua Osei,Electronics,Wireless Earbuds,12,46.0,0.0,552.0
+ORD-1318,2024-07-21,central,J. Tetteh,Adwoa Adjei,Beauty,Shampoo 400ml,9,128.01,0.1,1036.88
+ORD-2565,13-Aug-2024,NORTH,R. Ofori,Kofi Mensah,Home & Kitchen,Non-stick Pan,7,151.71,0.0,1061.97
+ORD-1832,02-Jan-2024,west,J. Tetteh,Efua Appiah,Beauty,Shea Butter Lotion,7,218.28,0.15,1298.77
+ORD-1581,01-28-2024,SOUTH,J. Tetteh,Akua Boateng,Groceries,Canned Tomatoes,7,74.84,0.0,523.88
+ORD-1132,02/12/2024,NORTH,S. Addo,Nana Adjei,Electronics,Power Bank,10,86.67,0.15,736.7
+ORD-1687,08-09-2024,west,R. Ofori,Esi Adjei,Fashion,Denim Jeans,10,226.41,0.0,2264.1
+ORD-1986,05-Jul-2024,WEST,M. Ansah,Esi Boateng,Home & Kitchen,Table Lamp,10,243.89,0.1,2195.01
+ORD-2773,2024-07-21,north,M. Ansah,Akosua Adjei,Beauty,Lip Balm Set,4,61.58,0.05,234.0
+ORD-2064,07-28-2024,East,R. Ofori,Esi Asante,Groceries,Sugar 1kg,9,24.52,0.1,198.61
+ORD-2760,27/05/2024,East,R. Ofori,Ama Mensah,Home & Kitchen,Blender,12,242.61,0.0,2911.32
+ORD-1125,04/11/2024,South,M. Ansah,Kofi Asante,Electronics,Bluetooth Speaker,11,191.25,0.0,2103.75
+ORD-2033,30/09/2024,WEST,J. Tetteh,Akua Adjei,Fashion,Cotton T-Shirt,10,214.03,0.1,1926.27
+ORD-2144,06-Jan-2024,south,R. Ofori,Kwesi Darko,Home & Kitchen,Table Lamp,11,165.19,0.05,1726.24
+ORD-1256,10-28-2024,east,M. Ansah,Esi Asante,Electronics,USB-C Cable,10,215.96,0.15,1835.66
+ORD-2787,2024-04-10,N.,R. Ofori,Akosua Adjei,Fashion,Cotton T-Shirt,1,172.13,0.0,172.13
+ORD-2005,2024-12-04,North,S. Addo,Kwame Darko,Groceries,Sugar 1kg,3,17.23,0.0,51.69
+ORD-1289,09-Jun-2024,Central,,Akua Osei,Home & Kitchen,Blender,6,34.58,0.0,207.48
+ORD-1081,01-02-2024,South,S. Addo,Fiifi Agyeman,Fashion,Sneakers,10,182.88,0.1,1645.92
+ORD-1053,19/03/2024,North,P. Amoah,Kwabena Mensah,Electronics,Bluetooth Speaker,11,35.92,0.0,395.12
+ORD-1879,29/12/2024,West,S. Addo,Akosua Mensah,Home & Kitchen,Non-stick Pan,5,32.11,0.0,160.55
+ORD-2016,15-Aug-2024,north,P. Amoah,Adwoa Mensah,Home & Kitchen,Blender,2,18.64,0.0,37.28
+ORD-1040,14-Aug-2024,East,R. Ofori,Afia Appiah,Groceries,Pasta Pack,9,170.53,0.05,1458.03
+ORD-2044,2024-02-23,East,P. Amoah,Fiifi Agyeman,Beauty,Face Wash,7,89.93,0.15,535.08
+ORD-1261,02-Feb-2024,west,S. Addo,Kojo Osei,Beauty,Shea Butter Lotion,7,58.37,0.0,408.59
+ORD-1746,02-Jul-2024,North,P. Amoah,Efua Darko,Groceries,Rice 5kg,12,48.41,0.0,580.92
+ORD-1083,30-Aug-2024,SOUTH,S. Addo,Akosua Mensah,Groceries,Cooking Oil 1L,11,99.59,0.15,931.17
+ORD-2022,12-01-2024,east,S. Addo,Akua Boateng,Beauty,Shea Butter Lotion,3,117.57,0.0,352.71
+ORD-2113,06-08-2024,SOUTH,S. Addo,Nana Osei,Groceries,Canned Tomatoes,10,135.02,0.0,1350.2
+ORD-2414,16/02/2024,Central,M. Ansah,Efua Mensah,Electronics,USB-C Cable,12,27.63,0.1,298.4
+ORD-2179,2024-12-08,SOUTH,J. Tetteh,Adwoa Darko,Groceries,Cooking Oil 1L,5,88.88,0.0,444.4
+ORD-1030,2024-10-14,East,R. Ofori,Kweku Agyeman,Fashion,Denim Jeans,12,32.41,0.0,388.92
+ORD-1513,2024-11-18,SOUTH,P. Amoah,Ama Owusu,Home & Kitchen,Table Lamp,12,123.5,0.1,1333.8
+ORD-2188,12-13-2024,east,S. Addo,Adjoa Appiah,Fashion,Sunglasses,2,158.35,0.0,316.7
+ORD-2771,15-Feb-2024,WEST,J. Tetteh,Kwame Boateng,Fashion,Denim Jeans,4,101.18,0.0,404.72
+ORD-1841,2024-07-13,Central,S. Addo,Efua Boateng,Electronics,Power Bank,10,81.15,0.1,730.35
+ORD-2120,2024-04-09,WEST,S. Addo,Esi Agyeman,Electronics,Smartphone Case,11,86.5,0.0,951.5
+ORD-2195,06-Aug-2024,South,S. Addo,Efua Mensah,Fashion,Leather Wallet,9,84.79,0.15,648.64
+ORD-2499,02-17-2024,central,M. Ansah,Kwaku Osei,Electronics,Smartphone Case,10,231.27,0.0,2312.7
+ORD-1777,22-Jan-2024,NORTH,P. Amoah,Efua Asante,Groceries,Pasta Pack,6,130.5,0.05,743.85
+ORD-2089,2024-11-05,Central,M. Ansah,Afia Appiah,Electronics,Power Bank,1,237.82,0.05,225.93
+ORD-2668,02/04/2024,Central,J. Tetteh,Fiifi Osei,Groceries,Canned Tomatoes,2,98.16,0.0,196.32
+ORD-1048,13-Jul-2024,north,P. Amoah,Kwaku Mensah,Groceries,Canned Tomatoes,6,6.44,0.0,38.64
+ORD-2090,04-17-2024,NORTH,P. Amoah,Kojo Mensah,Fashion,Sunglasses,3,136.19,0.1,367.71
+ORD-1467,12-Oct-2024,north,S. Addo,Kweku Mensah,Groceries,Rice 5kg,12,206.4,0.0,2476.8
+ORD-1153,01-22-2024,WEST,R. Ofori,Kweku Appiah,Groceries,Cooking Oil 1L,7,155.64,0.0,1089.48
+ORD-2705,08-17-2024,South,M. Ansah,Yaw Asante,Electronics,Wireless Earbuds,10,193.59,0.15,1645.52
+ORD-1394,08-16-2024,west,R. Ofori,Fiifi Osei,Fashion,Denim Jeans,8,194.82,0.1,1402.7
+ORD-1123,11-Aug-2024,WEST,M. Ansah,Akosua Owusu,Fashion,Cotton T-Shirt,7,133.37,0.0,933.59
+ORD-1355,23-Feb-2024,west,M. Ansah,Yaw Mensah,Home & Kitchen,Blender,8,228.25,0.1,1643.4
+ORD-1134,07/06/2024,Central,S. Addo,Efua Mensah,Groceries,Pasta Pack,6,238.04,0.05,1356.83
+ORD-1268,17/11/2024,North,M. Ansah,Kweku Appiah,Beauty,Shampoo 400ml,10,230.37,0.15,1958.14
+ORD-1385,08-09-2024,Central,R. Ofori,Nana Osei,Fashion,Sneakers,11,9.14,0.0,100.54
+ORD-1609,20/07/2024,South,P. Amoah,Kweku Owusu,Electronics,Power Bank,10,125.16,0.1,1126.44
+ORD-1220,04-08-2024,West,M. Ansah,Kwesi Boateng,Electronics,Wireless Earbuds,5,204.73,0.05,972.47
+ORD-1041,17/02/2024,SOUTH,S. Addo,Kwesi Danso,Electronics,Smartphone Case,4,169.83,0.0,679.32
+ORD-1219,2024-05-26,central,P. Amoah,Kwesi Adjei,Electronics,Wireless Earbuds,12,128.04,0.15,1306.01
+ORD-1597,2024-09-05,west,R. Ofori,Efua Appiah,Electronics,Wireless Earbuds,9,120.19,0.15,919.45
+ORD-2153,04/06/2024,East,S. Addo,Kwabena Danso,Groceries,Rice 5kg,1,175.09,0.0,175.09
+ORD-2370,04/06/2024,West,R. Ofori,Abena Asante,Electronics,Laptop Stand,2,137.78,0.0,275.56
+ORD-1680,08-14-2024,SOUTH,J. Tetteh,Esi Osei,Groceries,Canned Tomatoes,9,247.26,0.05,2114.07
+ORD-1953,03-04-2024,south,R. Ofori,Esi Asante,Beauty,Hair Oil,8,242.07,0.05,1839.73
+ORD-2732,09-18-2024,NORTH,S. Addo,Kweku Appiah,Home & Kitchen,Blender,2,243.02,0.05,461.74
+ORD-1698,2024-01-12,South,R. Ofori,,Fashion,Sneakers,0,45.7,0.15,116.54
+ORD-1541,2024-05-24,East,J. Tetteh,Yaa Appiah,Electronics,Laptop Stand,12,62.63,0.1,676.4
+ORD-2431,07-12-2024,Central,M. Ansah,Kwesi Owusu,Beauty,Lip Balm Set,8,166.85,0.15,1134.58
+ORD-1905,08/03/2024,N.,J. Tetteh,Esi Mensah,Groceries,Rice 5kg,5,193.68,0.0,968.4
+ORD-2020,2024-06-04,east,P. Amoah,Nana Mensah,Electronics,Power Bank,11,163.05,0.1,1614.2
+ORD-2711,14-May-2024,East,S. Addo,Kofi Appiah,Fashion,Leather Wallet,9,18.1,0.0,162.9
+ORD-1946,28-Feb-2024,East,S. Addo,Yaw Osei,Home & Kitchen,Storage Containers,12,69.39,0.0,832.68
+ORD-2083,13/07/2024,Central,P. Amoah,Akosua Adjei,Home & Kitchen,Blender,8,161.24,0.1,1160.93
+ORD-2433,18-Mar-2024,north,R. Ofori,Kwaku Asante,Home & Kitchen,Storage Containers,5,139.03,0.0,695.15
+ORD-2227,03-01-2024,West,R. Ofori,Kofi Agyeman,Groceries,Pasta Pack,9,165.59,0.0,1490.31
+ORD-2438,25/08/2024,East,M. Ansah,Adjoa Asante,Home & Kitchen,Table Lamp,12,231.88,0.1,2504.3
+ORD-2306,14-Jul-2024,South,M. Ansah,Esi Mensah,Home & Kitchen,Storage Containers,3,97.95,0.0,293.85
+ORD-2628,21/01/2024,east,J. Tetteh,Yaa Darko,Home & Kitchen,Electric Kettle,5,9.25,0.0,46.25
+ORD-2127,07-05-2024,east,P. Amoah,Adwoa Appiah,Fashion,Cotton T-Shirt,9,194.23,0.05,1660.67
+ORD-2658,2024-09-13,NORTH,P. Amoah,Kofi Danso,Home & Kitchen,Blender,5,202.92,0.15,862.41
+ORD-2072,2024-05-23,west,P. Amoah,Akua Agyeman,Fashion,Sneakers,8,61.9,0.0,495.2
+ORD-1728,11-Mar-2024,central,M. Ansah,Adwoa Danso,Fashion,Sneakers,11,191.61,0.05,2002.32
+ORD-1336,09-16-2024,Central,S. Addo,Yaa Osei,Fashion,Denim Jeans,11,212.13,0.1,2100.09
+ORD-1232,03-12-2024,Central,M. Ansah,Akua Darko,Beauty,Lip Balm Set,8,78.78,0.0,630.24
+ORD-1828,2024-11-16,South,R. Ofori,Kofi Darko,Home & Kitchen,Electric Kettle,3,217.75,0.0,653.25
+ORD-2302,2024-02-03,west,J. Tetteh,Kwesi Mensah,Beauty,Lip Balm Set,1,10.26,0.0,10.26
+ORD-2508,07-26-2024,east,M. Ansah,Kwabena Mensah,Fashion,Sunglasses,9,97.0,0.05,829.35
+ORD-1468,2024-04-20,central,J. Tetteh,Kojo Adjei,Beauty,Shea Butter Lotion,4,29.8,0.1,107.28
+ORD-1720,12/07/2024,Central,M. Ansah,Abena Danso,Fashion,Leather Wallet,9,30.78,0.1,249.32
+ORD-1936,2024-05-14,east,R. Ofori,Akosua Agyeman,Electronics,Laptop Stand,11,157.05,0.0,1727.55
+ORD-1892,23/01/2024,NORTH,M. Ansah,Kwabena Agyeman,Fashion,Sneakers,9,51.97,0.15,397.57
+ORD-2028,25/04/2024,Central,S. Addo,Adwoa Osei,Home & Kitchen,Non-stick Pan,7,186.83,0.1,1177.03
+ORD-1585,10-Mar-2024,South,S. Addo,Akua Darko,Beauty,Hair Oil,11,181.36,0.0,1994.96
+ORD-1205,2024-04-21,north,P. Amoah,Kweku Asante,Electronics,USB-C Cable,5,39.33,0.0,196.65
+ORD-1003,2024-07-12,east,J. Tetteh,Kweku Agyeman,Electronics,Laptop Stand,11,140.25,0.1,1388.48
+ORD-2038,07-Nov-2024,East,P. Amoah,Kwame Asante,Electronics,Wireless Earbuds,12,172.08,0.0,2064.96
+ORD-1748,2024-07-04,South,R. Ofori,Adjoa Asante,Beauty,Face Wash,12,73.79,0.15,752.66
+ORD-2604,31-Jul-2024,central,P. Amoah,Fiifi Danso,Groceries,Rice 5kg,5,137.03,0.0,685.15
+ORD-2679,2024-07-27,South,R. Ofori,Adjoa Asante,Groceries,Rice 5kg,4,88.72,0.0,354.88
+ORD-2629,2024-08-23,WEST,J. Tetteh,Kwaku Appiah,Electronics,Power Bank,3,89.99,0.0,269.97
+ORD-1693,08-01-2024,N.,J. Tetteh,Nana Mensah,Home & Kitchen,Electric Kettle,12,81.92,0.05,933.89
+ORD-2528,04-27-2024,south,R. Ofori,Ama Boateng,Fashion,Leather Wallet,11,88.28,0.0,971.08
+ORD-2509,13-Oct-2024,North,J. Tetteh,Adjoa Agyeman,Home & Kitchen,Blender,11,101.68,0.1,1006.63
+ORD-1714,11-19-2024,N.,J. Tetteh,Yaw Danso,Electronics,Laptop Stand,11,107.73,0.15,1007.28
+ORD-2203,02-Oct-2024,East,S. Addo,Ama Agyeman,Beauty,Hair Oil,6,74.25,0.15,378.68
+ORD-2687,13/12/2024,East,P. Amoah,Afia Boateng,Electronics,Wireless Earbuds,11,19.35,0.05,202.21
+ORD-2707,13/07/2024,south,P. Amoah,Kwabena Agyeman,Home & Kitchen,Blender,8,205.81,0.0,1646.48
+ORD-1833,07-Jul-2024,South,M. Ansah,Kwesi Adjei,Beauty,Shea Butter Lotion,11,156.5,0.05,1635.42
+ORD-2649,2024-03-16,Central,J. Tetteh,Efua Osei,Beauty,Shea Butter Lotion,2,217.77,0.0,435.54
+ORD-2010,2024-08-24,east,R. Ofori,Kweku Darko,Fashion,Sneakers,1,228.58,0.05,217.15
+ORD-2102,2024-08-05,east,J. Tetteh,Yaa Owusu,Groceries,Pasta Pack,1,97.04,0.0,97.04
+ORD-2626,01-23-2024,east,J. Tetteh,Kwabena Boateng,Electronics,Power Bank,8,191.44,0.1,1378.37
+ORD-1157,04-19-2024,central,R. Ofori,Kofi Adjei,Beauty,Shea Butter Lotion,8,175.03,0.0,1400.24
+ORD-2138,27/12/2024,WEST,R. Ofori,Adwoa Darko,Groceries,Cooking Oil 1L,2,191.95,0.05,364.7
+ORD-2587,04/10/2024,N.,R. Ofori,Yaa Osei,Groceries,Pasta Pack,10,214.97,0.05,2042.21
+ORD-1462,10-04-2024,South,S. Addo,Kweku Adjei,Beauty,Shampoo 400ml,11,116.25,0.1,1150.88
+ORD-1652,24/08/2024,east,S. Addo,Kwesi Asante,Beauty,Shea Butter Lotion,12,63.89,0.15,651.68
+ORD-1160,09/10/2024,West,R. Ofori,Kwaku Appiah,Fashion,Sunglasses,2,154.93,0.0,309.86
+ORD-1305,24/04/2024,WEST,S. Addo,,Fashion,Denim Jeans,12,97.7,0.15,996.54
+ORD-1656,02-12-2024,Central,J. Tetteh,Adwoa Mensah,Electronics,Laptop Stand,2,152.39,0.05,289.54
+ORD-1547,03-13-2024,WEST,J. Tetteh,Kwaku Osei,Fashion,Cotton T-Shirt,2,118.91,0.1,214.04
+ORD-1713,02-13-2024,East,J. Tetteh,Kwame Agyeman,Groceries,Cooking Oil 1L,3,82.13,0.05,234.07
+ORD-1395,04-10-2024,north,P. Amoah,Kofi Boateng,Beauty,Shea Butter Lotion,11,184.72,0.0,2031.92
+ORD-1399,2024-04-28,Central,R. Ofori,Ama Asante,Groceries,Sugar 1kg,4,69.77,0.0,279.08
+ORD-2305,09-Oct-2024,West,P. Amoah,Akosua Boateng,Beauty,Lip Balm Set,5,176.47,0.15,750.0
+ORD-2504,04-14-2024,N.,J. Tetteh,Yaw Mensah,Home & Kitchen,Table Lamp,5,158.65,0.15,674.26
+ORD-2470,11-28-2024,West,S. Addo,Efua Mensah,Electronics,Power Bank,1,106.81,0.0,106.81
+ORD-2259,01/09/2024,South,S. Addo,Yaa Mensah,Beauty,Hair Oil,6,20.63,0.0,123.78
+ORD-1736,13/04/2024,south,J. Tetteh,Nana Owusu,Fashion,Leather Wallet,10,189.27,0.0,1892.7
+ORD-2531,2024-12-17,south,S. Addo,Fiifi Mensah,Beauty,Shea Butter Lotion,5,248.32,0.0,1241.6
+ORD-1863,14/01/2024,Central,R. Ofori,Fiifi Darko,Groceries,Cooking Oil 1L,2,23.99,0.1,43.18
+ORD-1459,24/02/2024,central,P. Amoah,Efua Boateng,Electronics,Wireless Earbuds,6,124.52,0.1,672.41
+ORD-1062,10-08-2024,central,R. Ofori,Kwesi Appiah,Groceries,Pasta Pack,8,91.19,0.0,729.52
+ORD-1935,13/11/2024,central,R. Ofori,Abena Darko,Electronics,Smartphone Case,9,113.0,0.1,915.3
+ORD-1798,12/08/2024,west,M. Ansah,,Groceries,Rice 5kg,5,120.34,0.0,601.7
+ORD-1457,03-26-2024,north,J. Tetteh,Akosua Appiah,Electronics,Bluetooth Speaker,7,148.25,0.0,1037.75
+ORD-2418,19/03/2024,SOUTH,M. Ansah,Yaa Appiah,Electronics,USB-C Cable,1,65.18,0.0,65.18
+ORD-1478,03-17-2024,NORTH,P. Amoah,Fiifi Agyeman,Beauty,Shea Butter Lotion,4,128.09,0.0,512.36
+ORD-1912,17/03/2024,NORTH,J. Tetteh,Kofi Owusu,Groceries,Sugar 1kg,7,83.46,0.05,555.01
+ORD-2706,15/04/2024,WEST,R. Ofori,Kweku Osei,Beauty,Shea Butter Lotion,11,167.8,0.15,1568.93
+ORD-1617,12/05/2024,WEST,J. Tetteh,Kwesi Danso,Electronics,Smartphone Case,3,147.51,0.0,442.53
+ORD-2690,2024-11-02,South,S. Addo,Kofi Appiah,Beauty,Lip Balm Set,1,97.85,0.0,97.85
+ORD-1903,31-Mar-2024,central,M. Ansah,Kwame Adjei,Home & Kitchen,Non-stick Pan,4,173.4,0.0,693.6
+ORD-2301,11-Jun-2024,Central,R. Ofori,Kwabena Boateng,Groceries,Pasta Pack,12,65.2,0.0,782.4
+ORD-2048,2024-09-29,West,R. Ofori,Nana Boateng,Home & Kitchen,Electric Kettle,1,166.8,0.1,150.12
+ORD-2483,02/03/2024,Central,P. Amoah,Kwaku Boateng,Fashion,Denim Jeans,1,37.45,0.0,37.45
+ORD-1347,2024-07-13,North,R. Ofori,Esi Darko,Electronics,Laptop Stand,8,139.08,0.15,945.74
+ORD-1837,03/05/2024,central,P. Amoah,Esi Osei,Home & Kitchen,Storage Containers,11,56.85,0.15,531.55
+ORD-1190,02-27-2024,central,M. Ansah,Kweku Adjei,Home & Kitchen,Table Lamp,8,44.81,0.15,304.71
+ORD-2104,01-Mar-2024,SOUTH,S. Addo,,Beauty,Hair Oil,12,248.96,0.15,2539.39
+ORD-1760,2024-01-07,WEST,J. Tetteh,Kwabena Owusu,Fashion,Sunglasses,4,150.26,0.1,540.94
+ORD-1446,03/10/2024,central,R. Ofori,Abena Appiah,Beauty,Lip Balm Set,8,202.15,0.0,1617.2
+ORD-1650,07-24-2024,east,,Fiifi Asante,Groceries,Pasta Pack,8,158.12,0.15,1075.22
+ORD-2134,24/03/2024,west,J. Tetteh,Nana Danso,Fashion,Sunglasses,10,230.98,0.15,1963.33
+ORD-2638,28-Jun-2024,east,S. Addo,Kwaku Asante,Home & Kitchen,Blender,2,210.71,0.15,358.21
+ORD-1379,30/05/2024,NORTH,S. Addo,Fiifi Appiah,Home & Kitchen,Electric Kettle,10,237.83,0.1,2140.47
+ORD-1564,2024-11-25,West,P. Amoah,Akosua Asante,Home & Kitchen,Table Lamp,12,228.59,0.0,2743.08
+ORD-2586,14-Jan-2024,west,M. Ansah,Kwabena Agyeman,Groceries,Canned Tomatoes,2,72.35,0.1,130.23
+ORD-2074,02-20-2024,south,S. Addo,Kwaku Danso,Beauty,Face Wash,2,74.77,0.0,149.54
+ORD-2744,10-20-2024,East,P. Amoah,Kofi Owusu,Electronics,USB-C Cable,6,142.63,0.15,727.41
+ORD-2186,27-Feb-2024,central,R. Ofori,Kwame Danso,Fashion,Sunglasses,4,195.46,0.1,703.66
+ORD-1231,29-May-2024,Central,J. Tetteh,Fiifi Darko,Beauty,Lip Balm Set,2,100.01,0.15,170.02
+ORD-2510,2024-05-03,South,M. Ansah,Yaa Asante,Beauty,Shampoo 400ml,10,129.56,0.1,1166.04
+ORD-1382,19/02/2024,West,J. Tetteh,Fiifi Agyeman,Fashion,Denim Jeans,9,243.05,0.1,1968.71
+ORD-2078,09-09-2024,west,R. Ofori,Esi Osei,Electronics,Laptop Stand,3,26.28,0.0,78.84
+ORD-2623,25-Oct-2024,central,P. Amoah,,Beauty,Shea Butter Lotion,10,5.66,0.0,56.6
+ORD-1072,19-May-2024,central,R. Ofori,Kweku Adjei,Groceries,Rice 5kg,10,112.25,0.0,1122.5
+ORD-1070,25-Dec-2024,central,,Adjoa Adjei,Fashion,Cotton T-Shirt,4,22.44,0.0,89.76
+ORD-2693,19-Oct-2024,west,J. Tetteh,Fiifi Agyeman,Groceries,Canned Tomatoes,5,196.72,0.0,983.6
+ORD-2366,16/11/2024,west,P. Amoah,Ama Appiah,Beauty,Shampoo 400ml,9,151.7,0.15,1160.5
+ORD-1171,01-26-2024,central,J. Tetteh,Kwaku Appiah,Home & Kitchen,Electric Kettle,11,126.25,0.15,1180.44
+ORD-1872,22-Jan-2024,N.,P. Amoah,Adjoa Agyeman,Beauty,Face Wash,11,241.34,0.1,2389.27
+ORD-1168,2024-07-08,East,M. Ansah,Efua Darko,Fashion,Leather Wallet,8,83.18,0.0,665.44
+ORD-1493,15/04/2024,west,M. Ansah,Kweku Agyeman,Beauty,Face Wash,11,147.35,0.0,1620.85
+ORD-2747,24/01/2024,Central,S. Addo,Ama Adjei,Home & Kitchen,Blender,9,91.19,0.15,697.6
+ORD-1964,26-Jun-2024,north,S. Addo,Ama Owusu,Beauty,Lip Balm Set,10,248.75,0.1,2238.75
+ORD-2298,19-Apr-2024,central,,Akosua Appiah,Groceries,Pasta Pack,2,39.63,0.1,71.33
+ORD-1272,01-07-2024,West,P. Amoah,Afia Owusu,Home & Kitchen,Storage Containers,3,233.81,0.05,666.36
+ORD-2187,09/09/2024,central,S. Addo,Akosua Danso,Electronics,Smartphone Case,8,85.52,0.1,615.74
+ORD-1420,2024-12-01,Central,M. Ansah,Ama Appiah,Beauty,Shampoo 400ml,2,244.03,0.0,488.06
+ORD-1094,02-16-2024,NORTH,M. Ansah,Kwaku Appiah,Groceries,Rice 5kg,7,85.05,0.0,595.35
+ORD-2253,24/04/2024,north,,Kofi Mensah,Beauty,Shampoo 400ml,4,65.11,0.05,247.42
+ORD-2443,23/12/2024,North,J. Tetteh,Akosua Osei,Home & Kitchen,Table Lamp,1,248.0,0.05,235.6
+ORD-2454,13/04/2024,north,S. Addo,Afia Osei,Home & Kitchen,Table Lamp,1,107.38,0.15,91.27
+ORD-1042,21-Aug-2024,South,J. Tetteh,Adwoa Danso,Electronics,Bluetooth Speaker,10,222.1,0.0,2221.0
+ORD-1056,12-04-2024,Central,R. Ofori,Efua Agyeman,Beauty,Shea Butter Lotion,11,21.89,0.0,240.79
+ORD-2627,16/12/2024,WEST,S. Addo,Kwaku Osei,Beauty,Lip Balm Set,12,174.86,0.15,1783.57
+ORD-2008,04-12-2024,East,P. Amoah,Yaw Darko,Home & Kitchen,Non-stick Pan,5,79.72,0.1,358.74
+ORD-2617,08/10/2024,west,J. Tetteh,Esi Darko,Beauty,Shampoo 400ml,2,180.98,0.15,307.67
+ORD-2757,02-10-2024,east,J. Tetteh,Akua Darko,Electronics,Wireless Earbuds,4,32.19,0.15,109.45
+ORD-1038,07-Dec-2024,east,S. Addo,Abena Agyeman,Electronics,Laptop Stand,12,84.91,0.0,1018.92
+ORD-1306,17/01/2024,East,P. Amoah,Kwaku Darko,Home & Kitchen,Blender,10,152.59,0.0,1525.9
+ORD-2166,08/11/2024,Central,S. Addo,Akosua Mensah,Beauty,Lip Balm Set,11,45.78,0.05,478.4
+ORD-1978,22-Dec-2024,NORTH,S. Addo,Ama Darko,Groceries,Pasta Pack,11,125.87,0.0,1384.57
+ORD-1915,29/09/2024,west,R. Ofori,Yaa Agyeman,Beauty,Hair Oil,10,99.23,0.15,843.46
+ORD-1782,26/04/2024,Central,M. Ansah,Yaw Darko,Groceries,Pasta Pack,9,121.24,0.1,982.04
+ORD-1408,2024-08-20,Central,S. Addo,Kofi Boateng,Beauty,Lip Balm Set,7,61.3,0.0,429.1
+ORD-1820,2024-01-20,east,R. Ofori,Kwaku Owusu,Groceries,Sugar 1kg,10,99.28,0.0,992.8
+ORD-1781,06-02-2024,East,J. Tetteh,Yaa Adjei,Beauty,Shampoo 400ml,7,206.47,0.05,1373.03
+ORD-1166,11-17-2024,East,R. Ofori,Afia Mensah,Beauty,Hair Oil,5,162.27,0.05,770.78
+ORD-1534,2024-10-11,East,S. Addo,Nana Owusu,Beauty,Shea Butter Lotion,9,199.15,0.05,1702.73
+ORD-1583,04-11-2024,SOUTH,R. Ofori,Kwaku Appiah,Groceries,Pasta Pack,2,61.37,0.0,122.74
+ORD-2741,2024-02-16,N.,J. Tetteh,Efua Agyeman,Electronics,Wireless Earbuds,1,145.72,0.1,131.15
+ORD-2734,11-Mar-2024,Central,R. Ofori,Afia Danso,Fashion,Cotton T-Shirt,3,70.24,0.0,210.72
+ORD-2307,11-Jan-2024,central,R. Ofori,Kwaku Boateng,Groceries,Pasta Pack,10,236.92,0.0,2369.2
+ORD-2158,10-Dec-2024,West,M. Ansah,Kwabena Agyeman,Groceries,Canned Tomatoes,1,67.64,0.15,57.49
+ORD-2724,11-Aug-2024,central,J. Tetteh,Fiifi Mensah,Groceries,Rice 5kg,11,243.25,0.05,2541.96
+ORD-2025,14/06/2024,South,R. Ofori,Esi Osei,Electronics,Laptop Stand,12,245.43,0.0,2945.16
+ORD-2751,06-18-2024,south,J. Tetteh,Yaw Agyeman,Fashion,Sneakers,8,18.0,0.0,144.0
+ORD-1813,2024-11-18,SOUTH,R. Ofori,Fiifi Boateng,Groceries,Pasta Pack,8,20.83,0.0,166.64
+ORD-1316,04-25-2024,south,S. Addo,Kweku Osei,Electronics,Smartphone Case,3,143.24,0.15,365.26
+ORD-2180,12-Sep-2024,South,S. Addo,Esi Asante,Fashion,Sunglasses,11,144.5,0.0,1589.5
+ORD-2573,01-May-2024,Central,,Kofi Adjei,Electronics,USB-C Cable,5,55.2,0.0,276.0
+ORD-1516,2024-07-30,N.,R. Ofori,Kwabena Danso,Electronics,Laptop Stand,9,86.78,0.15,663.87
+ORD-2344,24/09/2024,south,,Yaw Boateng,Electronics,Wireless Earbuds,4,235.33,0.0,941.32
+ORD-2529,06-Jun-2024,East,R. Ofori,Kojo Osei,Electronics,Laptop Stand,5,199.06,0.1,895.77
+ORD-2516,09-15-2024,Central,J. Tetteh,Fiifi Darko,Home & Kitchen,Non-stick Pan,5,189.37,0.0,946.85
+ORD-1533,28-Jun-2024,east,J. Tetteh,Kojo Osei,Groceries,Rice 5kg,3,118.0,0.0,354.0
+ORD-2525,12-13-2024,East,P. Amoah,Yaw Darko,Home & Kitchen,Blender,9,182.87,0.1,1481.25
+ORD-1887,05-23-2024,WEST,S. Addo,Esi Adjei,Electronics,Smartphone Case,4,179.34,0.0,717.36
+ORD-1271,2024-05-31,East,R. Ofori,Kwesi Asante,Beauty,Lip Balm Set,4,197.03,0.05,748.71
+ORD-1548,2024-06-08,Central,P. Amoah,Kojo Agyeman,Home & Kitchen,Storage Containers,9,226.38,0.0,2037.42
+ORD-1668,07-31-2024,SOUTH,J. Tetteh,Abena Asante,Beauty,Face Wash,7,49.56,0.1,312.23
+ORD-2718,18/04/2024,South,P. Amoah,Ama Danso,Beauty,Lip Balm Set,1,40.7,0.0,40.7
+ORD-1453,2024-08-25,West,S. Addo,Abena Osei,Fashion,Sneakers,3,85.91,0.0,257.73
+ORD-1606,11-27-2024,East,S. Addo,Yaa Agyeman,Electronics,Laptop Stand,5,121.11,0.1,545.0
+ORD-2552,06-Jul-2024,east,P. Amoah,Abena Boateng,Electronics,Power Bank,10,161.01,0.0,1610.1
+ORD-2491,24/11/2024,SOUTH,P. Amoah,Adjoa Agyeman,Groceries,Canned Tomatoes,12,31.91,0.0,382.92
+ORD-1804,28/04/2024,SOUTH,J. Tetteh,Nana Darko,Home & Kitchen,Table Lamp,6,30.94,0.0,185.64
+ORD-1598,2024-08-22,central,M. Ansah,Efua Owusu,Groceries,Pasta Pack,3,24.64,0.0,73.92
+ORD-1956,22-Oct-2024,SOUTH,J. Tetteh,Afia Darko,Groceries,Cooking Oil 1L,11,36.57,0.05,382.16
+ORD-2564,25-Oct-2024,East,M. Ansah,Akua Agyeman,Groceries,Canned Tomatoes,11,162.31,0.0,1785.41
+ORD-1751,14-Dec-2024,SOUTH,S. Addo,Yaa Danso,Electronics,Laptop Stand,7,5.48,0.15,32.61
+ORD-1570,10-03-2024,South,J. Tetteh,Adwoa Darko,Beauty,Shampoo 400ml,8,127.42,0.0,1019.36
+ORD-2557,13-Mar-2024,Central,J. Tetteh,Efua Darko,Fashion,Cotton T-Shirt,9,88.63,0.0,797.67
+ORD-1061,30/05/2024,Central,J. Tetteh,Kweku Mensah,Groceries,Canned Tomatoes,4,104.08,0.0,416.32
+ORD-2266,2024-11-06,NORTH,J. Tetteh,Kwesi Adjei,Groceries,Rice 5kg,1,245.59,0.15,208.75
+ORD-1536,2024-03-29,central,M. Ansah,Fiifi Agyeman,Groceries,Pasta Pack,12,186.14,0.1,2010.31
+ORD-2407,16-Jul-2024,North,P. Amoah,Akosua Danso,Home & Kitchen,Non-stick Pan,2,57.28,0.0,114.56
+ORD-2252,2024-11-10,east,S. Addo,Nana Owusu,Groceries,Cooking Oil 1L,0,84.34,0.05,320.49
+ORD-2122,11-Apr-2024,East,P. Amoah,Ama Adjei,Home & Kitchen,Storage Containers,12,47.38,0.0,568.56
+ORD-1957,20/02/2024,south,M. Ansah,Akua Darko,Fashion,Sunglasses,11,128.54,0.1,1272.55
+ORD-1244,2024-06-24,west,J. Tetteh,Ama Owusu,Electronics,Smartphone Case,3,170.9,0.15,435.8
+ORD-1025,21/07/2024,central,S. Addo,Fiifi Asante,Fashion,Denim Jeans,5,169.56,0.05,805.41
+ORD-2295,24/07/2024,East,M. Ansah,Akosua Agyeman,Electronics,USB-C Cable,6,210.83,0.0,1264.98
+ORD-1882,2024-08-07,south,S. Addo,Adjoa Mensah,Beauty,Shea Butter Lotion,5,111.41,0.0,557.05
+ORD-1222,2024-11-22,N.,J. Tetteh,Yaa Osei,Groceries,Canned Tomatoes,2,177.2,0.05,336.68
+ORD-2599,2024-08-20,East,S. Addo,Kojo Appiah,Groceries,Sugar 1kg,6,85.06,0.0,510.36
+ORD-1105,2024-05-15,NORTH,M. Ansah,Fiifi Mensah,Home & Kitchen,Table Lamp,7,36.06,0.1,227.18
+ORD-1673,25-Oct-2024,east,S. Addo,Kweku Asante,Home & Kitchen,Table Lamp,8,26.01,0.0,208.08
+ORD-1642,2024-02-01,WEST,S. Addo,Efua Adjei,Groceries,Pasta Pack,3,149.66,0.0,448.98
+ORD-2164,01-02-2024,west,S. Addo,Akua Darko,Groceries,Cooking Oil 1L,11,191.92,0.0,2111.12
+ORD-1665,2024-08-20,Central,S. Addo,Afia Agyeman,Fashion,Sneakers,11,191.68,0.15,1792.21
+ORD-1509,04/04/2024,SOUTH,J. Tetteh,Yaa Asante,Fashion,Sunglasses,6,18.49,0.0,110.94
+ORD-1131,2024-06-22,Central,R. Ofori,Abena Darko,Fashion,Leather Wallet,11,198.36,0.0,2181.96
+ORD-2242,10/09/2024,North,P. Amoah,Adwoa Asante,Electronics,Laptop Stand,11,149.82,0.0,1648.02
+ORD-1444,2024-03-28,South,P. Amoah,Yaw Boateng,Fashion,Sneakers,6,13.61,0.0,81.66
+ORD-1961,2024-08-23,East,J. Tetteh,Kwaku Owusu,Home & Kitchen,Blender,5,31.23,0.0,156.15
+ORD-1508,28-Jul-2024,N.,R. Ofori,Kwaku Osei,Home & Kitchen,Electric Kettle,10,24.45,0.0,244.5
+ORD-1866,2024-02-20,central,P. Amoah,Yaa Adjei,Beauty,Face Wash,7,46.83,0.0,327.81
+ORD-1992,10-21-2024,north,J. Tetteh,Esi Mensah,Electronics,Bluetooth Speaker,9,63.5,0.0,571.5
+ORD-2543,07-Aug-2024,NORTH,R. Ofori,Adjoa Osei,Electronics,Smartphone Case,12,241.74,0.0,2900.88
+ORD-2274,25-Jul-2024,east,R. Ofori,Kwabena Adjei,Home & Kitchen,Storage Containers,8,97.38,0.0,779.04
+ORD-1075,17-Jun-2024,west,M. Ansah,Fiifi Owusu,Groceries,Sugar 1kg,5,174.95,0.15,743.54
+ORD-1036,06-25-2024,SOUTH,R. Ofori,Esi Danso,Fashion,Cotton T-Shirt,9,111.92,0.0,1007.28
+ORD-2619,29/07/2024,South,M. Ansah,Kwaku Danso,Home & Kitchen,Table Lamp,12,239.06,0.05,2725.28
+ORD-1057,28/12/2024,N.,R. Ofori,Akosua Appiah,Groceries,Rice 5kg,12,111.69,0.1,1206.25
+ORD-1196,09-27-2024,Central,R. Ofori,Kojo Agyeman,Home & Kitchen,Table Lamp,10,24.14,0.0,241.4
+ORD-2558,17-Feb-2024,WEST,S. Addo,Yaw Darko,Fashion,Sunglasses,6,145.36,0.05,828.55
+ORD-1967,19-Sep-2024,NORTH,R. Ofori,Kweku Osei,Beauty,Face Wash,5,230.98,0.0,1154.9
+ORD-2360,2024-01-16,West,R. Ofori,Kojo Darko,Home & Kitchen,Electric Kettle,8,126.87,0.05,964.21
+ORD-1321,2024-08-02,east,P. Amoah,Afia Danso,Electronics,Laptop Stand,3,106.54,0.1,287.66
+ORD-2476,02-10-2024,north,P. Amoah,Abena Agyeman,Electronics,Smartphone Case,11,227.05,0.0,2497.55
+ORD-1984,2024-04-18,East,J. Tetteh,Kojo Osei,Home & Kitchen,Blender,8,169.27,0.05,1286.45
+ORD-1477,2024-04-26,North,J. Tetteh,Akosua Darko,Fashion,Leather Wallet,11,160.3,0.05,1675.13
+ORD-1086,05/02/2024,central,P. Amoah,Yaa Mensah,Fashion,Sneakers,5,159.63,0.0,798.15
+ORD-2686,2024-12-18,central,S. Addo,Nana Danso,Fashion,Sunglasses,10,85.2,0.0,852.0
+ORD-1561,26/02/2024,North,,Nana Danso,Beauty,Shampoo 400ml,8,67.07,0.15,456.08
+ORD-1771,08-Apr-2024,central,M. Ansah,Yaw Boateng,Electronics,Wireless Earbuds,6,175.12,0.1,945.65
+ORD-1334,06/04/2024,NORTH,S. Addo,Kofi Adjei,Fashion,Leather Wallet,4,131.74,0.0,526.96
+ORD-2561,04-Jan-2024,East,,Adwoa Asante,Electronics,Bluetooth Speaker,7,152.1,0.0,1064.7
+ORD-2490,02/09/2024,West,M. Ansah,Nana Adjei,Fashion,Sneakers,3,112.34,0.0,337.02
+ORD-2659,2024-11-27,central,,Kwesi Osei,Groceries,Pasta Pack,10,53.67,0.05,509.87
+ORD-2109,10/05/2024,east,R. Ofori,Efua Danso,Beauty,Face Wash,3,23.98,0.0,71.94
+ORD-1708,12-Aug-2024,NORTH,J. Tetteh,Afia Owusu,Home & Kitchen,Table Lamp,2,240.85,0.0,481.7
+ORD-2177,04-18-2024,SOUTH,J. Tetteh,Kofi Asante,Fashion,Sneakers,1,41.35,0.0,41.35
+ORD-2419,20/07/2024,south,J. Tetteh,Kwesi Agyeman,Beauty,Shea Butter Lotion,8,45.92,0.0,367.36
+ORD-2221,08-Jun-2024,west,J. Tetteh,Yaw Danso,Beauty,Hair Oil,5,120.02,0.0,600.1
+ORD-2228,2024-12-05,East,R. Ofori,Adwoa Agyeman,Fashion,Leather Wallet,6,168.66,0.1,910.76
+ORD-2520,04-26-2024,Central,P. Amoah,Yaw Adjei,Home & Kitchen,Storage Containers,1,95.54,0.0,95.54
+ORD-1538,16/02/2024,Central,,Fiifi Osei,Beauty,Hair Oil,10,205.17,0.15,1743.94
+ORD-2082,21/09/2024,SOUTH,J. Tetteh,Yaw Asante,Groceries,Sugar 1kg,2,5.78,0.05,10.98
+ORD-2776,02-04-2024,South,M. Ansah,Esi Danso,Groceries,Cooking Oil 1L,9,227.19,0.0,2044.71
+ORD-2240,02-15-2024,Central,J. Tetteh,Adjoa Agyeman,Groceries,Sugar 1kg,11,64.12,0.05,670.05
+ORD-2764,2024-01-07,North,P. Amoah,Adwoa Danso,Electronics,USB-C Cable,7,102.46,0.1,645.5
+ORD-2568,13-Apr-2024,WEST,M. Ansah,Kojo Asante,Beauty,Face Wash,3,61.87,0.0,185.61
+ORD-1418,12-01-2024,East,P. Amoah,Nana Darko,Beauty,Shea Butter Lotion,10,179.34,0.0,1793.4
+ORD-2206,2024-05-30,east,P. Amoah,Kwame Darko,Beauty,Hair Oil,7,157.8,0.0,1104.6
+ORD-2708,05-10-2024,North,J. Tetteh,Nana Asante,Electronics,Power Bank,4,180.12,0.0,720.48
+ORD-2681,08-07-2024,east,J. Tetteh,Esi Danso,Home & Kitchen,Non-stick Pan,4,164.32,0.15,558.69
+ORD-1573,2024-03-28,north,P. Amoah,Esi Osei,Electronics,Smartphone Case,2,205.36,0.0,410.72
+ORD-1943,08-07-2024,WEST,,Akua Mensah,Home & Kitchen,Non-stick Pan,5,241.02,0.0,1205.1
+ORD-2553,07/06/2024,south,P. Amoah,Abena Mensah,Beauty,Shea Butter Lotion,4,238.56,0.0,954.24
+ORD-1332,08-26-2024,east,M. Ansah,Kweku Adjei,Groceries,Sugar 1kg,10,170.91,0.05,1623.64
+ORD-1851,29-Mar-2024,North,P. Amoah,,Home & Kitchen,Storage Containers,11,195.08,0.15,1824.0
+ORD-1810,11/07/2024,north,M. Ansah,Abena Asante,Fashion,Sneakers,4,162.3,0.15,551.82
+ORD-1735,2024-01-14,east,M. Ansah,Afia Appiah,Home & Kitchen,Blender,2,78.02,0.0,156.04
+ORD-1901,24-Oct-2024,Central,,Fiifi Adjei,Groceries,Cooking Oil 1L,4,43.13,0.15,146.64
+ORD-2645,2024-11-14,west,S. Addo,Efua Darko,Beauty,Hair Oil,10,95.87,0.15,814.89
+ORD-1574,21-Jun-2024,WEST,R. Ofori,Kojo Asante,Beauty,Shampoo 400ml,11,84.44,0.1,835.96
+ORD-2571,2024-07-11,East,S. Addo,Yaa Danso,Groceries,Canned Tomatoes,8,51.64,0.0,413.12
+ORD-2342,2024-07-11,NORTH,S. Addo,Efua Boateng,Beauty,Hair Oil,11,159.08,0.0,1749.88
+ORD-2535,15-Sep-2024,N.,P. Amoah,Kojo Owusu,Electronics,Laptop Stand,6,190.81,0.05,1087.62
+ORD-2666,02-Mar-2024,N.,M. Ansah,Yaa Boateng,Fashion,Leather Wallet,6,236.97,0.1,1279.64
+ORD-2477,2024-05-17,N.,S. Addo,Akosua Owusu,Electronics,Smartphone Case,2,38.54,0.1,69.37
+ORD-2056,08-13-2024,Central,P. Amoah,Ama Boateng,Home & Kitchen,Blender,12,15.28,0.0,183.36
+ORD-2364,07-24-2024,Central,P. Amoah,Akosua Boateng,Fashion,Leather Wallet,6,119.53,0.0,717.18
+ORD-2432,21-May-2024,East,R. Ofori,Kojo Danso,Home & Kitchen,Electric Kettle,1,58.96,0.0,58.96
+ORD-1008,22/04/2024,central,S. Addo,Kwaku Darko,Beauty,Hair Oil,2,129.83,0.0,259.66
+ORD-2046,11-Jan-2024,East,J. Tetteh,Kweku Osei,Electronics,Bluetooth Speaker,5,209.9,0.0,1049.5
+ORD-2691,2024-04-01,NORTH,S. Addo,Kwesi Danso,Home & Kitchen,Non-stick Pan,7,76.86,0.05,511.12
+ORD-2574,07/12/2024,west,R. Ofori,Yaw Osei,Beauty,Shea Butter Lotion,2,229.22,0.0,458.44
+ORD-2233,2024-05-22,Central,M. Ansah,Afia Darko,Home & Kitchen,Table Lamp,7,239.97,0.0,1679.79
+ORD-2636,03-17-2024,Central,J. Tetteh,Abena Agyeman,Home & Kitchen,Storage Containers,2,48.15,0.0,96.3
+ORD-1304,14/06/2024,NORTH,S. Addo,Esi Appiah,Groceries,Pasta Pack,12,244.09,0.05,2782.63
+ORD-2381,2024-03-08,SOUTH,M. Ansah,Esi Boateng,Groceries,Rice 5kg,6,112.33,0.15,572.88
+ORD-2585,02-16-2024,WEST,R. Ofori,Kweku Mensah,Beauty,Lip Balm Set,4,231.29,0.1,832.64
+ORD-1074,02-Apr-2024,Central,S. Addo,Kwesi Osei,Home & Kitchen,Storage Containers,8,160.52,0.0,1284.16
+ORD-2285,2024-09-02,central,R. Ofori,Kwesi Mensah,Home & Kitchen,Electric Kettle,1,32.29,0.05,30.68
+ORD-1522,09-Jul-2024,East,M. Ansah,Kojo Osei,Fashion,Sneakers,5,208.22,0.0,1041.1
+ORD-1335,12-May-2024,central,S. Addo,Kwame Osei,Fashion,Denim Jeans,12,104.13,0.0,1249.56
+ORD-1569,19-Nov-2024,south,J. Tetteh,Efua Osei,Groceries,Rice 5kg,3,185.15,0.0,555.45
+ORD-1590,2024-09-02,WEST,R. Ofori,Akosua Agyeman,Beauty,Shea Butter Lotion,4,115.85,0.0,463.4
+ORD-1088,28-Sep-2024,NORTH,M. Ansah,Akosua Boateng,Fashion,Leather Wallet,3,143.65,0.0,430.95
+ORD-1874,09-04-2024,NORTH,S. Addo,Esi Adjei,Home & Kitchen,Table Lamp,1,69.86,0.15,59.38
+ORD-1809,01-May-2024,Central,S. Addo,Afia Owusu,Home & Kitchen,Blender,10,190.53,0.0,1905.3
+ORD-2333,10-22-2024,East,S. Addo,Kofi Agyeman,Fashion,Sneakers,3,176.09,0.0,528.27
+ORD-1217,30/07/2024,Central,J. Tetteh,Kojo Mensah,Beauty,Shea Butter Lotion,4,211.42,0.0,845.68
+ORD-1888,26-May-2024,north,M. Ansah,Ama Appiah,Electronics,Wireless Earbuds,10,73.64,0.0,736.4
+ORD-2015,2024-02-04,east,J. Tetteh,Afia Asante,Electronics,USB-C Cable,2,42.49,0.1,76.48
+ORD-1712,07-Aug-2024,East,M. Ansah,Akosua Asante,Home & Kitchen,Table Lamp,8,229.91,0.1,1655.35
+ORD-2257,23/02/2024,Central,S. Addo,Adwoa Agyeman,Electronics,Power Bank,12,181.43,0.15,1850.59
+ORD-1856,11-Oct-2024,north,J. Tetteh,Afia Boateng,Electronics,Bluetooth Speaker,2,201.13,0.0,402.26
+ORD-1173,2024-05-27,West,P. Amoah,Kwabena Appiah,Beauty,Lip Balm Set,8,99.66,0.1,717.55
+ORD-2683,2024-11-18,Central,P. Amoah,Yaa Danso,Fashion,Sunglasses,12,138.94,0.0,1667.28
+ORD-2345,09-Sep-2024,east,J. Tetteh,Akosua Appiah,Fashion,Cotton T-Shirt,9,138.55,0.05,1184.6
+ORD-1221,2024-06-02,NORTH,M. Ansah,Kwaku Asante,Groceries,Canned Tomatoes,11,165.17,0.0,1816.87
+ORD-1319,08/04/2024,Central,M. Ansah,Akua Boateng,Electronics,USB-C Cable,2,15.46,0.15,26.28
+ORD-2597,2024-12-11,East,J. Tetteh,Abena Danso,Electronics,Bluetooth Speaker,2,231.95,0.05,440.7
+ORD-2620,01/05/2024,East,M. Ansah,,Fashion,Denim Jeans,6,84.65,0.15,431.72
+ORD-1878,04-03-2024,south,R. Ofori,Abena Appiah,Groceries,Sugar 1kg,8,31.63,0.15,215.08
+ORD-2671,2024-08-04,NORTH,P. Amoah,Kofi Owusu,Home & Kitchen,Blender,1,91.88,0.05,87.29
+ORD-2070,18-Nov-2024,Central,R. Ofori,Efua Osei,Electronics,Wireless Earbuds,7,186.47,0.0,1305.29
+ORD-1825,07-22-2024,North,M. Ansah,Yaw Adjei,Beauty,Face Wash,3,6.57,0.05,18.72
+ORD-2375,2024-05-05,West,J. Tetteh,Yaa Owusu,Groceries,Sugar 1kg,12,116.4,0.0,1396.8
+ORD-1266,04/08/2024,SOUTH,J. Tetteh,Kwame Appiah,Groceries,Rice 5kg,4,122.04,0.05,463.75
+ORD-1006,2024-04-27,west,J. Tetteh,Adjoa Appiah,Fashion,Sunglasses,7,202.24,0.0,1415.68
+ORD-2232,2024-03-22,NORTH,S. Addo,Kwesi Boateng,Beauty,Shampoo 400ml,11,171.7,0.15,1605.39
+ORD-2338,01/02/2024,SOUTH,S. Addo,Afia Owusu,Home & Kitchen,Table Lamp,9,133.26,0.0,1199.34
+ORD-1738,2024-12-11,N.,P. Amoah,Kofi Agyeman,Home & Kitchen,Blender,9,65.35,0.15,499.93
+ORD-1138,02/08/2024,east,P. Amoah,Nana Agyeman,Groceries,Sugar 1kg,10,205.14,0.0,2051.4
+ORD-1163,06-26-2024,Central,M. Ansah,Akua Appiah,Fashion,Denim Jeans,5,212.25,0.0,1061.25
+ORD-2783,22/05/2024,South,R. Ofori,Kofi Adjei,Fashion,Cotton T-Shirt,12,184.13,0.1,1988.6
+ORD-1594,12-11-2024,Central,P. Amoah,Fiifi Mensah,Electronics,Power Bank,2,222.55,0.05,422.85
+ORD-2726,11-10-2024,East,R. Ofori,Fiifi Owusu,Groceries,Pasta Pack,8,194.24,0.0,1553.92
+ORD-2622,2024-05-06,WEST,S. Addo,Akua Darko,Groceries,Cooking Oil 1L,5,144.91,0.0,724.55
+ORD-2331,2024-11-09,NORTH,R. Ofori,Abena Danso,Home & Kitchen,Non-stick Pan,9,151.78,0.0,1366.02
+ORD-2157,2024-10-12,central,R. Ofori,Yaa Darko,Beauty,Face Wash,6,89.02,0.0,534.12
+ORD-2738,03-10-2024,east,M. Ansah,Kweku Boateng,Fashion,Cotton T-Shirt,8,212.67,0.0,1701.36
+ORD-1960,05-May-2024,East,P. Amoah,,Home & Kitchen,Electric Kettle,11,193.75,0.0,2131.25
+ORD-2316,06/02/2024,North,P. Amoah,Kwame Appiah,Electronics,Laptop Stand,8,147.77,0.15,1004.84
+ORD-2688,2024-08-30,East,J. Tetteh,Efua Owusu,Groceries,Rice 5kg,12,108.51,0.0,1302.12
+ORD-1523,17-Feb-2024,central,M. Ansah,Efua Mensah,Home & Kitchen,Blender,8,128.97,0.1,928.58
+ORD-2256,09/02/2024,west,S. Addo,Fiifi Agyeman,Fashion,Denim Jeans,12,83.81,0.0,1005.72
+ORD-1806,02-Nov-2024,central,S. Addo,Kwabena Darko,Electronics,Wireless Earbuds,2,245.86,0.15,417.96
+ORD-1744,2024-06-17,East,P. Amoah,Kwabena Osei,Fashion,Leather Wallet,3,228.93,0.15,583.77
+ORD-2114,09-07-2024,SOUTH,R. Ofori,Akosua Agyeman,Fashion,Denim Jeans,9,172.92,0.05,1478.47
+ORD-1578,24-Sep-2024,WEST,S. Addo,Kwabena Boateng,Groceries,Cooking Oil 1L,3,105.95,0.1,286.07
+ORD-1845,06-Sep-2024,NORTH,M. Ansah,Adjoa Mensah,Home & Kitchen,Electric Kettle,11,78.28,0.0,861.08
+ORD-2293,25-Jun-2024,east,S. Addo,Adwoa Danso,Groceries,Cooking Oil 1L,3,122.39,0.05,348.81
+ORD-1019,22-May-2024,South,M. Ansah,Yaw Darko,Beauty,Hair Oil,2,66.2,0.05,125.78
+ORD-2190,28/04/2024,N.,J. Tetteh,Akua Asante,Fashion,Sunglasses,5,80.26,0.0,401.3
+ORD-2709,16/05/2024,WEST,M. Ansah,Yaa Agyeman,Home & Kitchen,Non-stick Pan,4,86.1,0.0,344.4
+ORD-1633,02/03/2024,N.,J. Tetteh,Kweku Agyeman,Electronics,USB-C Cable,12,101.73,0.1,1098.68
+ORD-2077,19-Oct-2024,South,S. Addo,Efua Asante,Groceries,Rice 5kg,9,184.36,0.0,1659.24
+ORD-1618,03-Jul-2024,WEST,S. Addo,Akua Mensah,Home & Kitchen,Non-stick Pan,6,160.88,0.0,965.28
+ORD-2087,29-Jul-2024,south,S. Addo,Fiifi Adjei,Electronics,Power Bank,7,203.21,0.05,1351.35
+ORD-1655,19/05/2024,WEST,M. Ansah,Ama Asante,Groceries,Canned Tomatoes,5,12.14,0.15,51.59
+ORD-1016,05-01-2024,north,P. Amoah,Fiifi Owusu,Electronics,Wireless Earbuds,4,168.9,0.1,608.04
+ORD-2788,2024-10-26,Central,R. Ofori,Kweku Appiah,Groceries,Canned Tomatoes,4,154.72,0.0,618.88
+ORD-2632,20/11/2024,West,J. Tetteh,Yaw Darko,Beauty,Shea Butter Lotion,2,184.28,0.0,368.56
+ORD-1137,05-02-2024,south,P. Amoah,Kweku Asante,Beauty,Face Wash,8,241.57,0.0,1932.56
+ORD-2124,2024-11-16,North,P. Amoah,Akua Appiah,Home & Kitchen,Blender,1,192.85,0.0,192.85
+ORD-2385,13/04/2024,SOUTH,M. Ansah,Yaa Mensah,Groceries,Rice 5kg,12,78.58,0.15,801.52
+ORD-1557,2024-05-16,NORTH,S. Addo,Kofi Appiah,Groceries,Pasta Pack,10,67.56,0.05,641.82
+ORD-1697,28/11/2024,North,M. Ansah,Kwabena Osei,Home & Kitchen,Blender,11,111.77,0.1,1106.52
+ORD-2500,12-18-2024,NORTH,R. Ofori,Adjoa Mensah,Beauty,Lip Balm Set,11,137.56,0.15,1286.19
+ORD-1158,12-15-2024,north,J. Tetteh,Akua Osei,Electronics,USB-C Cable,12,168.62,0.0,2023.44
+ORD-1861,28/11/2024,central,R. Ofori,Kofi Adjei,Electronics,Power Bank,2,103.01,0.0,206.02
+ORD-2473,2024-07-29,East,S. Addo,Yaw Adjei,Fashion,Sneakers,6,243.91,0.0,1463.46
+ORD-1448,01/11/2024,N.,S. Addo,Kwame Darko,Groceries,Sugar 1kg,9,200.21,0.0,1801.89
+ORD-1368,09/03/2024,Central,R. Ofori,Fiifi Adjei,Fashion,Sneakers,12,106.12,0.15,1082.42
+ORD-2745,30/10/2024,East,R. Ofori,Kwesi Osei,Home & Kitchen,Table Lamp,7,216.98,0.0,1518.86
+ORD-1327,2024-08-21,north,J. Tetteh,Ama Asante,Home & Kitchen,Electric Kettle,12,229.92,0.0,2759.04
+ORD-1317,2024-10-10,North,M. Ansah,Akosua Danso,Fashion,Sunglasses,9,211.0,0.05,1804.05
+ORD-2391,2024-08-09,South,J. Tetteh,Abena Osei,Beauty,Lip Balm Set,9,107.24,0.0,965.16
+ORD-1526,01-12-2024,NORTH,S. Addo,,Groceries,Rice 5kg,4,161.52,0.0,646.08
+ORD-1087,12-21-2024,N.,M. Ansah,Esi Osei,Electronics,Laptop Stand,1,226.34,0.0,226.34
+ORD-2167,18/09/2024,NORTH,P. Amoah,Afia Darko,Electronics,Laptop Stand,3,213.33,0.05,607.99
+ORD-1148,22-Dec-2024,South,R. Ofori,Fiifi Boateng,Fashion,Sunglasses,3,159.78,0.0,479.34
+ORD-2480,19/05/2024,South,P. Amoah,Akosua Mensah,Beauty,Shampoo 400ml,4,125.7,0.0,502.8
+ORD-2740,2024-08-02,South,M. Ansah,Adjoa Owusu,Fashion,Sneakers,9,100.42,0.0,903.78
+ORD-1365,2024-07-31,N.,J. Tetteh,Kwabena Appiah,Home & Kitchen,Storage Containers,11,232.02,0.1,2297.0
+ORD-1589,2024-03-17,South,P. Amoah,Kwaku Asante,Fashion,Sneakers,1,107.35,0.0,107.35
+ORD-2377,14/09/2024,north,J. Tetteh,Kwesi Osei,Beauty,Shea Butter Lotion,12,118.48,0.1,1279.58
+ORD-1198,08-Mar-2024,central,R. Ofori,Kweku Mensah,Electronics,Power Bank,1,116.92,0.1,105.23
+ORD-2722,04-09-2024,Central,M. Ansah,Akosua Agyeman,Groceries,Sugar 1kg,10,80.79,0.0,807.9
+ORD-1192,12-Mar-2024,WEST,M. Ansah,Nana Owusu,Fashion,Cotton T-Shirt,4,84.28,0.0,337.12
+ORD-1404,11-Dec-2024,East,R. Ofori,Fiifi Owusu,Home & Kitchen,Storage Containers,10,122.36,0.0,1223.6
+ORD-2545,16/07/2024,south,J. Tetteh,Afia Owusu,Groceries,Canned Tomatoes,2,172.8,0.0,345.6
+ORD-2322,2024-02-03,SOUTH,M. Ansah,Kofi Adjei,Electronics,Laptop Stand,6,20.38,0.15,103.94
+ORD-1483,03-27-2024,East,S. Addo,Afia Mensah,Fashion,Leather Wallet,8,155.97,0.1,1122.98
+ORD-2332,10-Jan-2024,east,J. Tetteh,Kwaku Osei,Home & Kitchen,Non-stick Pan,4,95.65,0.0,382.6
+ORD-1791,16-Dec-2024,SOUTH,P. Amoah,Kwaku Asante,Beauty,Face Wash,1,72.48,0.0,72.48
+ORD-1799,30-Sep-2024,South,J. Tetteh,Akua Adjei,Beauty,Shea Butter Lotion,11,46.27,0.0,508.97
+ORD-1384,28/01/2024,South,J. Tetteh,Ama Owusu,Groceries,Sugar 1kg,9,199.58,0.0,1796.22
+ORD-1750,12/05/2024,Central,M. Ansah,Yaw Owusu,Electronics,Power Bank,12,220.85,0.0,2650.2
+ORD-1422,20-Aug-2024,central,M. Ansah,Adjoa Danso,Fashion,Leather Wallet,5,145.85,0.0,729.25
+ORD-1314,14/01/2024,West,J. Tetteh,Adwoa Asante,Fashion,Sunglasses,5,46.85,0.0,234.25
+ORD-2021,05/01/2024,West,S. Addo,Kweku Osei,Fashion,Denim Jeans,9,92.65,0.0,833.85
+ORD-1543,09/12/2024,SOUTH,S. Addo,Akosua Boateng,Groceries,Sugar 1kg,2,37.9,0.15,64.43
+ORD-1913,02-16-2024,West,M. Ansah,Akosua Adjei,Electronics,Power Bank,3,248.72,0.05,708.85
+ORD-1662,14-Aug-2024,east,M. Ansah,Esi Agyeman,Fashion,Leather Wallet,7,6.93,0.0,48.51
+ORD-1902,23/08/2024,west,M. Ansah,Kojo Osei,Home & Kitchen,Storage Containers,3,204.82,0.0,614.46
+ORD-2280,09-Jul-2024,East,M. Ansah,Akua Darko,Home & Kitchen,Non-stick Pan,3,15.97,0.1,43.12
+ORD-1685,11-25-2024,central,J. Tetteh,Yaw Asante,Fashion,Sunglasses,1,84.18,0.15,71.55
+ORD-2532,10-27-2024,South,S. Addo,Kwabena Agyeman,Home & Kitchen,Non-stick Pan,2,221.45,0.05,420.75
+ORD-1159,2024-04-24,central,P. Amoah,Akua Appiah,Fashion,Denim Jeans,3,246.36,0.0,739.08
+ORD-1999,2024-05-18,east,J. Tetteh,Afia Osei,Fashion,Sunglasses,7,41.24,0.0,288.68
+ORD-2427,30-Nov-2024,NORTH,,Efua Osei,Fashion,Cotton T-Shirt,5,24.14,0.0,120.7
+ORD-2618,21/04/2024,West,R. Ofori,Kwabena Asante,Electronics,USB-C Cable,1,239.39,0.0,239.39
+ORD-1202,01-12-2024,SOUTH,J. Tetteh,Yaw Asante,Groceries,Pasta Pack,12,118.44,0.1,1279.15
+ORD-2023,06/11/2024,east,R. Ofori,Adwoa Darko,Electronics,Laptop Stand,9,146.13,0.15,1117.89
+ORD-2395,06-27-2024,Central,M. Ansah,Adjoa Danso,Fashion,Leather Wallet,6,52.0,0.1,280.8
+ORD-2088,06-Jun-2024,East,J. Tetteh,Adjoa Appiah,Fashion,Sneakers,10,105.4,0.0,1054.0
+ORD-1112,05-27-2024,central,J. Tetteh,Efua Darko,Electronics,USB-C Cable,10,91.15,0.1,820.35
+ORD-2647,2024-09-20,West,J. Tetteh,Yaa Mensah,Electronics,Wireless Earbuds,1,14.49,0.15,12.32
+ORD-1980,2024-12-18,South,J. Tetteh,Efua Agyeman,Electronics,Bluetooth Speaker,1,68.62,0.0,68.62
+ORD-1922,10-19-2024,South,S. Addo,Kweku Agyeman,Groceries,Canned Tomatoes,7,178.79,0.0,1251.53
+ORD-2355,25-Mar-2024,WEST,P. Amoah,Kweku Darko,Groceries,Sugar 1kg,10,122.64,0.0,1226.4
+ORD-2448,04-30-2024,west,R. Ofori,Abena Darko,Beauty,Face Wash,4,168.23,0.0,672.92
+ORD-2471,29/02/2024,West,P. Amoah,Afia Agyeman,Home & Kitchen,Blender,9,120.99,0.1,980.02
+ORD-2139,01-Nov-2024,south,R. Ofori,Fiifi Adjei,Home & Kitchen,Storage Containers,6,135.86,0.05,774.4
+ORD-1815,06/11/2024,west,M. Ansah,Adjoa Darko,Home & Kitchen,Electric Kettle,10,79.26,0.05,752.97
+ORD-2455,04/09/2024,east,J. Tetteh,Fiifi Mensah,Beauty,Face Wash,6,56.71,0.15,289.22
+ORD-2183,10-09-2024,South,S. Addo,Ama Danso,Groceries,Cooking Oil 1L,4,27.38,0.15,93.09
+ORD-1679,28/01/2024,West,M. Ansah,Ama Asante,Beauty,Hair Oil,8,49.87,0.0,398.96
+ORD-1080,09/10/2024,central,R. Ofori,Adwoa Asante,Groceries,Canned Tomatoes,10,98.98,0.1,890.82
+ORD-2602,2024-08-30,west,P. Amoah,Esi Danso,Beauty,Lip Balm Set,3,153.24,0.05,436.73
+ORD-2231,30/06/2024,WEST,M. Ansah,Adjoa Mensah,Home & Kitchen,Electric Kettle,9,142.91,0.1,1157.57
+ORD-2493,03-Apr-2024,east,P. Amoah,Afia Danso,Home & Kitchen,Table Lamp,1,244.48,0.0,244.48
+ORD-1752,26-Aug-2024,NORTH,P. Amoah,Kofi Owusu,Groceries,Canned Tomatoes,1,93.56,0.15,79.53
+ORD-1382,19/02/2024,West,J. Tetteh,Fiifi Agyeman,Fashion,Denim Jeans,9,243.05,0.1,1968.71
+ORD-2054,2024-01-30,West,R. Ofori,Yaa Asante,Fashion,Sneakers,10,72.73,0.1,654.57
+ORD-1242,2024-07-31,Central,S. Addo,Adwoa Owusu,Fashion,Cotton T-Shirt,12,33.44,0.0,401.28
+ORD-2229,18/02/2024,East,M. Ansah,Kwame Agyeman,Fashion,Sneakers,2,243.9,0.0,487.8
+ORD-1641,14/10/2024,WEST,R. Ofori,Kwaku Osei,Beauty,Lip Balm Set,7,129.14,0.0,903.98
+ORD-1696,2024-06-03,central,R. Ofori,Afia Appiah,Fashion,Sunglasses,1,35.65,0.0,35.65
+ORD-1209,28/09/2024,south,P. Amoah,Akosua Darko,Electronics,Power Bank,5,100.16,0.0,500.8
+ORD-1507,07-Jan-2024,South,S. Addo,Kwame Danso,Home & Kitchen,Electric Kettle,8,126.92,0.1,913.82
+ORD-1770,05-02-2024,south,R. Ofori,Kwabena Adjei,Electronics,Smartphone Case,11,203.32,0.0,2236.52
+ORD-2596,11-08-2024,WEST,J. Tetteh,Yaa Appiah,Fashion,Sneakers,11,190.22,0.0,2092.42
+ORD-1435,12/09/2024,SOUTH,R. Ofori,Kwame Boateng,Home & Kitchen,Storage Containers,11,248.91,0.1,2464.21
+ORD-2063,04-09-2024,N.,S. Addo,Kweku Appiah,Beauty,Lip Balm Set,6,228.21,0.0,1369.26
+ORD-1974,11/04/2024,East,S. Addo,Akosua Appiah,Beauty,Hair Oil,8,17.17,0.05,130.49
+ORD-1551,02-09-2024,Central,P. Amoah,Kojo Boateng,Fashion,Sneakers,10,66.75,0.0,667.5
+ORD-2277,2024-10-02,Central,S. Addo,Nana Asante,Electronics,Smartphone Case,11,206.82,0.05,2161.27
+ORD-2286,12/08/2024,South,S. Addo,Akosua Danso,Electronics,Bluetooth Speaker,1,113.3,0.15,96.3
+ORD-2013,12-19-2024,NORTH,R. Ofori,Abena Danso,Beauty,Shea Butter Lotion,2,216.76,0.15,368.49
+ORD-2715,09-May-2024,Central,M. Ansah,Kofi Osei,Groceries,Rice 5kg,2,61.98,0.15,105.37
+ORD-1466,01-26-2024,WEST,S. Addo,Afia Danso,Groceries,Pasta Pack,12,59.08,0.0,708.96
+ORD-2347,2024-01-22,South,R. Ofori,Ama Asante,Beauty,Shea Butter Lotion,4,58.66,0.0,234.64
+ORD-2196,08/02/2024,South,J. Tetteh,Kweku Adjei,Beauty,Lip Balm Set,12,44.3,0.05,505.02
+ORD-1277,09-11-2024,East,M. Ansah,Yaw Mensah,Electronics,Wireless Earbuds,12,133.14,0.0,1597.68
+ORD-2069,05-03-2024,central,P. Amoah,Yaw Darko,Groceries,Sugar 1kg,6,34.16,0.1,184.46
+ORD-2017,14-Dec-2024,west,P. Amoah,Yaa Adjei,Home & Kitchen,Electric Kettle,10,215.53,0.0,2155.3
+ORD-2336,31-Jan-2024,N.,S. Addo,Kofi Boateng,Groceries,Cooking Oil 1L,11,65.41,0.0,719.51
+ORD-1722,13-Oct-2024,south,P. Amoah,Kwesi Darko,Electronics,Smartphone Case,10,218.64,0.05,2077.08
+ORD-2774,2024-04-05,South,P. Amoah,Efua Appiah,Home & Kitchen,Storage Containers,8,67.68,0.0,541.44
+ORD-1786,16/07/2024,central,P. Amoah,Nana Owusu,Groceries,Cooking Oil 1L,6,121.32,0.1,655.13
+ORD-2406,23/08/2024,West,M. Ansah,Akosua Asante,Electronics,Bluetooth Speaker,4,223.51,0.0,894.04
+ORD-2199,2024-10-14,West,M. Ansah,Abena Danso,Home & Kitchen,Table Lamp,6,112.37,0.1,606.8
+ORD-2650,2024-08-19,N.,R. Ofori,Kwesi Mensah,Electronics,Bluetooth Speaker,8,65.39,0.15,444.65
+ORD-2304,14/10/2024,west,J. Tetteh,Abena Adjei,Fashion,Denim Jeans,3,225.7,0.0,677.1
+ORD-1906,13/04/2024,Central,J. Tetteh,Yaa Appiah,Electronics,Wireless Earbuds,10,122.7,0.05,1165.65
+ORD-1563,08/09/2024,East,J. Tetteh,Akua Osei,Fashion,Leather Wallet,3,154.52,0.15,394.03
+ORD-1388,10/10/2024,WEST,J. Tetteh,Abena Appiah,Fashion,Denim Jeans,1,35.19,0.1,31.67
+ORD-1022,2024-10-04,West,P. Amoah,Kwabena Mensah,Home & Kitchen,Non-stick Pan,1,188.25,0.0,188.25
+ORD-2121,2024-12-07,SOUTH,R. Ofori,Kwame Darko,Fashion,Sunglasses,9,20.91,0.0,188.19
+ORD-1124,28/09/2024,East,J. Tetteh,Kojo Agyeman,Fashion,Denim Jeans,6,226.95,0.0,1361.7
+ORD-2369,21/12/2024,central,M. Ansah,Adjoa Osei,Groceries,Rice 5kg,9,180.47,0.0,1624.23
+ORD-1773,11-Feb-2024,NORTH,M. Ansah,Kwaku Osei,Home & Kitchen,Table Lamp,10,198.79,0.0,1987.9
+ORD-1880,09-02-2024,south,M. Ansah,Ama Boateng,Groceries,Sugar 1kg,8,34.1,0.1,245.52
+ORD-1050,14-Jan-2024,east,P. Amoah,Yaw Danso,Home & Kitchen,Storage Containers,11,150.01,0.0,1650.11
+ORD-2278,22/08/2024,Central,J. Tetteh,Ama Asante,Beauty,Face Wash,12,223.63,0.0,2683.56
+ORD-2330,30-Apr-2024,North,M. Ansah,Afia Adjei,Fashion,Sneakers,7,201.89,0.05,1342.57
+ORD-2105,28/05/2024,east,M. Ansah,Kwaku Boateng,Beauty,Face Wash,12,201.69,0.0,2420.28
+ORD-1703,10-27-2024,south,M. Ansah,Adjoa Agyeman,Fashion,Sneakers,12,230.83,0.15,2354.47
+ORD-1482,2024-02-15,South,P. Amoah,Akosua Appiah,Electronics,Smartphone Case,7,169.58,0.0,1187.06
+ORD-2735,01-28-2024,central,R. Ofori,Kwaku Owusu,Fashion,Sunglasses,6,181.65,0.0,1089.9
+ORD-1066,03-Feb-2024,west,J. Tetteh,Kofi Osei,Home & Kitchen,Blender,10,125.48,0.15,1066.58
+ORD-2566,03-11-2024,N.,P. Amoah,Akosua Boateng,Home & Kitchen,Storage Containers,2,9.77,0.15,16.61
+ORD-1733,02-Apr-2024,WEST,R. Ofori,Kwame Appiah,Electronics,USB-C Cable,9,10.89,0.0,98.01
+ORD-2625,2024-03-17,East,M. Ansah,Kwesi Asante,Beauty,Lip Balm Set,2,204.02,0.0,408.04
+ORD-1801,2024-01-03,Central,P. Amoah,Kweku Mensah,Groceries,Sugar 1kg,4,194.24,0.0,776.96
+ORD-2435,09-Jul-2024,West,P. Amoah,Kweku Appiah,Electronics,Laptop Stand,5,239.14,0.1,1076.13
+ORD-2765,23/01/2024,North,S. Addo,Kweku Osei,Beauty,Hair Oil,9,249.05,0.0,2241.45
+ORD-1907,10-05-2024,south,J. Tetteh,Yaw Asante,Fashion,Sneakers,2,158.73,0.0,317.46
+ORD-1031,2024-03-06,Central,R. Ofori,Yaa Boateng,Fashion,Sunglasses,1,80.52,0.0,80.52
+ORD-1417,29-Aug-2024,Central,M. Ansah,Kwame Owusu,Home & Kitchen,Storage Containers,5,26.59,0.0,132.95
+ORD-1881,2024-03-08,WEST,R. Ofori,Nana Agyeman,Home & Kitchen,Non-stick Pan,1,239.63,0.0,239.63
+ORD-1632,05-Feb-2024,West,M. Ansah,Abena Darko,Beauty,Hair Oil,6,235.08,0.0,1410.48
+ORD-2213,09-16-2024,central,J. Tetteh,Kwabena Asante,Fashion,Sneakers,9,122.1,0.0,1098.9
+ORD-2315,03-31-2024,East,J. Tetteh,Esi Asante,Electronics,Bluetooth Speaker,10,20.91,0.0,209.1
+ORD-1064,04-01-2024,east,S. Addo,Abena Asante,Electronics,Bluetooth Speaker,9,8.47,0.0,76.23
+ORD-2465,13-Sep-2024,NORTH,J. Tetteh,Kweku Appiah,Home & Kitchen,Blender,8,130.14,0.15,884.95
+ORD-1077,14-Nov-2024,N.,S. Addo,Kwabena Agyeman,Groceries,Rice 5kg,1,158.23,0.0,158.23
+ORD-1491,11-16-2024,east,J. Tetteh,Kwesi Adjei,Fashion,Denim Jeans,1,220.28,0.1,198.25
+ORD-1881,2024-03-08,WEST,R. Ofori,Nana Agyeman,Home & Kitchen,Non-stick Pan,1,239.63,0.0,239.63
+ORD-2575,22/02/2024,SOUTH,M. Ansah,Kwaku Agyeman,Electronics,USB-C Cable,7,68.97,0.0,482.79
+ORD-1532,05-Jul-2024,west,S. Addo,Yaw Danso,Home & Kitchen,Electric Kettle,11,49.92,0.0,549.12
+ORD-1065,2024-02-22,East,R. Ofori,Abena Boateng,Electronics,Power Bank,8,145.65,0.05,1106.94
+ORD-2542,12-22-2024,east,J. Tetteh,Kojo Adjei,Groceries,Rice 5kg,9,36.86,0.05,315.15
+ORD-1296,05-05-2024,east,P. Amoah,Afia Danso,Home & Kitchen,Blender,9,127.23,0.05,1087.82
+ORD-1591,2024-05-02,Central,,Yaw Appiah,Groceries,Cooking Oil 1L,11,8.9,0.0,97.9
+ORD-1767,02-07-2024,West,J. Tetteh,Kwame Appiah,Groceries,Cooking Oil 1L,2,12.35,0.0,24.7
+ORD-1724,10-13-2024,Central,M. Ansah,Adwoa Mensah,Home & Kitchen,Storage Containers,2,230.82,0.1,415.48
+ORD-1626,12/04/2024,East,P. Amoah,Afia Asante,Electronics,Wireless Earbuds,1,169.3,0.0,169.3
+ORD-2609,06-04-2024,SOUTH,S. Addo,Akua Owusu,Groceries,Pasta Pack,9,213.52,0.1,1729.51
+ORD-2768,19/07/2024,N.,M. Ansah,Fiifi Adjei,Home & Kitchen,Storage Containers,8,75.04,0.1,540.29
+ORD-2469,06-13-2024,Central,R. Ofori,Yaa Osei,Home & Kitchen,Storage Containers,1,53.78,0.0,53.78
+ORD-1251,04-05-2024,Central,M. Ansah,Adwoa Adjei,Beauty,Shampoo 400ml,10,211.29,0.0,2112.9
+ORD-2656,05-Sep-2024,East,P. Amoah,Ama Osei,Electronics,Wireless Earbuds,5,35.46,0.0,177.3
+ORD-2216,2024-01-20,Central,R. Ofori,Yaw Boateng,Home & Kitchen,Table Lamp,4,151.07,0.15,513.64
+ORD-2778,10-28-2024,SOUTH,J. Tetteh,Yaa Agyeman,Fashion,Leather Wallet,8,144.4,0.15,981.92
+ORD-1982,2024-12-08,north,R. Ofori,Kwaku Darko,Fashion,Denim Jeans,4,132.83,0.1,478.19
+ORD-2614,25-Mar-2024,SOUTH,P. Amoah,Efua Mensah,Beauty,Hair Oil,12,103.99,0.0,1247.88
+ORD-1706,01/07/2024,South,S. Addo,Kwame Appiah,Beauty,Shea Butter Lotion,9,47.81,0.0,430.29
+ORD-1487,25/05/2024,WEST,J. Tetteh,Kofi Boateng,Beauty,Shea Butter Lotion,10,198.35,0.0,1983.5
+ORD-1273,2024-01-09,central,J. Tetteh,Akua Osei,Fashion,Sunglasses,4,8.38,0.0,33.52
+ORD-2598,24/10/2024,central,S. Addo,Kwabena Agyeman,Home & Kitchen,Blender,1,70.94,0.0,70.94
+ORD-2523,2024-09-27,North,P. Amoah,Kwesi Owusu,Groceries,Sugar 1kg,12,69.09,0.0,829.08
+ORD-1963,20-Nov-2024,WEST,S. Addo,Akosua Darko,Electronics,Bluetooth Speaker,3,203.09,0.0,609.27
+ORD-1877,04-Mar-2024,West,R. Ofori,Kwesi Boateng,Electronics,Power Bank,11,6.69,0.0,73.59
+ORD-2665,10-02-2024,central,J. Tetteh,Kojo Osei,Home & Kitchen,Blender,9,232.31,0.0,2090.79
+ORD-2651,21-May-2024,south,P. Amoah,Abena Appiah,Electronics,Wireless Earbuds,7,78.56,0.0,549.92
+ORD-1411,2024-12-22,central,P. Amoah,Nana Appiah,Home & Kitchen,Storage Containers,5,109.24,0.05,518.89
+ORD-1667,19-Aug-2024,South,S. Addo,Afia Darko,Beauty,Shampoo 400ml,3,219.01,0.0,657.03
+ORD-1149,06-10-2024,West,J. Tetteh,Ama Asante,Fashion,Denim Jeans,9,131.27,0.05,1122.36
+ORD-1644,02-28-2024,South,S. Addo,Kojo Owusu,Fashion,Sunglasses,9,46.6,0.0,419.4
+ORD-2463,23-Mar-2024,SOUTH,R. Ofori,Abena Adjei,Fashion,Denim Jeans,3,55.0,0.0,165.0
+ORD-1218,12-Nov-2024,South,J. Tetteh,Kweku Appiah,Home & Kitchen,Table Lamp,1,166.52,0.0,166.52
+ORD-1239,24-Jul-2024,west,P. Amoah,Afia Osei,Electronics,USB-C Cable,6,138.19,0.15,704.77
+ORD-2131,2024-06-21,NORTH,S. Addo,Akosua Osei,Electronics,Bluetooth Speaker,6,50.84,0.0,305.04
+ORD-1792,18-Oct-2024,West,S. Addo,Adjoa Agyeman,Groceries,Pasta Pack,10,117.75,0.0,1177.5
+ORD-1191,11/12/2024,East,P. Amoah,Fiifi Adjei,Electronics,Laptop Stand,11,48.0,0.05,501.6
+ORD-1333,11-07-2024,Central,P. Amoah,Efua Agyeman,Electronics,Power Bank,2,78.13,0.05,148.45
+ORD-2792,29-Apr-2024,central,R. Ofori,Kweku Mensah,Groceries,Canned Tomatoes,2,232.82,0.1,419.08
+ORD-1962,21-Feb-2024,South,R. Ofori,Efua Asante,Electronics,USB-C Cable,7,199.88,0.0,1399.16
+ORD-2210,11-Mar-2024,south,J. Tetteh,Kwabena Appiah,Fashion,Denim Jeans,7,35.16,0.0,246.12
+ORD-2772,11-Oct-2024,Central,P. Amoah,Kweku Appiah,Fashion,Leather Wallet,10,84.2,0.0,842.0
+ORD-2506,2024-07-31,West,M. Ansah,Kwabena Owusu,Electronics,Bluetooth Speaker,12,111.48,0.0,1337.76
+ORD-2513,12-14-2024,N.,M. Ansah,Fiifi Osei,Beauty,Shea Butter Lotion,6,248.22,0.0,1489.32
+ORD-1582,2024-03-21,east,M. Ansah,Ama Agyeman,Electronics,Wireless Earbuds,2,123.84,0.0,247.68
+ORD-2733,16/07/2024,west,S. Addo,Yaw Osei,Fashion,Cotton T-Shirt,2,197.09,0.1,354.76
+ORD-2312,2024-10-20,NORTH,J. Tetteh,Yaw Danso,Beauty,Shea Butter Lotion,4,79.16,0.05,300.81
+ORD-1839,2024-10-21,north,M. Ansah,Kojo Appiah,Beauty,Hair Oil,7,162.78,0.15,968.54
+ORD-1627,13/09/2024,SOUTH,M. Ansah,Efua Appiah,Fashion,Sunglasses,2,128.7,0.0,257.4
+ORD-1323,12-Nov-2024,central,M. Ansah,Kofi Darko,Electronics,Bluetooth Speaker,6,14.5,0.15,73.95
+ORD-2497,23/01/2024,North,R. Ofori,Yaw Asante,Electronics,Power Bank,9,119.44,0.15,913.72
+ORD-2160,29-Jun-2024,West,P. Amoah,Kwaku Boateng,Home & Kitchen,Table Lamp,1,106.77,0.0,106.77
+ORD-1778,19-May-2024,west,S. Addo,Efua Osei,Groceries,Canned Tomatoes,8,11.06,0.0,88.48
+ORD-2076,2024-11-02,South,J. Tetteh,Kwesi Boateng,Home & Kitchen,Table Lamp,9,240.16,0.1,1945.3
+ORD-1939,24-Jun-2024,west,S. Addo,Fiifi Owusu,Home & Kitchen,Storage Containers,12,57.1,0.05,650.94
+ORD-1437,07-03-2024,south,S. Addo,Kweku Appiah,Groceries,Rice 5kg,5,142.29,0.0,711.45
+ORD-1119,2024-11-02,central,R. Ofori,Ama Asante,Beauty,Face Wash,5,6.88,0.0,34.4
+ORD-2244,03-Aug-2024,North,P. Amoah,Efua Danso,Electronics,Bluetooth Speaker,1,180.98,0.0,180.98
+ORD-2423,11-03-2024,SOUTH,J. Tetteh,Ama Asante,Groceries,Cooking Oil 1L,2,211.28,0.1,380.3
+ORD-2026,2024-05-08,north,P. Amoah,Kojo Mensah,Groceries,Canned Tomatoes,12,14.17,0.0,170.04
+ORD-2262,2024-03-02,central,P. Amoah,Ama Appiah,Electronics,Power Bank,9,155.39,0.05,1328.58
+ORD-1076,2024-06-14,WEST,S. Addo,Kojo Appiah,Electronics,USB-C Cable,7,242.7,0.1,1529.01
+ORD-2053,01-Apr-2024,Central,S. Addo,Kwaku Appiah,Electronics,Smartphone Case,8,118.37,0.0,946.96
+ORD-1900,18-Dec-2024,East,J. Tetteh,Yaa Danso,Fashion,Cotton T-Shirt,5,236.69,0.15,1005.93
+ORD-1371,2024-01-28,West,M. Ansah,Kwame Darko,Beauty,Shea Butter Lotion,3,53.98,0.0,161.94
+ORD-2694,05-04-2024,South,M. Ansah,Kwame Darko,Beauty,Lip Balm Set,7,68.23,0.05,453.73
+ORD-2317,11/02/2024,East,M. Ansah,Ama Boateng,Beauty,Shea Butter Lotion,2,27.47,0.0,54.94
+ORD-2795,16/07/2024,central,M. Ansah,Kwabena Boateng,Home & Kitchen,Storage Containers,0,111.29,0.0,222.58
+ORD-1941,2024-04-18,West,J. Tetteh,Adwoa Asante,Fashion,Sneakers,11,238.4,0.05,2491.28
+ORD-1577,2024-04-01,West,J. Tetteh,Kojo Mensah,Electronics,USB-C Cable,10,178.15,0.0,1781.5
+ORD-1819,10-Jul-2024,West,P. Amoah,Kwame Mensah,Home & Kitchen,Electric Kettle,7,104.12,0.05,692.4
+ORD-2648,16-Feb-2024,WEST,S. Addo,Kweku Darko,Home & Kitchen,Blender,9,44.66,0.0,401.94
+ORD-2413,02/09/2024,west,S. Addo,Kofi Appiah,Fashion,Denim Jeans,10,46.29,0.15,393.46
+ORD-2576,28/04/2024,central,R. Ofori,Kweku Asante,Groceries,Pasta Pack,9,219.78,0.0,1978.02
+ORD-2263,16-Jan-2024,SOUTH,M. Ansah,Afia Boateng,Home & Kitchen,Electric Kettle,6,183.52,0.0,1101.12
+ORD-1886,04-23-2024,North,M. Ansah,Kwesi Adjei,Groceries,Canned Tomatoes,1,109.39,0.1,98.45
+ORD-1968,08/06/2024,SOUTH,P. Amoah,Esi Danso,Fashion,Sneakers,12,199.55,0.05,2274.87
+ORD-1785,2024-10-17,WEST,J. Tetteh,Fiifi Danso,Beauty,Face Wash,0,230.93,0.0,692.79
+ORD-2401,02/03/2024,WEST,S. Addo,Akosua Darko,Electronics,USB-C Cable,6,49.37,0.0,296.22
+ORD-2466,17/07/2024,central,M. Ansah,Kojo Appiah,Electronics,Smartphone Case,5,138.6,0.15,589.05
+ORD-1301,06-Apr-2024,East,P. Amoah,Kwaku Boateng,Fashion,Sunglasses,3,137.82,0.05,392.79
+ORD-1689,2024-02-17,N.,R. Ofori,Akua Darko,Fashion,Sunglasses,8,130.77,0.15,889.24
+ORD-1812,28/01/2024,SOUTH,P. Amoah,Adjoa Asante,Fashion,Leather Wallet,12,201.36,0.15,2053.87
+ORD-2061,20-Apr-2024,Central,,Kwesi Danso,Fashion,Sunglasses,1,208.53,0.15,177.25
+ORD-1236,21/10/2024,west,R. Ofori,Fiifi Adjei,Home & Kitchen,Storage Containers,5,84.84,0.05,402.99
+ORD-2115,19/04/2024,East,R. Ofori,Kweku Appiah,Electronics,Smartphone Case,3,98.7,0.15,251.69
+ORD-2241,05-08-2024,west,S. Addo,Esi Adjei,Electronics,Laptop Stand,5,107.81,0.0,539.05
+ORD-1499,11-Nov-2024,West,R. Ofori,Kojo Boateng,Home & Kitchen,Electric Kettle,8,173.53,0.0,1388.24
+ORD-2511,2024-10-02,north,P. Amoah,Kojo Appiah,Beauty,Lip Balm Set,6,68.62,0.1,370.55
+ORD-2079,03-21-2024,NORTH,S. Addo,Adjoa Owusu,Electronics,Laptop Stand,11,72.65,0.15,679.28
+ORD-1794,2024-12-23,west,R. Ofori,Kwaku Owusu,Groceries,Cooking Oil 1L,3,63.73,0.0,191.19
+ORD-2392,08-25-2024,SOUTH,S. Addo,Kofi Darko,Electronics,Smartphone Case,9,79.36,0.1,642.82
+ORD-2754,21-Feb-2024,East,J. Tetteh,Adjoa Owusu,Beauty,Shea Butter Lotion,7,195.83,0.0,1370.81
+ORD-1990,2024-02-20,WEST,S. Addo,Kweku Adjei,Fashion,Cotton T-Shirt,12,163.91,0.05,1868.57
+ORD-2593,12-16-2024,Central,J. Tetteh,Akua Adjei,Fashion,Sneakers,6,50.72,0.15,258.67
+ORD-1934,11-May-2024,East,R. Ofori,Kweku Adjei,Electronics,Bluetooth Speaker,3,164.32,0.0,492.96
+ORD-1387,30/08/2024,Central,J. Tetteh,Nana Darko,Fashion,Sneakers,3,135.7,0.15,346.03
+ORD-1390,28/02/2024,South,M. Ansah,Afia Adjei,Home & Kitchen,Electric Kettle,10,169.39,0.0,1693.9
+ORD-1743,11-21-2024,east,S. Addo,Kwesi Appiah,Home & Kitchen,Table Lamp,12,245.01,0.05,2793.11
+ORD-1352,01-21-2024,west,M. Ansah,Ama Owusu,Fashion,Sneakers,11,93.25,0.0,1025.75
+ORD-2217,30/03/2024,east,M. Ansah,Akua Darko,Beauty,Hair Oil,11,186.78,0.0,2054.58
+ORD-1235,06-02-2024,west,M. Ansah,Akosua Danso,Groceries,Sugar 1kg,12,152.79,0.0,1833.48
+ORD-2555,16-Jan-2024,central,R. Ofori,Esi Osei,Home & Kitchen,Storage Containers,4,47.61,0.0,190.44
+ORD-1480,07-23-2024,south,P. Amoah,Kwaku Mensah,Electronics,USB-C Cable,9,25.84,0.05,220.93
+ORD-1567,10-01-2024,north,P. Amoah,Adwoa Owusu,Electronics,USB-C Cable,5,86.69,0.05,411.78
+ORD-2140,07-04-2024,Central,S. Addo,Akua Asante,Home & Kitchen,Table Lamp,1,127.86,0.1,115.07
+ORD-2716,12/10/2024,central,M. Ansah,Kofi Boateng,Fashion,Denim Jeans,3,150.14,0.1,405.38
+ORD-2695,25-Feb-2024,SOUTH,J. Tetteh,Fiifi Adjei,Home & Kitchen,Storage Containers,10,159.99,0.1,1439.91
+ORD-2426,07-Mar-2024,west,R. Ofori,Efua Asante,Groceries,Canned Tomatoes,4,240.11,0.0,960.44
+ORD-1120,08/08/2024,south,R. Ofori,,Fashion,Leather Wallet,9,36.65,0.15,280.37
+ORD-2577,2024-08-18,central,P. Amoah,Fiifi Asante,Groceries,Rice 5kg,12,125.74,0.1,1357.99
+ORD-2024,26-Oct-2024,central,S. Addo,Kwaku Danso,Home & Kitchen,Non-stick Pan,1,21.55,0.15,18.32
+ORD-2086,29/07/2024,NORTH,P. Amoah,Adwoa Osei,Groceries,Cooking Oil 1L,5,12.1,0.1,54.45
+ORD-1926,09/10/2024,North,M. Ansah,Kwame Adjei,Home & Kitchen,Table Lamp,1,161.41,0.0,161.41
+ORD-1515,12-28-2024,WEST,M. Ansah,Akua Danso,Groceries,Canned Tomatoes,1,244.92,0.0,244.92
+ORD-1223,27/04/2024,WEST,J. Tetteh,Esi Agyeman,Fashion,Sunglasses,12,225.81,0.1,2438.75
+ORD-2348,09-18-2024,SOUTH,J. Tetteh,Nana Darko,Fashion,Leather Wallet,11,125.6,0.15,1174.36
+ORD-1613,30-Mar-2024,N.,R. Ofori,Akosua Adjei,Electronics,Wireless Earbuds,3,179.01,0.0,537.03
+ORD-1843,03-16-2024,west,R. Ofori,Adjoa Osei,Home & Kitchen,Non-stick Pan,11,40.74,0.15,380.92
+ORD-2245,2024-12-08,west,R. Ofori,Ama Darko,Beauty,Lip Balm Set,3,57.93,0.0,173.79
+ORD-1052,2024-10-03,west,J. Tetteh,Kojo Osei,Groceries,Sugar 1kg,6,249.98,0.0,1499.88
+ORD-2677,18-Mar-2024,Central,R. Ofori,Kofi Darko,Groceries,Cooking Oil 1L,2,152.48,0.05,289.71
+ORD-1485,2024-08-29,south,R. Ofori,Esi Adjei,Electronics,Smartphone Case,12,86.31,0.1,932.15
+ORD-2739,2024-01-30,Central,J. Tetteh,Fiifi Adjei,Beauty,Lip Balm Set,11,123.94,0.1,1227.01
+ORD-1818,06-Nov-2024,west,P. Amoah,Abena Darko,Fashion,Sneakers,3,22.63,0.15,57.71
+ORD-1155,13-Dec-2024,east,M. Ansah,Ama Danso,Groceries,Pasta Pack,6,237.46,0.05,1353.52
+ORD-1600,2024-08-15,east,R. Ofori,Adwoa Appiah,Beauty,Shampoo 400ml,2,76.42,0.0,152.84
+ORD-2461,2024-05-27,East,P. Amoah,Kwabena Agyeman,Groceries,Pasta Pack,7,214.53,0.1,1351.54
+ORD-1248,2024-10-27,WEST,R. Ofori,Nana Danso,Fashion,Sunglasses,8,90.24,0.1,649.73
+ORD-1761,13-Nov-2024,SOUTH,R. Ofori,Efua Darko,Beauty,Face Wash,3,50.55,0.0,151.65
+ORD-2663,2024-08-27,NORTH,M. Ansah,Yaw Mensah,Home & Kitchen,Storage Containers,9,131.31,0.0,1181.79
+ORD-2130,09-Jul-2024,north,S. Addo,Kweku Danso,Groceries,Cooking Oil 1L,1,166.28,0.0,166.28
+ORD-1542,06/10/2024,WEST,R. Ofori,Nana Darko,Fashion,Sneakers,8,167.31,0.0,1338.48
+ORD-1793,30-Mar-2024,NORTH,P. Amoah,Abena Darko,Groceries,Sugar 1kg,10,66.04,0.15,561.34
+ORD-2141,2024-04-06,central,R. Ofori,Adjoa Boateng,Electronics,Laptop Stand,7,56.75,0.0,397.25
+ORD-2340,11/10/2024,West,R. Ofori,Yaw Osei,Fashion,Sneakers,6,150.49,0.0,902.94
+ORD-1628,2024-10-02,Central,M. Ansah,Kwabena Adjei,Beauty,Shampoo 400ml,2,243.53,0.0,487.06
+ORD-1150,2024-05-19,East,S. Addo,Efua Mensah,Home & Kitchen,Non-stick Pan,7,200.84,0.05,1335.59
+ORD-2496,05-03-2024,South,R. Ofori,Fiifi Appiah,Fashion,Cotton T-Shirt,7,125.82,0.1,792.67
+ORD-1291,2024-07-21,north,S. Addo,Kojo Asante,Fashion,Denim Jeans,5,170.91,0.0,854.55
+ORD-1381,09-21-2024,West,J. Tetteh,Yaa Adjei,Groceries,Sugar 1kg,9,131.01,0.05,1120.14
+ORD-1686,2024-07-23,N.,M. Ansah,Kofi Boateng,Electronics,USB-C Cable,4,10.03,0.0,40.12
+ORD-2224,16/05/2024,east,P. Amoah,Kwesi Agyeman,Groceries,Pasta Pack,6,85.35,0.15,435.28
+ORD-1897,2024-05-29,East,M. Ansah,Ama Agyeman,Home & Kitchen,Electric Kettle,5,161.71,0.0,808.55
+ORD-1854,2024-06-15,WEST,J. Tetteh,Kwaku Boateng,Groceries,Sugar 1kg,9,179.87,0.0,1618.83
+ORD-2071,2024-03-18,WEST,J. Tetteh,Kwaku Agyeman,Home & Kitchen,Electric Kettle,6,150.42,0.15,767.14
+ORD-1679,28/01/2024,West,M. Ansah,Ama Asante,Beauty,Hair Oil,8,49.87,0.0,398.96
+ORD-2389,2024-08-09,WEST,J. Tetteh,Kofi Darko,Fashion,Denim Jeans,7,218.31,0.0,1528.17
+ORD-2583,08-09-2024,South,P. Amoah,Afia Asante,Fashion,Cotton T-Shirt,5,129.3,0.15,549.52
+ORD-1891,27/10/2024,West,J. Tetteh,Afia Owusu,Electronics,Bluetooth Speaker,8,52.27,0.0,418.16
+ORD-1275,14/04/2024,Central,P. Amoah,Abena Owusu,Fashion,Cotton T-Shirt,7,136.42,0.1,859.45
+ORD-1615,03-04-2024,South,R. Ofori,Kofi Adjei,Electronics,Bluetooth Speaker,8,107.2,0.15,728.96
+ORD-1154,14-Mar-2024,North,J. Tetteh,Kwesi Boateng,Groceries,Sugar 1kg,2,13.53,0.0,27.06
+ORD-2193,06-30-2024,east,S. Addo,Yaw Adjei,Fashion,Leather Wallet,7,115.18,0.1,725.63
+ORD-2560,04/10/2024,central,R. Ofori,Kwabena Adjei,Electronics,Smartphone Case,5,63.95,0.1,287.78
+ORD-1158,12-15-2024,north,J. Tetteh,Akua Osei,Electronics,USB-C Cable,12,168.62,0.0,2023.44
+ORD-1322,25-Jun-2024,Central,,Esi Adjei,Electronics,Power Bank,11,69.71,0.05,728.47
+ORD-2408,2024-07-13,WEST,P. Amoah,Yaw Darko,Groceries,Canned Tomatoes,5,137.61,0.0,688.05
+ORD-2282,06-Jan-2024,west,P. Amoah,Adwoa Adjei,Fashion,Denim Jeans,8,15.24,0.0,121.92
+ORD-1082,09-Oct-2024,West,S. Addo,Adwoa Appiah,Groceries,Pasta Pack,6,116.56,0.0,699.36
+ORD-1512,12-21-2024,WEST,J. Tetteh,Adwoa Boateng,Electronics,Smartphone Case,7,85.66,0.1,539.66
+ORD-2388,2024-09-01,Central,J. Tetteh,Kwesi Boateng,Home & Kitchen,Electric Kettle,4,143.71,0.15,488.61
+ORD-1929,27-Oct-2024,WEST,J. Tetteh,Kwesi Boateng,Beauty,Shea Butter Lotion,1,121.85,0.0,121.85
+ORD-2487,2024-08-11,west,S. Addo,Adwoa Osei,Home & Kitchen,Electric Kettle,7,66.77,0.05,444.02
+ORD-1010,2024-08-20,NORTH,M. Ansah,Abena Darko,Fashion,Cotton T-Shirt,12,238.68,0.0,2864.16
+ORD-1831,12-15-2024,west,S. Addo,Akosua Appiah,Fashion,Sunglasses,4,249.86,0.0,999.44
+ORD-1032,13/11/2024,SOUTH,R. Ofori,Efua Agyeman,Home & Kitchen,Blender,4,231.81,0.0,927.24
+ORD-2380,04-24-2024,WEST,M. Ansah,Ama Adjei,Home & Kitchen,Storage Containers,10,217.06,0.05,2062.07
+ORD-1413,07-28-2024,Central,S. Addo,Nana Asante,Beauty,Shea Butter Lotion,7,31.11,0.15,185.1
+ORD-1580,25/08/2024,Central,M. Ansah,Yaa Agyeman,Beauty,Face Wash,4,72.72,0.0,290.88
+ORD-2411,13/01/2024,SOUTH,R. Ofori,Nana Danso,Fashion,Denim Jeans,2,163.14,0.05,309.97
+ORD-2730,12/01/2024,south,R. Ofori,Kwaku Osei,Groceries,Rice 5kg,2,35.99,0.0,71.98
+ORD-1614,10-26-2024,south,S. Addo,Adwoa Mensah,Fashion,Sunglasses,12,126.05,0.05,1436.97
+ORD-2045,04-28-2024,central,P. Amoah,Kwabena Boateng,Fashion,Cotton T-Shirt,4,186.77,0.0,747.08
+ORD-2014,10/03/2024,Central,R. Ofori,Yaw Agyeman,Home & Kitchen,Table Lamp,11,224.29,0.0,2467.19
+ORD-1089,25/10/2024,South,R. Ofori,Afia Asante,Beauty,Hair Oil,11,61.89,0.0,680.79
+ORD-2550,2024-10-16,WEST,S. Addo,Ama Agyeman,Electronics,Power Bank,5,201.81,0.1,908.14
+ORD-1601,05-Sep-2024,SOUTH,S. Addo,Kwaku Appiah,Fashion,Sneakers,10,117.21,0.0,1172.1
+ORD-2237,12-10-2024,West,M. Ansah,Kwabena Osei,Beauty,Shampoo 400ml,1,191.34,0.15,162.64
+ORD-1133,07-Jun-2024,south,J. Tetteh,Yaw Danso,Fashion,Sneakers,6,162.66,0.0,975.96
+ORD-1555,29-Apr-2024,south,P. Amoah,Abena Osei,Groceries,Canned Tomatoes,7,172.46,0.05,1146.86
+ORD-2031,2024-10-18,Central,J. Tetteh,Akosua Darko,Electronics,USB-C Cable,9,36.16,0.0,325.44
+ORD-2427,30-Nov-2024,NORTH,,Efua Osei,Fashion,Cotton T-Shirt,5,24.14,0.0,120.7
+ORD-1320,14-Feb-2024,West,J. Tetteh,Kofi Appiah,Home & Kitchen,Table Lamp,9,141.31,0.0,1271.79
+ORD-2643,03-05-2024,west,M. Ansah,Akosua Asante,Beauty,Shea Butter Lotion,2,135.11,0.0,270.22
+ORD-2211,23/07/2024,WEST,R. Ofori,Ama Osei,Home & Kitchen,Storage Containers,7,55.38,0.1,348.89
+ORD-2582,08-08-2024,Central,,Yaa Adjei,Beauty,Lip Balm Set,1,196.92,0.0,196.92
+ORD-1634,31-Oct-2024,north,M. Ansah,Kwabena Appiah,Electronics,Smartphone Case,7,35.08,0.15,208.73
+ORD-1552,29/10/2024,east,M. Ansah,Esi Danso,Electronics,Laptop Stand,6,166.49,0.0,998.94
+ORD-2328,03-22-2024,south,R. Ofori,Kwame Osei,Fashion,Denim Jeans,9,208.3,0.0,1874.7
+ORD-2055,10/09/2024,East,S. Addo,Kofi Adjei,Groceries,Cooking Oil 1L,3,60.72,0.0,182.16
+ORD-2420,05-May-2024,South,R. Ofori,Kwaku Adjei,Beauty,Face Wash,2,47.91,0.15,81.45
+ORD-1796,2024-09-16,central,M. Ansah,Akua Adjei,Groceries,Canned Tomatoes,2,118.23,0.15,200.99
+ORD-2517,2024-09-08,north,S. Addo,Yaa Osei,Beauty,Lip Balm Set,5,41.89,0.1,188.5
+ORD-2264,03-11-2024,N.,R. Ofori,Akosua Darko,Beauty,Hair Oil,5,49.83,0.0,249.15
+ORD-2559,10/12/2024,north,J. Tetteh,Adwoa Darko,Electronics,Power Bank,9,192.79,0.0,1735.11
+ORD-1174,10-12-2024,East,S. Addo,Nana Appiah,Home & Kitchen,Blender,4,189.97,0.1,683.89
+ORD-1766,02-May-2024,South,M. Ansah,Kweku Danso,Home & Kitchen,Electric Kettle,6,184.97,0.15,943.35
+ORD-1245,06-Aug-2024,SOUTH,P. Amoah,Akua Appiah,Home & Kitchen,Table Lamp,7,61.8,0.15,367.71
+ORD-2080,11/06/2024,Central,P. Amoah,Akosua Owusu,Fashion,Cotton T-Shirt,11,211.15,0.15,1974.25
+ORD-2581,19/10/2024,WEST,J. Tetteh,Kwesi Boateng,Home & Kitchen,Blender,7,85.21,0.05,566.65
+ORD-1145,19-Oct-2024,south,M. Ansah,Afia Appiah,Groceries,Rice 5kg,11,50.89,0.0,559.79
+ORD-1090,07-Feb-2024,west,M. Ansah,Abena Agyeman,Electronics,USB-C Cable,10,236.58,0.0,2365.8
+ORD-1682,26/09/2024,central,J. Tetteh,Kwabena Danso,Beauty,Lip Balm Set,2,107.02,0.0,214.04
+ORD-1310,01-11-2024,Central,S. Addo,Kojo Mensah,Home & Kitchen,Storage Containers,2,68.98,0.0,137.96
+ORD-1093,08/05/2024,East,P. Amoah,Adjoa Asante,Beauty,Face Wash,11,158.92,0.15,1485.9
+ORD-2429,04-21-2024,north,P. Amoah,Ama Mensah,Beauty,Face Wash,7,10.91,0.0,76.37
+ORD-1924,2024-03-25,Central,R. Ofori,Fiifi Darko,Groceries,Canned Tomatoes,11,201.82,0.05,2109.02
+ORD-2750,14/09/2024,SOUTH,P. Amoah,Kofi Adjei,Beauty,Shampoo 400ml,3,139.05,0.0,417.15
+ORD-2035,10-07-2024,west,M. Ansah,Ama Boateng,Home & Kitchen,Non-stick Pan,11,231.42,0.0,2545.62
+ORD-1243,27-Jun-2024,east,R. Ofori,Kwabena Agyeman,Fashion,Sneakers,12,28.92,0.15,294.98
+ORD-2111,16/02/2024,east,M. Ansah,Kwame Asante,Home & Kitchen,Electric Kettle,8,40.12,0.0,320.96
+ORD-1214,24/01/2024,N.,R. Ofori,Efua Appiah,Fashion,Denim Jeans,1,186.61,0.0,186.61
+ORD-2197,23-May-2024,central,M. Ansah,Nana Osei,Electronics,Laptop Stand,1,19.53,0.15,16.6
+ORD-1998,05-Dec-2024,east,S. Addo,Efua Agyeman,Groceries,Canned Tomatoes,8,67.12,0.0,536.96
+ORD-1853,2024-05-20,Central,R. Ofori,Kwaku Danso,Electronics,Power Bank,3,199.61,0.05,568.89
+ORD-1425,10-Jun-2024,West,M. Ansah,Nana Asante,Fashion,Cotton T-Shirt,9,239.08,0.1,1936.55
+ORD-2605,10-04-2024,South,S. Addo,Kwesi Appiah,Groceries,Sugar 1kg,7,184.56,0.0,1291.92
+ORD-2142,17-Jul-2024,east,S. Addo,Yaw Adjei,Home & Kitchen,Storage Containers,7,13.53,0.0,94.71
+ORD-2143,2024-12-17,south,S. Addo,Kweku Owusu,Beauty,Shea Butter Lotion,7,165.69,0.0,1159.83
+ORD-1226,2024-01-28,central,S. Addo,Kojo Agyeman,Groceries,Cooking Oil 1L,2,112.09,0.0,224.18
+ORD-2484,04-21-2024,SOUTH,M. Ansah,Kojo Darko,Electronics,Laptop Stand,10,240.05,0.0,2400.5
+ORD-1000,2024-12-12,North,J. Tetteh,Adjoa Boateng,Fashion,Denim Jeans,1,149.67,0.0,149.67
+ORD-1401,30-Nov-2024,east,R. Ofori,Kwaku Boateng,Beauty,Lip Balm Set,11,94.5,0.0,1039.5
+ORD-2103,05-Aug-2024,Central,J. Tetteh,Kweku Owusu,Home & Kitchen,Electric Kettle,9,46.83,0.05,400.4
+ORD-1084,21-Feb-2024,south,S. Addo,Kwesi Danso,Electronics,Bluetooth Speaker,8,29.43,0.0,235.44
+ORD-1162,03/04/2024,west,,Yaw Agyeman,Beauty,Face Wash,1,110.99,0.0,110.99
+ORD-1114,12-02-2024,WEST,P. Amoah,Yaa Mensah,Beauty,Lip Balm Set,5,12.09,0.15,51.38
+ORD-1670,07/07/2024,WEST,J. Tetteh,Kofi Boateng,Groceries,Pasta Pack,2,237.07,0.0,474.14
+ORD-2174,18-Dec-2024,N.,S. Addo,Kofi Appiah,Groceries,Cooking Oil 1L,8,86.01,0.15,584.87
+ORD-2390,06-Mar-2024,SOUTH,M. Ansah,Kweku Danso,Fashion,Sneakers,9,155.65,0.05,1330.81
+ORD-1889,2024-02-27,West,S. Addo,Efua Appiah,Fashion,Sneakers,11,168.89,0.1,1672.01
+ORD-1625,2024-08-28,north,J. Tetteh,Kwesi Danso,Electronics,Wireless Earbuds,1,227.59,0.0,227.59
+ORD-2781,20/09/2024,SOUTH,J. Tetteh,Abena Mensah,Fashion,Leather Wallet,8,46.19,0.0,369.52
+ORD-1952,2024-10-24,WEST,P. Amoah,Esi Osei,Beauty,Lip Balm Set,7,168.59,0.0,1180.13
+ORD-1807,13/12/2024,Central,R. Ofori,Afia Appiah,Fashion,Cotton T-Shirt,11,86.35,0.15,807.37
+ORD-1258,2024-12-13,south,P. Amoah,Kwaku Adjei,Fashion,Leather Wallet,7,38.22,0.0,267.54
+ORD-1624,2024-12-19,south,R. Ofori,Yaw Owusu,Home & Kitchen,Electric Kettle,8,24.05,0.05,182.78
+ORD-1826,12-01-2024,North,R. Ofori,Akosua Agyeman,Electronics,Laptop Stand,3,184.6,0.0,553.8
+ORD-1234,2024-06-04,WEST,M. Ansah,Kweku Owusu,Beauty,Shampoo 400ml,6,237.46,0.1,1282.28
+ORD-1135,2024-09-16,South,J. Tetteh,Kojo Adjei,Home & Kitchen,Electric Kettle,10,167.17,0.0,1671.7
+ORD-1616,04-Jul-2024,South,P. Amoah,Adwoa Owusu,Electronics,Smartphone Case,5,143.57,0.15,610.17
+ORD-2782,01/10/2024,North,S. Addo,Kwabena Danso,Home & Kitchen,Table Lamp,4,158.19,0.0,632.76
+ORD-1836,06-Mar-2024,SOUTH,J. Tetteh,Kwaku Agyeman,Home & Kitchen,Table Lamp,5,200.22,0.15,850.93
+ORD-1842,05/12/2024,south,P. Amoah,Efua Boateng,Groceries,Sugar 1kg,1,31.11,0.1,28.0
+ORD-1959,2024-07-14,Central,P. Amoah,Yaa Owusu,Electronics,Power Bank,3,186.87,0.05,532.58
+ORD-1592,25/08/2024,SOUTH,R. Ofori,Kwaku Mensah,Groceries,Pasta Pack,7,219.18,0.0,1534.26
+ORD-2314,12-Feb-2024,east,S. Addo,Adwoa Adjei,Beauty,Shampoo 400ml,2,230.1,0.15,391.17
+ORD-2291,2024-07-14,east,J. Tetteh,Esi Asante,Electronics,Bluetooth Speaker,7,142.86,0.1,900.02
+ORD-1343,04-25-2024,NORTH,M. Ansah,Kwame Mensah,Beauty,Shampoo 400ml,2,81.46,0.05,154.77
+ORD-2736,01-24-2024,South,R. Ofori,Abena Appiah,Beauty,Face Wash,9,111.6,0.0,1004.4
+ORD-2436,12-15-2024,central,P. Amoah,Yaw Danso,Fashion,Sunglasses,4,202.52,0.0,810.08
+ORD-1293,2024-12-17,North,S. Addo,Kwabena Darko,Home & Kitchen,Electric Kettle,5,147.67,0.0,738.35
+ORD-1364,2024-07-28,central,M. Ansah,Akua Osei,Electronics,Wireless Earbuds,4,67.3,0.0,269.2
+ORD-1178,25-Oct-2024,N.,J. Tetteh,Kwaku Asante,Fashion,Sunglasses,11,46.78,0.15,437.39
+ORD-1659,13-Aug-2024,West,S. Addo,Akua Asante,Home & Kitchen,Blender,10,67.3,0.0,673.0
+ORD-1996,29-Jun-2024,north,P. Amoah,Akua Mensah,Fashion,Cotton T-Shirt,8,147.87,0.0,1182.96
+ORD-1014,12-09-2024,central,R. Ofori,Kwabena Adjei,Home & Kitchen,Table Lamp,9,112.33,0.05,960.42
+ORD-2110,24-Sep-2024,south,M. Ansah,Kwaku Owusu,Home & Kitchen,Non-stick Pan,10,85.89,0.1,773.01
+ORD-2394,11-18-2024,west,S. Addo,Afia Owusu,Beauty,Lip Balm Set,5,233.87,0.1,1052.41
+ORD-1165,2024-01-15,SOUTH,J. Tetteh,Fiifi Danso,Beauty,Lip Balm Set,11,16.14,0.1,159.79
+ORD-2710,08-30-2024,North,R. Ofori,Kojo Darko,Electronics,Power Bank,2,130.98,0.05,248.86
+ORD-2359,08-21-2024,N.,M. Ansah,Esi Owusu,Home & Kitchen,Blender,12,71.17,0.1,768.64
+ORD-1059,15/06/2024,WEST,R. Ofori,Fiifi Mensah,Beauty,Hair Oil,6,124.45,0.0,746.7
+ORD-1709,2024-11-18,Central,M. Ansah,Kwesi Owusu,Beauty,Shea Butter Lotion,6,218.36,0.0,1310.16
+ORD-1676,27-Mar-2024,East,S. Addo,Kwaku Boateng,Beauty,Shea Butter Lotion,8,232.93,0.0,1863.44
+ORD-2378,08/09/2024,WEST,P. Amoah,Kwaku Owusu,Electronics,Smartphone Case,5,226.05,0.0,1130.25
+ORD-1780,04-10-2024,North,S. Addo,Yaa Asante,Fashion,Cotton T-Shirt,12,66.26,0.15,675.85
+ORD-1424,22-Jun-2024,central,M. Ansah,Kwaku Osei,Groceries,Canned Tomatoes,10,171.99,0.0,1719.9
+ORD-1292,2024-08-24,N.,J. Tetteh,Yaa Asante,Groceries,Pasta Pack,3,201.95,0.0,605.85
+ORD-2065,27/04/2024,NORTH,R. Ofori,Adjoa Osei,Groceries,Pasta Pack,4,231.8,0.05,880.84
+ORD-2633,2024-02-28,South,,Kweku Boateng,Groceries,Canned Tomatoes,7,33.4,0.05,222.11
+ORD-1329,2024-12-18,WEST,S. Addo,Efua Boateng,Beauty,Face Wash,7,74.84,0.0,523.88
+ORD-1429,08/09/2024,west,S. Addo,Adwoa Danso,Beauty,Face Wash,9,246.18,0.0,2215.62
+ORD-2012,2024-08-23,N.,P. Amoah,Kwame Osei,Home & Kitchen,Storage Containers,5,25.74,0.15,109.39
+ORD-1079,27/11/2024,N.,J. Tetteh,Esi Osei,Electronics,Bluetooth Speaker,12,127.1,0.0,1525.2
+ORD-2052,11-11-2024,SOUTH,J. Tetteh,Kwaku Darko,Fashion,Leather Wallet,11,93.62,0.0,1029.82
+ORD-1937,11/07/2024,SOUTH,S. Addo,Yaw Owusu,Beauty,Shea Butter Lotion,2,144.68,0.0,289.36
+ORD-1834,01-24-2024,central,S. Addo,Fiifi Mensah,Home & Kitchen,Blender,4,171.09,0.1,615.92
+ORD-1749,18-Oct-2024,Central,S. Addo,Nana Owusu,Electronics,Bluetooth Speaker,4,46.77,0.15,159.02
+ORD-1890,09/07/2024,south,P. Amoah,Kwaku Agyeman,Fashion,Leather Wallet,4,164.31,0.1,591.52
+ORD-1254,2024-10-20,south,J. Tetteh,Yaa Agyeman,Beauty,Hair Oil,9,70.63,0.0,635.67
+ORD-2716,12/10/2024,central,M. Ansah,Kofi Boateng,Fashion,Denim Jeans,3,150.14,0.1,405.38
+ORD-2780,07/11/2024,WEST,R. Ofori,Kojo Agyeman,Beauty,Shampoo 400ml,10,129.59,0.05,1231.11
+ORD-2407,16-Jul-2024,North,P. Amoah,Akosua Danso,Home & Kitchen,Non-stick Pan,2,57.28,0.0,114.56
+ORD-2337,12-Jun-2024,east,S. Addo,Yaa Boateng,Beauty,Hair Oil,10,246.39,0.1,2217.51
+ORD-2108,04-25-2024,N.,P. Amoah,Kojo Appiah,Beauty,Shampoo 400ml,4,159.06,0.0,636.24
+ORD-1136,2024-08-12,central,M. Ansah,Akua Danso,Home & Kitchen,Electric Kettle,11,105.66,0.15,987.92
+ORD-2135,02-16-2024,Central,J. Tetteh,Yaw Appiah,Beauty,Shampoo 400ml,3,199.25,0.0,597.75
+ORD-2218,07-25-2024,East,S. Addo,Adwoa Asante,Home & Kitchen,Blender,5,227.7,0.1,1024.65
+ORD-1852,2024-03-02,N.,J. Tetteh,Kweku Appiah,Groceries,Sugar 1kg,8,25.25,0.15,171.7
+ORD-2202,2024-09-06,East,R. Ofori,Akosua Darko,Home & Kitchen,Blender,1,208.76,0.1,187.88
+ORD-1723,06-Mar-2024,west,P. Amoah,Akua Boateng,Groceries,Canned Tomatoes,3,179.23,0.15,457.04
+ORD-1859,18/09/2024,central,P. Amoah,Efua Danso,Fashion,Sunglasses,11,173.54,0.0,1908.94
+ORD-1969,25-Feb-2024,west,P. Amoah,Kofi Appiah,Groceries,Pasta Pack,10,110.18,0.0,1101.8
+ORD-1496,11-09-2024,East,J. Tetteh,Yaw Boateng,Home & Kitchen,Blender,10,153.37,0.0,1533.7
+ORD-1950,24-Mar-2024,south,P. Amoah,Akua Agyeman,Groceries,Sugar 1kg,11,98.48,0.15,920.79
+ORD-1805,2024-04-22,N.,R. Ofori,Nana Asante,Fashion,Cotton T-Shirt,5,166.2,0.15,706.35
+ORD-1129,13-Jun-2024,WEST,M. Ansah,Kweku Danso,Beauty,Shea Butter Lotion,1,127.83,0.05,121.44
+ORD-1337,04-03-2024,south,P. Amoah,Yaw Adjei,Electronics,USB-C Cable,4,165.34,0.0,661.36
+ORD-2201,19/06/2024,South,S. Addo,Adjoa Osei,Fashion,Sneakers,12,171.03,0.0,2052.36
+ORD-1608,24/11/2024,south,P. Amoah,Fiifi Mensah,Fashion,Cotton T-Shirt,4,147.94,0.0,591.76
+ORD-2148,06-21-2024,west,R. Ofori,Efua Adjei,Electronics,Power Bank,1,192.87,0.1,173.58
+ORD-1195,11-06-2024,East,R. Ofori,Adwoa Boateng,Home & Kitchen,Electric Kettle,9,106.88,0.05,913.82
+ORD-2250,06-07-2024,South,P. Amoah,Esi Asante,Fashion,Cotton T-Shirt,9,190.41,0.0,1713.69
+ORD-2292,28-Nov-2024,north,J. Tetteh,Yaa Owusu,Electronics,Power Bank,11,234.62,0.05,2451.78
+ORD-2797,14-Nov-2024,Central,J. Tetteh,Afia Danso,Beauty,Hair Oil,4,41.14,0.15,139.88
+ORD-1909,2024-12-17,west,,Abena Asante,Home & Kitchen,Non-stick Pan,2,125.5,0.0,251.0
+ORD-1584,07-Feb-2024,South,M. Ansah,Kwabena Darko,Home & Kitchen,Storage Containers,1,148.35,0.05,140.93
+ORD-1103,10/10/2024,NORTH,J. Tetteh,Kwaku Asante,Home & Kitchen,Electric Kettle,4,148.66,0.0,594.64
+ORD-2684,08-14-2024,west,J. Tetteh,Esi Adjei,Beauty,Shampoo 400ml,2,106.36,0.0,212.72
+ORD-2699,30-Dec-2024,North,R. Ofori,Kwesi Darko,Groceries,Pasta Pack,3,247.95,0.0,743.85
+ORD-1719,2024-10-20,central,S. Addo,Esi Osei,Electronics,Wireless Earbuds,4,116.02,0.15,394.47
+ORD-1884,08/11/2024,SOUTH,P. Amoah,Adwoa Owusu,Groceries,Cooking Oil 1L,10,51.22,0.15,435.37
+ORD-1776,03-21-2024,south,P. Amoah,Akosua Darko,Home & Kitchen,Non-stick Pan,2,67.36,0.0,134.72
+ORD-1849,13/12/2024,NORTH,R. Ofori,Yaw Darko,Beauty,Shea Butter Lotion,2,231.87,0.0,463.74
+ORD-1894,01/02/2024,SOUTH,P. Amoah,Abena Mensah,Fashion,Denim Jeans,7,186.48,0.05,1240.09
+ORD-1227,04-26-2024,central,R. Ofori,Kofi Osei,Fashion,Cotton T-Shirt,7,140.49,0.05,934.26
+ORD-2712,2024-08-18,central,M. Ansah,Afia Danso,Electronics,USB-C Cable,11,8.81,0.15,82.37
+ORD-2325,26-Aug-2024,South,R. Ofori,Ama Appiah,Beauty,Shampoo 400ml,7,84.47,0.05,561.73
+ORD-2299,21/06/2024,west,M. Ansah,Ama Asante,Beauty,Hair Oil,9,166.61,0.05,1424.52
+ORD-1126,12-14-2024,SOUTH,R. Ofori,Kwaku Danso,Groceries,Canned Tomatoes,11,216.74,0.0,2384.14
+ORD-1405,23/03/2024,West,P. Amoah,Yaw Danso,Home & Kitchen,Blender,1,159.24,0.1,143.32
+ORD-1775,2024-11-22,WEST,R. Ofori,Kofi Danso,Groceries,Canned Tomatoes,4,55.76,0.05,211.89
+ORD-1821,2024-12-22,south,S. Addo,Kwesi Osei,Fashion,Leather Wallet,7,164.47,0.15,978.6
+ORD-1711,2024-03-28,West,P. Amoah,Fiifi Adjei,Home & Kitchen,Storage Containers,12,70.17,0.05,799.94
+ORD-2719,20-Dec-2024,north,,Kwame Mensah,Home & Kitchen,Electric Kettle,7,118.02,0.0,826.14
+ORD-2060,28/05/2024,west,J. Tetteh,Akua Appiah,Beauty,Shea Butter Lotion,1,228.41,0.0,228.41
+ORD-2163,29-Sep-2024,east,P. Amoah,Fiifi Agyeman,Electronics,Laptop Stand,7,60.15,0.05,400.0
+ORD-1303,27/10/2024,south,M. Ansah,Ama Mensah,Home & Kitchen,Non-stick Pan,9,194.72,0.0,1752.48
+ORD-1267,14/07/2024,North,M. Ansah,Efua Adjei,Electronics,Smartphone Case,11,162.19,0.0,1784.09
+ORD-1545,18-Aug-2024,WEST,P. Amoah,Kwesi Darko,Home & Kitchen,Storage Containers,3,92.05,0.05,262.34
+ORD-1212,26/12/2024,SOUTH,P. Amoah,Adwoa Asante,Electronics,Laptop Stand,4,102.17,0.1,367.81
+ORD-1896,08-21-2024,north,P. Amoah,Kwaku Mensah,Beauty,Shampoo 400ml,4,79.34,0.0,317.36
+ORD-2222,10/04/2024,east,P. Amoah,,Beauty,Shea Butter Lotion,3,58.73,0.0,176.19
+ORD-1916,02/01/2024,WEST,S. Addo,Kojo Asante,Beauty,Shampoo 400ml,1,248.51,0.0,248.51
+ORD-1675,09-May-2024,south,J. Tetteh,Afia Mensah,Fashion,Sunglasses,7,79.11,0.15,470.7
+ORD-2289,09-27-2024,east,P. Amoah,Kojo Asante,Electronics,USB-C Cable,3,141.43,0.1,381.86
+ORD-1814,30/10/2024,South,M. Ansah,Yaw Owusu,Home & Kitchen,Electric Kettle,2,62.9,0.05,119.51
+ORD-2265,13-May-2024,SOUTH,M. Ansah,Adwoa Owusu,Groceries,Sugar 1kg,6,54.15,0.15,276.16
+ORD-1342,2024-01-03,central,R. Ofori,Akosua Osei,Groceries,Canned Tomatoes,12,135.78,0.0,1629.36
+ORD-1549,06-29-2024,west,R. Ofori,Kwaku Appiah,Beauty,Hair Oil,1,75.86,0.15,64.48
+ORD-2410,16/04/2024,East,R. Ofori,Nana Boateng,Electronics,Power Bank,7,81.98,0.0,573.86
+ORD-2214,06-30-2024,West,J. Tetteh,Akosua Darko,Electronics,USB-C Cable,2,236.7,0.05,449.73
+ORD-1966,12/02/2024,East,M. Ansah,Fiifi Boateng,Home & Kitchen,Blender,8,70.56,0.0,564.48
+ORD-2230,2024-10-10,central,R. Ofori,Abena Osei,Home & Kitchen,Non-stick Pan,9,241.74,0.0,2175.66
+ORD-1295,03-29-2024,central,R. Ofori,Kwame Darko,Groceries,Canned Tomatoes,3,57.61,0.0,172.83
+ORD-1695,01-Dec-2024,Central,M. Ansah,Esi Mensah,Electronics,USB-C Cable,7,117.74,0.15,700.55
+ORD-2452,18/08/2024,east,S. Addo,Kweku Darko,Home & Kitchen,Storage Containers,12,204.87,0.15,2089.67
+ORD-1073,2024-04-27,WEST,J. Tetteh,Kofi Mensah,Fashion,Sunglasses,11,249.9,0.0,2748.9
+ORD-1605,13-Jan-2024,east,J. Tetteh,Yaa Adjei,Beauty,Shampoo 400ml,3,233.11,0.05,664.36
+ORD-1104,08/05/2024,SOUTH,P. Amoah,Yaw Boateng,Electronics,Smartphone Case,1,31.93,0.0,31.93
+ORD-1645,11-Jan-2024,N.,S. Addo,Kwesi Darko,Groceries,Pasta Pack,6,149.06,0.05,849.64
+ORD-2404,01/05/2024,SOUTH,S. Addo,Kofi Agyeman,Beauty,Lip Balm Set,10,10.62,0.0,106.2
+ORD-2785,22/12/2024,north,S. Addo,Kwabena Mensah,Electronics,Laptop Stand,3,58.66,0.0,175.98
+ORD-2040,01/05/2024,NORTH,J. Tetteh,Fiifi Darko,Fashion,Denim Jeans,1,27.54,0.0,27.54
+ORD-1439,25/08/2024,east,S. Addo,Nana Danso,Groceries,Rice 5kg,0,217.72,0.0,2394.92
+ORD-2019,25-Aug-2024,N.,J. Tetteh,Nana Darko,Fashion,Leather Wallet,3,204.31,0.0,612.93
+ORD-1091,2024-09-04,WEST,R. Ofori,Abena Asante,Fashion,Sneakers,10,63.12,0.0,631.2
+ORD-2112,06-Dec-2024,East,R. Ofori,Kwesi Osei,Electronics,Bluetooth Speaker,9,85.14,0.0,766.26
+ORD-2600,2024-08-31,north,R. Ofori,Afia Asante,Home & Kitchen,Non-stick Pan,7,63.35,0.05,421.28
+ORD-1908,2024-03-13,North,R. Ofori,Esi Agyeman,Beauty,Face Wash,1,228.48,0.0,228.48
+ORD-2474,16/06/2024,west,S. Addo,Kwame Mensah,Fashion,Sneakers,3,179.39,0.1,484.35
+ORD-1102,05/12/2024,N.,J. Tetteh,Esi Osei,Fashion,Denim Jeans,10,162.22,0.0,1622.2
+ORD-1238,11-20-2024,south,M. Ansah,Akosua Osei,Fashion,Cotton T-Shirt,11,64.3,0.0,707.3
+ORD-2554,2024-10-13,South,P. Amoah,Akosua Darko,Fashion,Denim Jeans,12,104.92,0.0,1259.04
+ORD-1942,2024-07-26,east,S. Addo,Yaw Owusu,Home & Kitchen,Blender,12,78.09,0.05,890.23
+ORD-2270,27/06/2024,Central,J. Tetteh,Abena Adjei,Beauty,Shea Butter Lotion,3,149.58,0.0,448.74
+ORD-1938,2024-08-26,west,P. Amoah,Kweku Osei,Electronics,Smartphone Case,12,26.03,0.0,312.36
+ORD-2547,14/11/2024,Central,M. Ansah,Akosua Agyeman,Groceries,Canned Tomatoes,5,246.06,0.0,1230.3
+ORD-2181,2024-06-17,Central,J. Tetteh,Ama Darko,Home & Kitchen,Non-stick Pan,9,71.51,0.15,547.05
+ORD-2503,10/04/2024,East,M. Ansah,Adjoa Mensah,Home & Kitchen,Electric Kettle,5,53.42,0.05,253.75
+ORD-1005,07/11/2024,East,J. Tetteh,Kwabena Adjei,Fashion,Leather Wallet,4,135.86,0.0,543.44
+ORD-2737,2024-01-10,north,P. Amoah,Adwoa Mensah,Home & Kitchen,Non-stick Pan,7,20.53,0.0,143.71
+ORD-1965,2024-01-16,north,P. Amoah,Esi Asante,Beauty,Face Wash,3,131.91,0.0,395.73
+ORD-1018,07-25-2024,east,J. Tetteh,Ama Owusu,Groceries,Canned Tomatoes,2,201.15,0.0,402.3
+ORD-2430,2024-01-27,central,S. Addo,Fiifi Adjei,Fashion,Sunglasses,8,221.47,0.05,1683.17
+ORD-1121,2024-08-11,SOUTH,J. Tetteh,Kojo Darko,Beauty,Face Wash,2,117.64,0.0,235.28
+ORD-1661,2024-12-05,WEST,J. Tetteh,Kwame Danso,Fashion,Leather Wallet,11,174.22,0.0,1916.42
+ORD-2539,2024-06-08,west,J. Tetteh,Yaw Mensah,Beauty,Face Wash,9,203.09,0.15,1553.64
+ORD-1274,25-Dec-2024,N.,R. Ofori,Kwesi Darko,Beauty,Face Wash,9,25.19,0.1,204.04
+ORD-1433,12-24-2024,east,R. Ofori,Akosua Asante,Home & Kitchen,Storage Containers,7,94.44,0.0,661.08
+ORD-1811,23-Sep-2024,central,J. Tetteh,Kofi Appiah,Fashion,Denim Jeans,5,163.77,0.0,818.85
+ORD-2300,07/12/2024,south,P. Amoah,Kwabena Darko,Electronics,Laptop Stand,12,71.96,0.15,733.99
+ORD-2335,08-Sep-2024,N.,P. Amoah,Fiifi Owusu,Home & Kitchen,Table Lamp,12,152.64,0.0,1831.68
+ORD-2700,19-May-2024,north,J. Tetteh,Efua Osei,Beauty,Lip Balm Set,12,38.05,0.05,433.77
+ORD-2720,2024-03-03,North,R. Ofori,Yaa Osei,Beauty,Lip Balm Set,5,139.2,0.0,696.0
+ORD-1181,06-24-2024,WEST,P. Amoah,Akua Osei,Groceries,Sugar 1kg,12,170.59,0.15,1740.02
+ORD-1184,12-01-2024,south,R. Ofori,,Electronics,Smartphone Case,4,188.1,0.0,752.4
+ORD-1406,2024-11-02,South,R. Ofori,Akua Agyeman,Home & Kitchen,Non-stick Pan,12,220.23,0.15,2246.35
+ORD-1865,03-30-2024,North,J. Tetteh,Nana Owusu,Groceries,Cooking Oil 1L,8,149.26,0.0,1194.08
+ORD-1520,04-16-2024,NORTH,J. Tetteh,Yaa Agyeman,Beauty,Face Wash,6,200.89,0.0,1205.34
+ORD-2003,16/12/2024,WEST,R. Ofori,Esi Mensah,Fashion,Leather Wallet,3,119.25,0.1,321.98
+ORD-1380,24/11/2024,WEST,M. Ansah,Efua Osei,Electronics,Wireless Earbuds,11,239.93,0.0,2639.23
+ORD-2434,22-Apr-2024,North,J. Tetteh,Kofi Osei,Home & Kitchen,Blender,3,229.21,0.15,584.49
+ORD-2393,21/12/2024,east,P. Amoah,Adwoa Darko,Groceries,Pasta Pack,2,119.99,0.15,203.98
+ORD-2424,06/09/2024,west,S. Addo,Efua Mensah,Groceries,Sugar 1kg,4,188.83,0.05,717.55
+ORD-1427,05-03-2024,central,M. Ansah,Adwoa Asante,Home & Kitchen,Electric Kettle,4,55.66,0.0,222.64
+ORD-1078,18/11/2024,East,J. Tetteh,Adwoa Owusu,Fashion,Sneakers,5,178.9,0.1,805.05
+ORD-2009,26-Sep-2024,WEST,M. Ansah,Akosua Owusu,Home & Kitchen,Storage Containers,9,175.06,0.15,1339.21
+ORD-2793,05-26-2024,central,P. Amoah,Ama Adjei,Fashion,Leather Wallet,1,78.62,0.05,74.69
+ORD-1607,2024-03-12,SOUTH,J. Tetteh,Esi Osei,Groceries,Sugar 1kg,7,80.48,0.1,507.02
+ORD-2627,16/12/2024,WEST,S. Addo,Kwaku Osei,Beauty,Lip Balm Set,12,174.86,0.15,1783.57
+ORD-1900,18-Dec-2024,East,J. Tetteh,Yaa Danso,Fashion,Cotton T-Shirt,5,236.69,0.15,1005.93
+ORD-2661,07/05/2024,west,S. Addo,Adwoa Danso,Electronics,USB-C Cable,6,208.57,0.05,1188.85
+ORD-2057,03/11/2024,NORTH,J. Tetteh,Efua Agyeman,Fashion,Cotton T-Shirt,2,90.68,0.1,163.22
+ORD-2440,31-Jul-2024,NORTH,M. Ansah,Nana Darko,Electronics,USB-C Cable,6,244.7,0.0,1468.2
+ORD-2514,14/06/2024,North,J. Tetteh,Kwame Mensah,Electronics,Laptop Stand,11,190.6,0.1,1886.94
+ORD-2091,30/07/2024,WEST,S. Addo,Akua Appiah,Home & Kitchen,Non-stick Pan,4,140.47,0.0,561.88
+ORD-2101,06-Oct-2024,central,R. Ofori,,Electronics,Smartphone Case,11,81.69,0.0,898.59
+ORD-2129,04-17-2024,south,P. Amoah,Kofi Owusu,Beauty,Lip Balm Set,5,58.47,0.0,292.35
+ORD-2235,12/03/2024,East,R. Ofori,,Beauty,Lip Balm Set,3,122.83,0.0,368.49
+ORD-2610,19/12/2024,west,R. Ofori,Adwoa Boateng,Beauty,Lip Balm Set,11,108.65,0.05,1135.39
+ORD-1958,2024-02-17,WEST,M. Ansah,Akua Appiah,Fashion,Sunglasses,1,11.28,0.15,9.59
+ORD-1559,16-Dec-2024,North,J. Tetteh,Esi Agyeman,Electronics,USB-C Cable,12,91.12,0.0,1093.44
+ORD-1846,2024-07-19,N.,R. Ofori,Adwoa Appiah,Fashion,Sneakers,5,134.32,0.0,671.6
+ORD-1690,28-May-2024,SOUTH,J. Tetteh,Kwesi Agyeman,Home & Kitchen,Storage Containers,8,112.15,0.0,897.2
+ORD-2519,07-04-2024,NORTH,J. Tetteh,Efua Appiah,Home & Kitchen,Storage Containers,7,134.86,0.05,896.82
+ORD-2762,18/02/2024,central,P. Amoah,Yaa Adjei,Electronics,Wireless Earbuds,6,247.67,0.1,1337.42
+ORD-2698,30-Sep-2024,south,S. Addo,Efua Agyeman,Electronics,Wireless Earbuds,1,248.38,0.1,223.54
+ORD-1436,25-Jan-2024,central,P. Amoah,Kofi Agyeman,Groceries,Sugar 1kg,3,29.25,0.0,87.75
+ORD-1490,07-Sep-2024,Central,S. Addo,Kwesi Adjei,Electronics,Bluetooth Speaker,1,187.38,0.0,187.38
+ORD-1120,08/08/2024,south,R. Ofori,,Fashion,Leather Wallet,9,36.65,0.15,280.37
+ORD-2674,08-19-2024,Central,S. Addo,Akosua Mensah,Fashion,Sunglasses,8,42.16,0.0,337.28
+ORD-2387,01-Sep-2024,south,R. Ofori,Kwabena Asante,Home & Kitchen,Storage Containers,3,57.46,0.05,163.76
+ORD-1069,2024-03-29,SOUTH,M. Ansah,Kojo Boateng,Home & Kitchen,Non-stick Pan,7,43.35,0.05,288.28
+ORD-2572,10-23-2024,central,M. Ansah,Kwaku Mensah,Fashion,Leather Wallet,7,16.71,0.0,116.97
+ORD-1808,17-Aug-2024,east,P. Amoah,Kwame Danso,Electronics,Smartphone Case,12,130.2,0.0,1562.4
+ORD-2184,04-May-2024,north,M. Ansah,Ama Asante,Beauty,Face Wash,9,118.75,0.0,1068.75
+ORD-1011,11/04/2024,Central,P. Amoah,Abena Agyeman,Beauty,Shea Butter Lotion,3,96.61,0.1,260.85
+ORD-1144,2024-11-01,WEST,R. Ofori,Kojo Owusu,Beauty,Hair Oil,10,159.83,0.0,1598.3
+ORD-1917,03-12-2024,central,S. Addo,Ama Appiah,Home & Kitchen,Blender,9,117.8,0.05,1007.19
+ORD-2541,04/11/2024,south,P. Amoah,Akua Asante,Home & Kitchen,Electric Kettle,8,23.01,0.0,184.08
+ORD-2451,19/07/2024,central,M. Ansah,Ama Appiah,Home & Kitchen,Storage Containers,1,89.55,0.0,89.55
+ORD-1639,11-Jul-2024,North,S. Addo,Nana Osei,Groceries,Rice 5kg,1,117.62,0.0,117.62
+ORD-1176,11-11-2024,Central,R. Ofori,Fiifi Boateng,Fashion,Sunglasses,9,150.46,0.1,1218.73
+ORD-1994,14-Sep-2024,east,M. Ansah,Kwame Owusu,Beauty,Face Wash,12,186.08,0.0,2232.96
+ORD-1440,03-23-2024,WEST,J. Tetteh,Nana Owusu,Beauty,Lip Balm Set,6,60.91,0.15,310.64
+ORD-1521,19-Oct-2024,south,M. Ansah,Nana Agyeman,Electronics,Smartphone Case,2,50.91,0.0,101.82
+ORD-2462,17/06/2024,East,J. Tetteh,Kwame Darko,Beauty,Shampoo 400ml,1,236.91,0.0,236.91
+ORD-2766,10-24-2024,SOUTH,S. Addo,Kwaku Adjei,Home & Kitchen,Electric Kettle,1,216.16,0.0,216.16
+ORD-2004,08-Jan-2024,East,,Abena Owusu,Fashion,Sneakers,5,15.03,0.1,67.63
+ORD-2255,07-17-2024,south,P. Amoah,Kwaku Darko,Home & Kitchen,Table Lamp,6,178.15,0.0,1068.9
+ORD-2234,2024-06-02,WEST,M. Ansah,Kweku Appiah,Groceries,Canned Tomatoes,12,23.34,0.1,252.07
+ORD-1143,27/05/2024,South,J. Tetteh,Kwesi Darko,Beauty,Lip Balm Set,1,78.78,0.0,78.78
+ORD-1753,03-Jan-2024,South,S. Addo,Yaa Osei,Fashion,Sneakers,2,52.68,0.1,94.82
+ORD-1519,20-Jun-2024,West,P. Amoah,Yaw Osei,Home & Kitchen,Storage Containers,7,197.08,0.15,1172.63
+ORD-1048,13-Jul-2024,north,P. Amoah,Kwaku Mensah,Groceries,Canned Tomatoes,6,6.44,0.0,38.64
+ORD-2322,2024-02-03,SOUTH,M. Ansah,Kofi Adjei,Electronics,Laptop Stand,6,20.38,0.15,103.94
+ORD-1822,13-May-2024,South,M. Ansah,Efua Mensah,Groceries,Rice 5kg,3,236.34,0.0,709.02
+ORD-1428,2024-11-10,central,R. Ofori,Esi Owusu,Home & Kitchen,Blender,9,192.24,0.0,1730.16
+ORD-1612,04-Jun-2024,West,M. Ansah,Kojo Boateng,Beauty,Lip Balm Set,9,247.15,0.0,2224.35
+ORD-2505,03-28-2024,West,J. Tetteh,Adwoa Darko,Electronics,Bluetooth Speaker,3,13.61,0.15,34.71
+ORD-2032,2024-06-18,North,P. Amoah,Ama Danso,Groceries,Cooking Oil 1L,5,59.89,0.0,299.45
+ORD-1156,2024-05-07,north,S. Addo,Nana Appiah,Beauty,Face Wash,3,11.35,0.05,32.35
+ORD-1539,11-Nov-2024,north,R. Ofori,Yaa Adjei,Home & Kitchen,Storage Containers,11,52.94,0.0,582.34
+ORD-2530,23/12/2024,Central,P. Amoah,Efua Asante,Home & Kitchen,Blender,5,208.45,0.0,1042.25
+ORD-2460,06-Oct-2024,West,P. Amoah,Kojo Adjei,Groceries,Rice 5kg,12,9.0,0.15,91.8
+ORD-2290,2024-09-30,East,P. Amoah,Kojo Darko,Electronics,Laptop Stand,3,156.55,0.15,399.2
+ORD-1461,14-Jun-2024,east,S. Addo,Akua Agyeman,Home & Kitchen,Table Lamp,10,72.45,0.1,652.05
+ORD-1576,2024-10-24,SOUTH,M. Ansah,Akua Osei,Fashion,Sunglasses,11,37.68,0.1,373.03
+ORD-2362,10-Aug-2024,East,P. Amoah,Kwame Mensah,Home & Kitchen,Storage Containers,12,199.03,0.15,2030.11
+ORD-1255,30/11/2024,Central,J. Tetteh,Kwabena Darko,Groceries,Pasta Pack,1,77.94,0.05,74.04
+ORD-1979,02-23-2024,East,M. Ansah,Ama Mensah,Electronics,Bluetooth Speaker,12,216.04,0.05,2462.86
+ORD-2185,31/08/2024,East,J. Tetteh,Esi Osei,Home & Kitchen,Storage Containers,10,29.47,0.0,294.7
+ORD-2006,2024-08-09,East,M. Ansah,Kofi Boateng,Electronics,Laptop Stand,1,76.25,0.05,72.44
+ORD-2521,16-Nov-2024,East,J. Tetteh,Ama Agyeman,Beauty,Hair Oil,4,17.99,0.0,71.96
+ORD-1560,31/10/2024,East,J. Tetteh,Afia Owusu,Electronics,Wireless Earbuds,11,237.87,0.0,2616.57
+ORD-1208,30/08/2024,west,P. Amoah,Nana Boateng,Home & Kitchen,Non-stick Pan,5,213.09,0.15,905.63
+ORD-1910,2024-07-03,NORTH,J. Tetteh,Afia Appiah,Fashion,Cotton T-Shirt,10,224.42,0.0,2244.2
+ORD-2311,01-21-2024,SOUTH,S. Addo,Kweku Darko,Fashion,Leather Wallet,11,188.75,0.05,1972.44
+ORD-1001,11-Apr-2024,north,P. Amoah,Afia Mensah,Home & Kitchen,Table Lamp,10,59.01,0.0,590.1
+ORD-2365,02-14-2024,SOUTH,R. Ofori,,Groceries,Pasta Pack,6,221.77,0.0,1330.62
+ORD-1269,07-15-2024,West,P. Amoah,Yaw Owusu,Electronics,Wireless Earbuds,6,241.0,0.0,1446.0
+ORD-1265,01/01/2024,N.,J. Tetteh,Akosua Owusu,Fashion,Denim Jeans,3,121.82,0.1,328.91
+ORD-1914,11-21-2024,east,P. Amoah,Adwoa Darko,Groceries,Canned Tomatoes,11,38.86,0.0,427.46
+ORD-1230,19-Sep-2024,South,P. Amoah,Kweku Agyeman,Home & Kitchen,Storage Containers,0,30.31,0.0,60.62
+ORD-2796,12-01-2024,East,S. Addo,Akosua Boateng,Fashion,Denim Jeans,3,70.31,0.0,210.93
+ORD-2119,2024-03-08,North,M. Ansah,Afia Boateng,Fashion,Cotton T-Shirt,2,107.8,0.0,215.6
+ORD-2791,2024-09-06,South,R. Ofori,Kwabena Owusu,Beauty,Shea Butter Lotion,6,127.77,0.05,728.29
+ORD-1864,19/05/2024,N.,S. Addo,Kojo Appiah,Electronics,Smartphone Case,4,217.87,0.0,871.48
+ORD-2066,2024-03-01,Central,S. Addo,Abena Appiah,Beauty,Face Wash,9,105.08,0.0,945.72
+ORD-1873,27-Jan-2024,South,S. Addo,Yaw Agyeman,Electronics,Smartphone Case,3,126.4,0.0,379.2
+ORD-2637,12-06-2024,N.,P. Amoah,Fiifi Mensah,Beauty,Shampoo 400ml,3,245.59,0.1,663.09
+ORD-1398,20/09/2024,west,M. Ansah,Adjoa Danso,Beauty,Shea Butter Lotion,3,114.32,0.1,308.66
+ORD-2664,2024-02-18,North,S. Addo,Akua Mensah,Groceries,Rice 5kg,11,62.63,0.15,585.59
+ORD-1045,12/05/2024,central,R. Ofori,Akua Osei,Beauty,Hair Oil,5,210.77,0.1,948.47
+ORD-1161,07/02/2024,east,P. Amoah,Akosua Darko,Groceries,Pasta Pack,11,243.23,0.0,2675.53
+ORD-1991,28-Sep-2024,south,S. Addo,Akua Danso,Home & Kitchen,Storage Containers,2,132.06,0.15,224.5
+ORD-1727,2024-02-04,South,S. Addo,Esi Agyeman,Groceries,Rice 5kg,10,107.31,0.0,1073.1
+ORD-1629,04-02-2024,central,J. Tetteh,Akua Osei,Fashion,Sunglasses,7,245.42,0.0,1717.94
+ORD-1288,19/05/2024,east,R. Ofori,Fiifi Appiah,Fashion,Sneakers,4,23.3,0.0,93.2
+ORD-2613,16/02/2024,NORTH,J. Tetteh,Ama Darko,Beauty,Shea Butter Lotion,8,106.77,0.0,854.16
+ORD-2059,07-03-2024,N.,P. Amoah,Kwame Appiah,Fashion,Denim Jeans,11,243.9,0.0,2682.9
+ORD-2777,2024-08-10,central,J. Tetteh,Efua Danso,Electronics,Laptop Stand,9,194.34,0.05,1661.61
+ORD-1575,2024-06-20,Central,M. Ansah,Ama Danso,Fashion,Denim Jeans,3,34.58,0.05,98.55
+ORD-1850,10/08/2024,West,P. Amoah,Kwesi Appiah,Electronics,Wireless Earbuds,7,158.61,0.0,1110.27
+ORD-2339,03-14-2024,south,M. Ansah,Abena Adjei,Groceries,Rice 5kg,11,11.19,0.15,104.63
+ORD-1911,03-17-2024,south,R. Ofori,Afia Boateng,Beauty,Face Wash,5,158.07,0.0,790.35
+ORD-2254,04-Sep-2024,South,P. Amoah,Adjoa Mensah,Electronics,Smartphone Case,9,106.56,0.1,863.14
+ORD-2657,10-15-2024,NORTH,J. Tetteh,Yaa Agyeman,Beauty,Shampoo 400ml,6,145.67,0.0,874.02
+ORD-1932,17-Oct-2024,West,M. Ansah,Afia Owusu,Home & Kitchen,Table Lamp,1,28.86,0.0,28.86
+ORD-2100,21/06/2024,Central,S. Addo,Kofi Darko,Electronics,USB-C Cable,12,13.94,0.1,150.55
+ORD-2207,10-26-2024,north,M. Ansah,Yaw Adjei,Fashion,Sneakers,11,135.43,0.15,1266.27
+ORD-1247,07-06-2024,south,,Esi Agyeman,Electronics,Power Bank,2,53.28,0.0,106.56
+ORD-1476,10-31-2024,NORTH,J. Tetteh,Adwoa Danso,Groceries,Cooking Oil 1L,10,14.16,0.05,134.52
+ORD-1085,15-Nov-2024,south,S. Addo,Adwoa Adjei,Home & Kitchen,Blender,6,164.21,0.15,837.47
+ORD-1469,12-Oct-2024,West,M. Ansah,Adjoa Danso,Home & Kitchen,Table Lamp,11,187.8,0.1,1859.22
+ORD-1225,15/10/2024,SOUTH,M. Ansah,Kojo Adjei,Home & Kitchen,Storage Containers,7,143.84,0.15,855.85
+ORD-1774,25/08/2024,SOUTH,P. Amoah,Efua Osei,Groceries,Pasta Pack,6,83.85,0.1,452.79
+ORD-1331,11-07-2024,West,S. Addo,Kwame Asante,Home & Kitchen,Table Lamp,12,179.62,0.15,1832.12
+ORD-1233,02-09-2024,north,R. Ofori,Akosua Adjei,Groceries,Sugar 1kg,4,66.67,0.15,226.68
+ORD-1588,08-24-2024,N.,R. Ofori,Kwabena Danso,Beauty,Hair Oil,7,8.55,0.15,50.87
+ORD-1475,2024-06-02,south,S. Addo,Adjoa Asante,Fashion,Sunglasses,10,144.77,0.0,1447.7
+ORD-2284,2024-02-25,west,S. Addo,Abena Danso,Beauty,Face Wash,4,101.75,0.0,407.0
+ORD-1599,18/03/2024,North,R. Ofori,Esi Boateng,Home & Kitchen,Non-stick Pan,11,132.57,0.0,1458.27
+ORD-1421,2024-01-08,west,P. Amoah,Kwaku Asante,Groceries,Canned Tomatoes,9,230.2,0.0,2071.8
+ORD-1182,04-25-2024,east,S. Addo,Kofi Agyeman,Home & Kitchen,Electric Kettle,12,193.94,0.0,2327.28
+ORD-1988,23/08/2024,north,J. Tetteh,Esi Asante,Groceries,Rice 5kg,0,70.36,0.15,478.45
+ORD-2000,03/07/2024,south,R. Ofori,Adjoa Danso,Groceries,Rice 5kg,4,187.37,0.05,712.01
+ORD-2641,2024-09-03,NORTH,M. Ansah,Yaw Mensah,Electronics,Laptop Stand,6,108.5,0.1,585.9
+ORD-2356,2024-01-26,South,P. Amoah,Kwame Mensah,Beauty,Shea Butter Lotion,1,236.96,0.0,236.96
+ORD-2462,17/06/2024,East,J. Tetteh,Kwame Darko,Beauty,Shampoo 400ml,1,236.91,0.0,236.91
+ORD-1049,04-22-2024,west,R. Ofori,Afia Asante,Beauty,Lip Balm Set,1,111.78,0.05,106.19
+ORD-2707,13/07/2024,south,P. Amoah,Kwabena Agyeman,Home & Kitchen,Blender,8,205.81,0.0,1646.48
+ORD-2029,2024-03-12,South,J. Tetteh,Esi Asante,Beauty,Shea Butter Lotion,7,93.09,0.1,586.47
+ORD-1529,03-Oct-2024,East,,Abena Danso,Home & Kitchen,Blender,1,17.43,0.05,16.56
+ORD-2258,12-Nov-2024,Central,R. Ofori,Kwaku Mensah,Groceries,Sugar 1kg,7,126.8,0.0,887.6
+ORD-1486,14/11/2024,South,R. Ofori,Kofi Agyeman,Beauty,Lip Balm Set,11,175.29,0.0,1928.19
+ORD-2775,23/03/2024,Central,S. Addo,Esi Owusu,Electronics,USB-C Cable,9,179.86,0.0,1618.74
+ORD-1497,09-Mar-2024,Central,R. Ofori,Efua Owusu,Home & Kitchen,Blender,6,179.44,0.0,1076.64
+ORD-2646,2024-09-02,east,S. Addo,Akua Asante,Fashion,Sneakers,5,38.53,0.05,183.02
+ORD-1106,25-Feb-2024,North,P. Amoah,Efua Agyeman,Groceries,Canned Tomatoes,10,128.44,0.0,1284.4
+ORD-1443,12/11/2024,North,S. Addo,Kojo Owusu,Groceries,Pasta Pack,7,25.66,0.0,179.62
+ORD-2512,2024-04-22,South,M. Ansah,Adwoa Asante,Electronics,USB-C Cable,10,131.9,0.05,1253.05
+ORD-1646,19/12/2024,central,J. Tetteh,Esi Osei,Fashion,Sunglasses,9,87.31,0.15,667.92
+ORD-2036,06-Feb-2024,south,S. Addo,Afia Mensah,Electronics,Power Bank,10,151.55,0.0,1515.5
+ORD-1726,2024-08-03,east,P. Amoah,Yaw Boateng,Groceries,Rice 5kg,5,234.52,0.0,1172.6
+ORD-1190,02-27-2024,central,M. Ansah,Kweku Adjei,Home & Kitchen,Table Lamp,8,44.81,0.15,304.71
+ORD-1282,24-Jan-2024,East,P. Amoah,Akua Asante,Beauty,Shea Butter Lotion,8,21.89,0.0,175.12
+ORD-1029,17-Feb-2024,East,J. Tetteh,Adwoa Adjei,Fashion,Sunglasses,1,208.19,0.0,208.19
+ORD-1169,15-Jul-2024,east,S. Addo,Esi Mensah,Home & Kitchen,Electric Kettle,3,65.83,0.0,197.49
+ORD-2001,12-13-2024,NORTH,S. Addo,Kwesi Boateng,Beauty,Hair Oil,7,222.56,0.1,1402.13
+ORD-2204,2024-03-22,North,P. Amoah,Yaa Owusu,Beauty,Shea Butter Lotion,8,145.61,0.1,1048.39
+ORD-1100,11-Nov-2024,central,R. Ofori,Akosua Owusu,Beauty,Shampoo 400ml,5,235.07,0.0,1175.35
+ORD-1197,23-Sep-2024,north,S. Addo,Yaw Boateng,Beauty,Lip Balm Set,4,33.48,0.15,113.83
+ORD-1495,07-29-2024,north,,Kwame Appiah,Fashion,Denim Jeans,11,113.54,0.15,1061.6
+ORD-1647,2024-09-11,East,M. Ansah,Efua Darko,Beauty,Face Wash,9,210.89,0.0,1898.01
+ORD-1987,12-17-2024,south,M. Ansah,Kofi Darko,Home & Kitchen,Blender,10,238.12,0.15,2024.02
+ORD-1044,08-25-2024,West,M. Ansah,Esi Osei,Beauty,Shampoo 400ml,8,237.76,0.1,1711.87
+ORD-2759,01-26-2024,WEST,P. Amoah,Kweku Danso,Home & Kitchen,Electric Kettle,10,178.53,0.15,1517.5
+ORD-1710,20/06/2024,east,S. Addo,Esi Boateng,Beauty,Hair Oil,4,35.13,0.05,133.49
+ORD-1373,2024-12-20,Central,S. Addo,Adjoa Agyeman,Beauty,Hair Oil,7,231.99,0.05,1542.73
+ORD-1678,09-Jun-2024,east,P. Amoah,Afia Adjei,Fashion,Leather Wallet,6,223.7,0.15,1140.87
+ORD-1566,02-Jan-2024,N.,P. Amoah,Fiifi Darko,Fashion,Denim Jeans,7,122.14,0.15,726.73
+ORD-2672,04-24-2024,Central,P. Amoah,,Home & Kitchen,Storage Containers,6,182.1,0.0,1092.6
+ORD-1847,2024-10-24,SOUTH,S. Addo,Esi Boateng,Beauty,Hair Oil,12,213.2,0.0,2558.4
+ORD-1460,2024-05-08,east,M. Ansah,Nana Appiah,Home & Kitchen,Blender,8,123.9,0.1,892.08
+ORD-2437,12-Sep-2024,N.,S. Addo,Fiifi Agyeman,Groceries,Sugar 1kg,10,17.57,0.0,175.7
+ORD-2155,02/12/2024,east,R. Ofori,Kwabena Mensah,Electronics,USB-C Cable,8,72.32,0.1,520.7
+ORD-1039,10-18-2024,Central,P. Amoah,Nana Boateng,Home & Kitchen,Storage Containers,1,104.49,0.0,104.49
+ORD-1434,18/05/2024,West,J. Tetteh,Kwaku Asante,Beauty,Shampoo 400ml,7,141.06,0.0,987.42
+ORD-1973,04/11/2024,central,S. Addo,Kojo Darko,Home & Kitchen,Table Lamp,2,134.18,0.1,241.52
+ORD-2239,07-14-2024,central,J. Tetteh,Fiifi Adjei,Home & Kitchen,Blender,8,32.65,0.05,248.14
+ORD-2007,06-03-2024,East,S. Addo,Nana Owusu,Groceries,Canned Tomatoes,7,47.46,0.15,282.39
+ORD-2579,13/02/2024,South,M. Ansah,Nana Agyeman,Fashion,Cotton T-Shirt,11,49.21,0.0,541.31
+ORD-2590,2024-01-20,east,P. Amoah,Fiifi Osei,Groceries,Pasta Pack,3,169.89,0.0,509.67
+ORD-2498,04-21-2024,North,M. Ansah,Yaw Asante,Beauty,Hair Oil,5,28.73,0.0,143.65
+ORD-1456,09-May-2024,East,J. Tetteh,Yaa Agyeman,Electronics,Laptop Stand,4,161.44,0.0,645.76
+ORD-1260,09-20-2024,east,R. Ofori,Kojo Owusu,Groceries,Canned Tomatoes,6,175.2,0.05,998.64
+ORD-1035,12-13-2024,east,R. Ofori,Efua Agyeman,Electronics,Smartphone Case,2,235.11,0.0,470.22
+ORD-1827,26-Feb-2024,East,P. Amoah,Adwoa Boateng,Home & Kitchen,Electric Kettle,4,143.94,0.0,575.76
+ORD-1309,07-12-2024,N.,R. Ofori,Akua Darko,Groceries,Canned Tomatoes,2,138.78,0.05,263.68
+ORD-1276,2024-08-10,NORTH,J. Tetteh,Ama Asante,Groceries,Cooking Oil 1L,10,116.08,0.0,1160.8
+ORD-1636,28/04/2024,south,R. Ofori,Kofi Osei,Electronics,Wireless Earbuds,12,12.28,0.0,147.36
+ORD-1654,15/01/2024,Central,M. Ansah,Esi Boateng,Groceries,Cooking Oil 1L,5,200.28,0.05,951.33
+ORD-1622,09-Jan-2024,Central,M. Ansah,Kojo Owusu,Groceries,Canned Tomatoes,12,90.31,0.0,1083.72
+ORD-1844,01/09/2024,NORTH,P. Amoah,Esi Adjei,Fashion,Sunglasses,12,126.28,0.05,1439.59
+ORD-1393,2024-03-27,East,R. Ofori,Efua Appiah,Beauty,Lip Balm Set,4,81.74,0.15,277.92
+ORD-1107,2024-08-06,central,R. Ofori,Ama Osei,Groceries,Rice 5kg,8,125.12,0.0,1000.96
+ORD-1349,07/11/2024,Central,M. Ansah,Esi Osei,Fashion,Cotton T-Shirt,9,195.6,0.0,1760.4
+ORD-1524,2024-03-14,South,S. Addo,Kwesi Adjei,Fashion,Sneakers,9,206.42,0.15,1579.11
+ORD-1784,09-12-2024,NORTH,J. Tetteh,Yaw Adjei,Home & Kitchen,Table Lamp,7,88.26,0.05,586.93
+ORD-1047,31-Jul-2024,South,J. Tetteh,Yaw Asante,Home & Kitchen,Storage Containers,8,86.07,0.05,654.13
+ORD-1203,03-20-2024,WEST,S. Addo,Adjoa Osei,Groceries,Cooking Oil 1L,12,51.18,0.0,614.16
+ORD-1108,11-15-2024,NORTH,S. Addo,Kojo Boateng,Beauty,Shampoo 400ml,10,98.32,0.1,884.88
+ORD-2655,16-May-2024,Central,J. Tetteh,Kwame Mensah,Home & Kitchen,Storage Containers,2,106.63,0.0,213.26
+ORD-1021,08-20-2024,West,S. Addo,Kwame Darko,Home & Kitchen,Storage Containers,12,108.64,0.1,1173.31
+ORD-1402,25-Jun-2024,central,S. Addo,Kwesi Darko,Groceries,Cooking Oil 1L,10,199.2,0.0,1992.0
+ORD-2107,2024-12-21,south,M. Ansah,Abena Asante,Electronics,Wireless Earbuds,6,136.74,0.0,820.44
+ORD-2154,2024-09-13,central,S. Addo,Kofi Boateng,Home & Kitchen,Storage Containers,3,153.13,0.15,390.48
+ORD-2439,2024-06-02,central,S. Addo,Akosua Danso,Groceries,Canned Tomatoes,10,64.41,0.05,611.89
+ORD-1989,30-Jun-2024,central,J. Tetteh,Esi Agyeman,Fashion,Leather Wallet,7,56.96,0.1,358.85
+ORD-1741,19/11/2024,N.,S. Addo,Kofi Darko,Fashion,Sunglasses,9,148.36,0.0,1335.24
+ORD-2721,05-28-2024,east,P. Amoah,Ama Asante,Electronics,Smartphone Case,11,164.22,0.0,1806.42
+ORD-2310,13-Jan-2024,south,P. Amoah,Kwesi Adjei,Fashion,Denim Jeans,3,83.05,0.0,249.15
+ORD-2147,25-Jan-2024,central,R. Ofori,Afia Osei,Home & Kitchen,Table Lamp,2,74.02,0.05,140.64
+ORD-1033,16/05/2024,south,M. Ansah,Fiifi Darko,Electronics,Bluetooth Speaker,2,197.91,0.05,376.03
+ORD-1787,2024-03-31,WEST,P. Amoah,Akua Owusu,Fashion,Cotton T-Shirt,10,207.49,0.05,1971.15
+ORD-2540,22-Jul-2024,central,M. Ansah,Abena Asante,Electronics,Power Bank,1,89.02,0.1,80.12
+ORD-1923,2024-11-12,East,R. Ofori,Yaw Asante,Beauty,Hair Oil,3,58.63,0.15,149.51
+ORD-2043,22-Apr-2024,North,S. Addo,Kwabena Osei,Fashion,Sunglasses,6,179.72,0.1,970.49
+ORD-2756,2024-01-01,central,M. Ansah,Kofi Owusu,Home & Kitchen,Non-stick Pan,3,168.38,0.05,479.88
+ORD-2243,22-Sep-2024,N.,P. Amoah,Kwaku Darko,Beauty,Lip Balm Set,2,15.31,0.1,27.56
+ORD-1579,2024-08-02,north,S. Addo,Kojo Adjei,Groceries,Pasta Pack,4,141.64,0.0,566.56
+ORD-1481,29/11/2024,South,R. Ofori,Kwabena Osei,Groceries,Pasta Pack,12,142.49,0.1,1538.89
+ORD-1931,15-Nov-2024,central,S. Addo,Fiifi Adjei,Groceries,Cooking Oil 1L,12,14.8,0.15,150.96
+ORD-1356,16/12/2024,West,J. Tetteh,Efua Danso,Beauty,Hair Oil,8,123.35,0.0,986.8
+ORD-2685,11/11/2024,East,R. Ofori,Kofi Agyeman,Groceries,Canned Tomatoes,10,176.23,0.05,1674.18
+ORD-2248,06-11-2024,West,M. Ansah,Afia Agyeman,Fashion,Leather Wallet,12,29.82,0.0,357.84
+ORD-1759,2024-11-13,Central,P. Amoah,Kweku Darko,Groceries,Canned Tomatoes,11,88.21,0.0,970.31
+ORD-1092,2024-10-16,central,J. Tetteh,Nana Adjei,Fashion,Cotton T-Shirt,12,228.1,0.05,2600.34
+ORD-2175,2024-05-27,east,P. Amoah,Yaw Boateng,Beauty,Shea Butter Lotion,6,59.15,0.1,319.41
+ORD-2415,30/05/2024,NORTH,M. Ansah,Kofi Osei,Electronics,Power Bank,5,215.33,0.0,1076.65
+ORD-2341,24/03/2024,east,S. Addo,Afia Osei,Fashion,Denim Jeans,1,84.09,0.0,84.09
+ORD-2472,01-Oct-2024,East,S. Addo,Fiifi Asante,Beauty,Shea Butter Lotion,2,76.9,0.0,153.8
+ORD-1803,2024-07-31,north,J. Tetteh,,Electronics,Laptop Stand,6,204.83,0.1,1106.08
+ORD-1745,22-Dec-2024,N.,P. Amoah,Akua Darko,Electronics,Wireless Earbuds,9,191.8,0.0,1726.2
+ORD-2546,27-Jan-2024,South,S. Addo,Kofi Appiah,Home & Kitchen,Electric Kettle,3,129.72,0.05,369.7
+ORD-1279,12/09/2024,Central,J. Tetteh,Kwesi Appiah,Groceries,Canned Tomatoes,5,95.08,0.0,475.4
+ORD-2607,09/07/2024,north,S. Addo,Ama Boateng,Electronics,Wireless Earbuds,4,148.65,0.0,594.6
+ORD-1764,06-Apr-2024,west,S. Addo,Kwabena Owusu,Home & Kitchen,Electric Kettle,8,175.22,0.1,1261.58
+ORD-1604,2024-12-28,south,P. Amoah,Akua Asante,Fashion,Leather Wallet,6,168.06,0.0,1008.36
+ORD-2048,2024-09-29,West,R. Ofori,Nana Boateng,Home & Kitchen,Electric Kettle,1,166.8,0.1,150.12
+ORD-2373,09-12-2024,central,J. Tetteh,Ama Osei,Beauty,Lip Balm Set,5,91.12,0.15,387.26
+ORD-2398,18-May-2024,East,R. Ofori,Adjoa Darko,Groceries,Sugar 1kg,3,136.67,0.0,410.01
+ORD-1400,01-21-2024,SOUTH,J. Tetteh,Adwoa Osei,Fashion,Sneakers,9,30.29,0.15,231.72
+ORD-2728,27/09/2024,central,J. Tetteh,Afia Osei,Home & Kitchen,Storage Containers,9,137.28,0.1,1111.97
+ORD-1257,10-18-2024,West,J. Tetteh,Kwabena Asante,Beauty,Shampoo 400ml,10,135.41,0.1,1218.69
+ORD-1944,22-Dec-2024,south,M. Ansah,Adwoa Agyeman,Groceries,Canned Tomatoes,12,91.9,0.1,992.52
+ORD-2096,10-14-2024,west,R. Ofori,Kojo Asante,Fashion,Sneakers,12,123.42,0.1,1332.94
+ORD-2219,14-Mar-2024,East,J. Tetteh,Kwame Osei,Electronics,Smartphone Case,7,16.39,0.1,103.26
+ORD-2507,20-Apr-2024,east,P. Amoah,Afia Agyeman,Groceries,Cooking Oil 1L,10,109.1,0.05,1036.45
+ORD-2161,2024-11-06,central,R. Ofori,Yaa Boateng,Home & Kitchen,Storage Containers,4,28.76,0.0,115.04
+ORD-1494,03-21-2024,south,P. Amoah,Akosua Boateng,Beauty,Shampoo 400ml,9,21.61,0.15,165.32
+ORD-1772,10-01-2024,WEST,M. Ansah,Afia Danso,Home & Kitchen,Blender,6,198.45,0.0,1190.7
+ORD-1550,2024-03-27,central,P. Amoah,Ama Osei,Beauty,Face Wash,5,165.8,0.15,704.65
+ORD-2486,15/08/2024,NORTH,S. Addo,Nana Agyeman,Fashion,Sneakers,3,215.15,0.0,645.45
+ORD-1201,15/12/2024,west,J. Tetteh,Nana Darko,Groceries,Canned Tomatoes,6,165.12,0.0,990.72
+ORD-1312,15/04/2024,SOUTH,S. Addo,Ama Owusu,Groceries,Cooking Oil 1L,9,105.27,0.15,805.32
+ORD-1290,12-17-2024,west,M. Ansah,Esi Owusu,Groceries,Sugar 1kg,12,207.46,0.1,2240.57
+ORD-2213,09-16-2024,central,J. Tetteh,Kwabena Asante,Fashion,Sneakers,9,122.1,0.0,1098.9
+ORD-1763,30/01/2024,east,M. Ansah,Kwesi Danso,Fashion,Cotton T-Shirt,9,129.24,0.0,1163.16
+ORD-2136,03-29-2024,west,M. Ansah,Kwame Boateng,Home & Kitchen,Storage Containers,3,80.34,0.0,241.02
+ORD-1949,04-Oct-2024,N.,S. Addo,Akosua Appiah,Groceries,Canned Tomatoes,6,133.18,0.0,799.08
+ORD-1183,03-Mar-2024,west,S. Addo,Yaa Adjei,Groceries,Sugar 1kg,7,224.46,0.0,1571.22
+ORD-2176,08-13-2024,east,R. Ofori,Kwaku Adjei,Fashion,Denim Jeans,12,42.84,0.0,514.08
+ORD-2349,16/04/2024,WEST,J. Tetteh,Kwabena Danso,Electronics,Wireless Earbuds,1,147.77,0.0,147.77
+ORD-2727,07/10/2024,Central,R. Ofori,Kwabena Darko,Fashion,Sunglasses,3,77.08,0.05,219.68
+ORD-2068,19/12/2024,WEST,J. Tetteh,Ama Darko,Electronics,Bluetooth Speaker,3,247.53,0.1,668.33
+ORD-2468,18/04/2024,NORTH,R. Ofori,Esi Agyeman,Groceries,Canned Tomatoes,11,51.59,0.05,539.12
+ORD-2030,16-Apr-2024,Central,M. Ansah,Kwesi Osei,Fashion,Denim Jeans,6,127.71,0.1,689.63
+ORD-1250,21-Oct-2024,East,M. Ansah,Akosua Danso,Beauty,Hair Oil,8,108.64,0.15,738.75
+ORD-1823,25-Nov-2024,SOUTH,J. Tetteh,Kwame Owusu,Beauty,Shampoo 400ml,10,102.43,0.0,1024.3
+ORD-2099,13-Mar-2024,north,J. Tetteh,Kwaku Asante,Home & Kitchen,Storage Containers,8,156.04,0.1,1123.49
+ORD-2536,06/01/2024,N.,J. Tetteh,Yaa Agyeman,Beauty,Hair Oil,1,56.13,0.0,56.13
+ORD-1940,15/03/2024,NORTH,R. Ofori,Yaa Boateng,Groceries,Rice 5kg,1,83.45,0.1,75.11
+ORD-1391,20/02/2024,central,S. Addo,Abena Owusu,Beauty,Shea Butter Lotion,8,182.77,0.0,1462.16
+ORD-2456,09/11/2024,central,P. Amoah,Kwesi Danso,Beauty,Hair Oil,12,111.56,0.0,1338.72
+ORD-2092,22/01/2024,North,R. Ofori,Kwesi Darko,Beauty,Shea Butter Lotion,1,74.36,0.0,74.36
+ORD-2191,19/10/2024,central,M. Ansah,Abena Danso,Electronics,Laptop Stand,4,84.32,0.05,320.42
+ORD-1904,26/09/2024,South,J. Tetteh,Kweku Darko,Groceries,Cooking Oil 1L,1,183.06,0.1,164.75
+ORD-1730,11-18-2024,N.,P. Amoah,Akua Mensah,Fashion,Cotton T-Shirt,2,142.46,0.15,242.18
+ORD-1554,2024-06-25,west,,Akua Asante,Home & Kitchen,Storage Containers,2,162.35,0.0,324.7
+ORD-1366,2024-01-03,N.,R. Ofori,Kwesi Boateng,Groceries,Pasta Pack,7,140.54,0.1,885.4
+ORD-1345,26/04/2024,east,J. Tetteh,Akua Darko,Fashion,Denim Jeans,3,183.16,0.0,549.48
+ORD-2608,01-03-2024,South,M. Ansah,Fiifi Owusu,Electronics,Smartphone Case,1,88.28,0.1,79.45
+ORD-1535,22-Mar-2024,WEST,P. Amoah,Afia Asante,Groceries,Cooking Oil 1L,6,99.04,0.0,594.24
+ORD-2422,30-Jun-2024,WEST,P. Amoah,Kwesi Osei,Beauty,Hair Oil,9,189.15,0.05,1617.23
+ORD-2209,10/06/2024,Central,S. Addo,Efua Owusu,Home & Kitchen,Table Lamp,4,166.25,0.0,665.0
+ORD-2372,07-17-2024,west,S. Addo,Afia Adjei,Groceries,Rice 5kg,7,56.07,0.1,353.24
+ORD-2639,2024-09-11,north,P. Amoah,Efua Boateng,Beauty,Lip Balm Set,4,195.21,0.05,741.8
+ORD-1919,16/01/2024,North,M. Ansah,Adwoa Danso,Beauty,Shea Butter Lotion,2,94.48,0.0,188.96
+ORD-1211,04-16-2024,North,R. Ofori,Yaa Asante,Home & Kitchen,Table Lamp,1,79.28,0.0,79.28
+ORD-2603,10-12-2024,NORTH,P. Amoah,Adjoa Agyeman,Fashion,Denim Jeans,3,103.54,0.0,310.62
+ORD-1502,28/01/2024,east,P. Amoah,Akosua Adjei,Groceries,Cooking Oil 1L,11,118.58,0.05,1239.16
+ORD-1537,19-Feb-2024,West,P. Amoah,Kweku Appiah,Beauty,Lip Balm Set,7,48.16,0.0,337.12
+ORD-2220,17-Feb-2024,Central,M. Ansah,Kwame Appiah,Home & Kitchen,Blender,2,247.11,0.05,469.51
+ORD-1175,19-Jun-2024,central,M. Ansah,Ama Mensah,Beauty,Shea Butter Lotion,3,132.24,0.1,357.05
